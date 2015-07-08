@@ -1,0 +1,169 @@
+header {
+	background: #eee;
+	width: 100%;
+
+	section#mobile-header {
+		section#mobile-contact {
+			background: #333;
+
+			.row {
+				border-bottom: 3px solid #5EBDDF;
+				text-align: center;
+				
+				a p {
+					color: #fff;
+					text-shadow: 1px 1px 0px #000;
+					margin: 0;
+					text-decoration: underline;
+				}
+			}
+		}
+		
+		.row {
+			border-bottom: 3px solid #5EBDDF;
+			text-align: center;
+
+			img {
+				max-height: 100px;
+				margin-top: 20px;
+				margin-bottom: 10px;
+			}
+		}
+	}
+
+	section#mini-header {
+		@media #{$small-only} {
+			height: 55px;
+		}
+		@media #{$medium-up} {
+			height: 28px;
+		}
+		width: 100%;
+		background: #333;
+
+		.row {
+			height: 28px;
+
+			p.phone,
+			p.address,
+			a p {
+				font-size: 15px;
+				color: #eee;
+				margin-bottom: 0;
+				line-height: 28px;
+			}
+			
+			a p.address {
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+			
+			@media #{$small-only} {
+				p.phone,
+				p.address {
+					text-align: center;
+				}
+			}
+
+			@media #{$medium-up} {
+				p.phone {
+					text-align: left;
+				}
+
+				p.address {
+					text-align: right;
+				}
+			}
+		}
+		
+	}
+
+	section#main-header {
+
+		.row {
+			height: 170px;
+
+			@media #{$large-up} {
+				height: 120px;
+			}
+			
+			@media #{$small-only} {
+				text-align: center;
+			}
+
+			@media #{$medium-only} {
+				text-align: center;
+			}
+
+			img {
+				width: auto;
+				height: auto;
+				max-height: 100px;
+				margin: 10px auto;
+			}
+
+			nav {
+				text-align: center;
+
+				ul {
+					display: inline-block;
+					list-style: none;
+					padding: 0;
+					overflow: hidden;
+					margin: 0;
+
+					@media #{$large-up} {
+						margin-top: 40px;
+						position: absolute;
+						right: 0;
+						padding-right: 15px;
+					}
+
+					li {
+						float: left;
+
+						.active {
+							text-decoration: underline;
+						}
+						
+						a {
+							text-align: center;
+							display: block;
+							font-size: 25px;
+							color: #222;
+							width: 120px;
+
+							@media #{$medium-up} {
+								&:hover {
+									text-decoration: underline;
+								}
+							}
+						}
+
+						a.home {
+							width: 90px;
+						}
+
+						a.menu {
+							width: 180px;
+							margin-right: 15px;
+						}
+
+						a.location{
+							width: 140px;
+						}
+					}
+
+					li#first {
+						margin-left: 0;
+					}
+
+					li#last {
+						margin-right: 0;
+					}
+				}
+			}
+		}
+	}
+}

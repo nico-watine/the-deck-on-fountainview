@@ -1,0 +1,75 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto+Slab:700");
+@import url("http://fonts.googleapis.com/css?family=Lato:400");
+
+html {
+    padding: 30px 10px;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #333;
+    background: #f0f0f0;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+}
+
+body {
+    max-width: 500px;
+    _width: 500px;
+    padding: 30px 20px 50px;
+    border: 1px solid #b3b3b3;
+    border-radius: 4px;
+    margin: 0 auto;
+    box-shadow: 0 1px 10px #a7a7a7, inset 0 1px 0 #fff;
+    background: #eee;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    margin: 0 10px;
+    font-size: 50px;
+}
+
+p {
+    margin: 1em 0;
+}
+
+a {
+    color: #5EBDDF;
+    text-shadow: 2px 2px 0px #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #222222;
+}
+
+.container {
+    max-width: 380px;
+    _width: 380px;
+    margin: 0 auto;
+    text-align: center;
+    background: #eee;
+
+    img {
+        max-width: 200px;
+    }
+}
+
+html {
+    background: url('/img/bg/bg-medium.jpg') center top repeat-y;
+    background-size: cover;
+}
+
+::-moz-selection {
+    background: #5EBDDF;
+    opacity: 1;
+    color: #fff;
+    text-shadow: 2px 2px 0 #000;
+}
+
+::selection {
+    background: #5EBDDF;
+    opacity: 1;
+    color: #fff;
+    text-shadow: 2px 2px 0 #000;
+}

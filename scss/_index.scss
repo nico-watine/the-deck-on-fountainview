@@ -1,0 +1,300 @@
+section {
+	
+	.row.section-header {
+		margin-bottom: 40px;
+	}
+
+	.row.section-trio {
+		margin-bottom: 20px;
+	}
+}
+
+
+// section#slide-show {
+// 	margin-top: 15px;
+
+// 		img.slide {
+// 			width: 100%;
+// 			height: auto;
+// 			max-height: 520px;
+// 			border: 6px solid #eee;
+// 		}	
+// }
+
+section#slogan {
+	margin-top: 15px;
+	width: 100%;
+	background: #eee;
+	height: 85px;
+	display: table;
+
+		.row {
+			text-align: center;
+			display: table-cell;
+			vertical-align: middle;
+
+			h1 {
+				@media #{$small-only} {
+					font-size: 24px;
+					line-height: 40px;
+				}
+				color: #333;
+				font-family: 'Roboto Slab', serif;
+				font-weight: 700;
+				font-size: 42px;
+				margin: 0;
+				text-transform: uppercase;
+			}
+		}
+}
+
+section#sports-section {
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 30px;
+
+	h2 {
+		@media #{$small-only} {
+			font-size: 28px;
+			line-height: 38px;
+		}
+
+		font-weight: 700;
+		font-size: 40px;
+		color: #FFFFFF;
+		line-height: 50px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	h3 {
+		@media #{$small-only} {
+			font-size: 25px;
+			line-height: 35px;
+		}
+		font-weight: 600;
+		font-size: 30px;
+		color: #FFFFFF;
+		line-height: 45px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	img#astros {
+		max-height: 275px;
+	}
+
+	img#texans {
+	}
+
+	img#rockets {
+		@media #{$large-up} {
+		max-width: 265px;
+		}
+	}
+
+	.row#events-button {
+		
+		a.c2a {	
+			@media #{$small-only} {
+				font-size: 25px;
+			}
+			font-size: 28px;
+			color: #FFFFFF;
+			line-height: 33px;
+			text-shadow: 1px 1px 0px #222222;
+			text-decoration: underline;
+			width: 100%;
+
+			&:hover {
+    			text-shadow: 2px 2px 0px #000;
+			}
+		}
+	}
+
+	.row#leagues {
+		margin-top: 50px;
+		
+		.logos {
+
+		}
+
+		img#mlb {
+			margin-top: 20px;
+		}
+
+		img#mls {
+			@media #{$large-up} {
+				margin-top: 90px;
+			}
+			@media #{$medium-only} {
+				margin-top: 70px;
+			}
+			@media #{$small-only} {
+				margin-top: 50px;
+			}
+		}
+
+		img#pga {
+			@media #{$medium-only} {
+				margin-top: 30px;
+			}
+		}
+
+		img#dynamo {
+			max-height: 200px;
+			margin-bottom: 30px;
+			@media #{$small-only} {
+				margin-top: 20px;
+			}
+		}
+
+		img#nfl {
+			margin-bottom: 10px;
+			@media #{$small-only} {
+				max-height: 130px;
+			}
+		}
+		img#ncaa {
+			@media #{$small-only} {
+				max-height: 150px;
+			}
+		}
+	}
+}
+
+section#food {
+	border-top: 15px solid #eee;
+	text-align: center;
+	padding-top: 30px;
+
+	h2 {
+		font-weight: 700;
+		font-size: 40px;
+		color: #FFFFFF;
+		line-height: 50px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	h3 {
+		font-weight: 600;
+		font-size: 30px;
+		color: #FFFFFF;
+		line-height: 45px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	img {
+		border: 6px solid #eee;
+		@media #{$small-only} {
+			max-width: 400px;
+			width: 100%;
+		}
+	}
+
+	a {
+		h4 {
+			font-weight: 600;
+			font-size: 24px;
+			color: #FFFFFF;
+			line-height: 33px;
+			text-shadow: 1px 2px 0px #222222;
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+
+		&:hover {
+			h4 {
+				text-decoration: underline;
+			}
+		}	
+	}
+
+}
+
+section#review {
+	background: #eee;
+	padding-top: 30px;
+
+	.row {
+		text-align: center;
+	}
+
+	p {
+		font-size: 25px;
+		color: #333333;
+		line-height: 34px;
+		text-shadow: 2px 3px 0px #FFFFFF;
+
+		@media #{$small-only} {
+			margin-bottom: 10px;
+		}
+	}
+
+	img#yelp {
+		max-width: 150px;
+		@media #{$small-only} {
+			margin-bottom: 10px;
+		}
+	}
+	.thick-hr {
+		border-bottom: 1px solid black;
+		margin-bottom: 30px;
+	}
+	
+	h4 {
+		text-align: center;
+		margin-bottom: 20px;
+
+		a {
+			font-weight: 600;
+			font-size: 28px;
+			color: #333333;
+			line-height: 38px;
+			text-shadow: 2px 3px 0px #FFFFFF;
+			text-decoration: underline;
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+section#map {
+	border-top: 30px solid #5EBDDF;
+	background: url('/img/index/map/map-bg.png') center center no-repeat;
+	background-size: cover;
+	padding-top: 20px;
+
+	h3 {
+		@media #{$small-only} {
+			font-size: 38px;
+		}
+		font-weight: 600;
+		font-size: 42px;
+		color: #FFFFFF;
+		line-height: 57px;
+		text-align: center;
+		text-shadow: 3px 4px 0px #222222;
+		filter: progid:DXImageTransform.Microsoft.DropShadow(offX=3,offY=3,color=000000);
+		margin-bottom: 90px;
+	}
+
+	.row#location-button {
+		
+		a.c2a {	
+			font-size: 24px;
+			color: #FFFFFF;
+			line-height: 42px;
+			text-shadow: 1px 1px 0px #222222;
+			text-decoration: underline;
+			width: 100%;
+			height: 42px;
+			margin-bottom: 30px;
+			padding: 0;
+
+			&:hover {
+    			text-shadow: 2px 2px 0px #000;
+			}
+		}
+	}
+}

@@ -1,0 +1,37 @@
+section#calendar {
+	margin: 35px auto;
+	
+	.row {
+		text-align: center;
+
+		h1 {
+			font-size: 38px;
+			color: #fff;
+			text-shadow: 2px 2px 0px #000;
+			font-family: 'Roboto Slab', serif;
+			margin-bottom: 20px;
+		}
+
+		#iframe-container {
+
+			@media #{$small-only} {
+				padding-left: 0;
+				padding-right: 0;
+				text-align: center;
+			}
+		}
+
+		h2,
+		h3 {
+			text-shadow: 2px 2px 0px #000;
+		}
+
+		h3 a {
+			color: #fff;
+
+			@media #{$small-only} {
+				text-decoration: underline;
+			}
+		}
+	}
+}

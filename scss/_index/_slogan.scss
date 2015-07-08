@@ -1,0 +1,26 @@
+section#slogan {
+	margin-top: 15px;
+	width: 100%;
+	background: #eee;
+	height: 85px;
+	display: table;
+
+		.row {
+			text-align: center;
+			display: table-cell;
+			vertical-align: middle;
+
+			h1 {
+				@media #{$small-only} {
+					font-size: 24px;
+					line-height: 40px;
+				}
+				color: #333;
+				font-family: 'Roboto Slab', serif;
+				font-weight: 700;
+				font-size: 42px;
+				margin: 0;
+				text-transform: uppercase;
+			}
+		}
+}

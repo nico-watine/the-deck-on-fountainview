@@ -1,0 +1,2070 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sli",
+				"_slick-theme.scss"
+			],
+			[
+				"ind",
+				"_index/"
+			],
+			[
+				"b",
+				"bower_components/"
+			],
+			[
+				"menu",
+				"menu-m.html"
+			],
+			[
+				"lo",
+				"_location.scss"
+			],
+			[
+				"g",
+				"_gmap.scss"
+			],
+			[
+				"jq",
+				"_jquery.fancybox-buttons.scss"
+			],
+			[
+				"fan",
+				"_jquery.fancybox.scss"
+			],
+			[
+				"n",
+				"normalize.scss"
+			],
+			[
+				"fon",
+				"_fonts.sass"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"tha",
+				"_thanks.scss"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"ab",
+				"_about.scss"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"f",
+				"fastclick-load.js"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"c",
+				"contact-template/"
+			],
+			[
+				"p",
+				"twitter.png	w:70 h:70"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"borr",
+				"border-right"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu.html",
+			"settings":
+			{
+				"buffer_size": 28444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 2818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/index.html",
+			"settings":
+			{
+				"buffer_size": 12642,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "head.html",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index(old).html",
+			"settings":
+			{
+				"buffer_size": 31695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_type.scss",
+			"settings":
+			{
+				"buffer_size": 14633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "typography.html",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/app.js",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app.scss",
+			"settings":
+			{
+				"buffer_size": 2073,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app-m.scss",
+			"settings":
+			{
+				"buffer_size": 2120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu-m.html",
+			"settings":
+			{
+				"buffer_size": 28691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/location.html",
+			"settings":
+			{
+				"buffer_size": 8792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events.html",
+			"settings":
+			{
+				"buffer_size": 8333,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"bros",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com"
+	],
+	"file_history":
+	[
+		"/Users/nico/SNC Projects/houstonuncovered.com/Site Folder/houstonuncovered.com/_ignores/houston-uncovered.sublime-workspace",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/menu.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/error.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_location.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/indexOf.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/css/normalize.css",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/app.min.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_typography.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/.sass-cache/af1766ea44662717d559d7b2136b9802098f9fc9/_type.scssc",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/typography.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_slick.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_settings.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app-ie.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/menu-m.js",
+		"/Users/nico/SNC Projects/Lemon Peel Facial/Backup 2:4/transfer wp-config/wp-config.php",
+		"/Users/nico/SNC Projects/Lemon Peel Facial/Local Backup Restore 2:6/wp-config.php",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/index.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_header.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_index.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/location.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/app-m.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu-m.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_events.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_index/_slider.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_slick-theme.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app-m.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/app.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_body.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_footer.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_menu.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/ajax/parseJSON.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/fonts/slick/slick.svg",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/strundefined.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/style-scoped.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/custom-protocol-handler.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-hyphens.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/style.css",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/test/basic.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/battery-api.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/css/app.css",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events-ie8.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/404.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/rem.min.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/README.md",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/rem.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_menu2.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/script-async.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/elem-ruby.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403(new).html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/error.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/config.codekit",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/media/Modernizr 2 Logo.ai",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/slice.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/skrollr/examples/bg_constant_speed_less.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/menu-app.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/window-framed.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/audio-webaudio-api.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/dom-createElement-attrs.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-regions.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_sports-section.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_side-nav.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/selector-native.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_map.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-mediaqueries.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/network-eventsource.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/contextmenu.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_slogan.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_location-gmap.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/humans.txt",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/offset.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_dropdown-buttons.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/notification.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/app.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/quota-management-api.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/modernizr.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/location/_gmap.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/404.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/ajax/script.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/effects/animatedSelector.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower.json",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/app.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/foundation.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/foundation.min.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/contact.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/about-us.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/how-we-do-it.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/app.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/app.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/bower_components/jquery/src/css/addGetHookIf.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/humans.txt",
+		"/Users/nico/Documents/Custom Folder Icons/tinypng.js",
+		"/Users/nico/Web Development/tinypng.js",
+		"/Users/nico/SNC Projects/Houston Oculofacial/Docs/New Pages/Contact/contact(new).html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/index.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_site/blog/cool-stuff/downtown-panorama-video.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/scss/.sass-cache/7adec670baaff6ed5c22e01fc5b4a517d115742d/_panels.scssc",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/bower_components/modernizr/feature-detects/pointerlock-api.js",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/scss/_posts-list.scss",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/js/foundation/foundation.orbit.js",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/footer/footer-transparent.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_layouts/categories/personal.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/posts/video-bg/large-up.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_posts/2014-09-09-downtown-panorama-video.md",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/bower_components/jquery/src/var/toString.js",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/scripts/post-default.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/bower_components/jquery/src/offset.js",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/bower_components/jquery/src/traversing/findFilter.js",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/head.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_layouts/categories/coding.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/blog/coding/index.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_posts/mobile/2014-09-04-1st-post-ever(m).md",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_layouts/posts/mobile.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_posts/2014-09-04-1st-post-ever.md",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/posts/post-banner.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_layouts/posts/default.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_includes/nav/nav-standard.html",
+		"/Users/nico/SNC Projects/nicowatine.me/NicoWatine.me/_layouts/index/default.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eee",
+			"crawfish",
+			"RELOCATE",
+			"#thedeckonfountainview",
+			"1",
+			"3",
+			"specials",
+			"lightness",
+			"h1",
+			"burger",
+			"gr",
+			"id",
+			"medium-6",
+			"small-12",
+			"burger",
+			"it",
+			"crawfish",
+			"burger",
+			"pre",
+			"events",
+			"event",
+			"oz",
+			"444",
+			"detail",
+			"spec",
+			"3",
+			"crawfish",
+			"craw",
+			"media qu",
+			"specials",
+			"bacon",
+			"crawfish",
+			"button-r",
+			"section",
+			"button",
+			"url",
+			"motorcycle",
+			"1st-post-ever",
+			"post-videobg/",
+			"url",
+			"vendor/",
+			"url('/img/fancybox/",
+			"url('",
+			"url",
+			"/img/daily-pics/",
+			"blog/",
+			"7-sep-2014",
+			"4-sep-2014",
+			".html",
+			"under",
+			"css",
+			"\";\n",
+			"font-f",
+			"ubuntu",
+			"/js/",
+			"/img/portfolio",
+			"excerpt",
+			"/contact.html",
+			"/contact/index.html",
+			"width",
+			"inline",
+			"body",
+			"small",
+			"<br>",
+			"</li>",
+			"<li>",
+			"&nbsp;",
+			"de_tab",
+			"sncurl",
+			"awsurl",
+			"mediaurl",
+			"333333",
+			"img",
+			"pokemon",
+			"pokemonBlue",
+			"pokemonRed",
+			"../..",
+			"img",
+			"html",
+			"img",
+			"p",
+			" class=\"alert alert-error error\"",
+			"large-8",
+			"medium-8",
+			"large-7",
+			"large-7 ",
+			"project",
+			"green",
+			"h3",
+			"h2",
+			"p",
+			"h2",
+			"lime-green",
+			"h3",
+			"section",
+			"div",
+			"h3",
+			"section",
+			"div",
+			"p",
+			"2px",
+			"3px",
+			"1px",
+			"2px",
+			"h2",
+			"padding",
+			"h1",
+			" featured-service",
+			"section",
+			"apluspermit",
+			"services",
+			"#",
+			".apluspermit-hover",
+			"=\"#\"><",
+			"img/",
+			"nav-squares/",
+			"p",
+			"dark",
+			"button",
+			"h4",
+			"p",
+			"How",
+			"h3",
+			"p",
+			"h4",
+			"p",
+			"h",
+			"blockquote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"thedeckonfountainview",
+			"posts/video-bg/",
+			"",
+			"url('../img/fancybox/",
+			"url('/img/fancybox/",
+			"",
+			"http://img.studioncreations.com/js/",
+			"http://img.studioncreations.com/img/portfolio",
+			"/contact",
+			"/contact.html",
+			"",
+			"<br>",
+			"",
+			".",
+			"#dmesa-hover",
+			"max-device-width",
+			"min-device-width",
+			"services-header",
+			"page-header",
+			"css"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27811,
+								27811
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9893.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2333,
+								2333
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2606.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12040,
+								12040
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index(old).html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1311,
+								1258
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_type.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "typography.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1121,
+								1121
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 664.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app-m.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1301,
+								1301
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu-m.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28461,
+								28461
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/location.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8264,
+								8264
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7772,
+								7772
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2410.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "deck.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"loc",
+				"location.html"
+			],
+			[
+				"fo",
+				"scss/_footer.scss"
+			],
+			[
+				"eve",
+				"events.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"men",
+				"menu.html"
+			],
+			[
+				"me",
+				"menu.html"
+			],
+			[
+				"ev",
+				"events.html"
+			],
+			[
+				"loh",
+				"location.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"appms",
+				"scss/app-m.scss"
+			],
+			[
+				"footers",
+				"scss/_footer.scss"
+			],
+			[
+				"ty",
+				"_ignores/typography.html"
+			],
+			[
+				"app",
+				"scss/app.scss"
+			],
+			[
+				"lo",
+				"scss/_location.scss"
+			],
+			[
+				"foo",
+				"scss/_footer.scss"
+			],
+			[
+				"menuj",
+				"js/src/menu.js"
+			],
+			[
+				"appj",
+				"js/src/app.js"
+			],
+			[
+				"mens",
+				"scss/_menu.scss"
+			],
+			[
+				"menm",
+				"menu-m.html"
+			],
+			[
+				"menumh",
+				"menu-m.html"
+			],
+			[
+				"bod",
+				"scss/_body.scss"
+			],
+			[
+				"ap",
+				"scss/app.scss"
+			],
+			[
+				"slick",
+				"scss/_slick-theme.scss"
+			],
+			[
+				"f",
+				"scss/_footer.scss"
+			],
+			[
+				"evens",
+				"scss/_events.scss"
+			],
+			[
+				"menum",
+				"js/src/menu-m.js"
+			],
+			[
+				"menj",
+				"js/src/menu.js"
+			],
+			[
+				"appmj",
+				"js/src/app-m.js"
+			],
+			[
+				"mem",
+				"menu-m.html"
+			],
+			[
+				"menumj",
+				"js/src/menu-m.js"
+			],
+			[
+				"even",
+				"events.html"
+			],
+			[
+				"hea",
+				"scss/_header.scss"
+			],
+			[
+				"locas",
+				"scss/_location.scss"
+			],
+			[
+				"sli",
+				"scss/_slick.scss"
+			],
+			[
+				"slickt",
+				"scss/_slick-theme.scss"
+			],
+			[
+				"inds",
+				"scss/_index.scss"
+			],
+			[
+				"slid",
+				"scss/_index/_slider.scss"
+			],
+			[
+				"body",
+				"scss/_body.scss"
+			],
+			[
+				"set",
+				"scss/_settings.scss"
+			],
+			[
+				"apps",
+				"scss/app.scss"
+			],
+			[
+				"loca",
+				"location.html"
+			],
+			[
+				"appc",
+				"css/app.css"
+			],
+			[
+				"eveni",
+				"events-ie8.html"
+			],
+			[
+				"menus",
+				"scss/_menu.scss"
+			],
+			[
+				"404",
+				"404.html"
+			],
+			[
+				"403",
+				"403.html"
+			],
+			[
+				"er",
+				"scss/error.scss"
+			],
+			[
+				"4",
+				"404.html"
+			],
+			[
+				"bo",
+				"scss/_body.scss"
+			],
+			[
+				"",
+				"403(new).html"
+			],
+			[
+				"40n",
+				"403(new).html"
+			],
+			[
+				"co",
+				"bower_components/modernizr/feature-detects/css-objectfit.js"
+			],
+			[
+				"sett",
+				"scss/_settings.scss"
+			],
+			[
+				"aps",
+				"scss/app.scss"
+			],
+			[
+				"men2",
+				"scss/_menu2.scss"
+			],
+			[
+				"evs",
+				"scss/_events.scss"
+			],
+			[
+				"los",
+				"scss/_location.scss"
+			],
+			[
+				"menh",
+				"menu.html"
+			],
+			[
+				"mena",
+				"js/src/menu-app.js"
+			],
+			[
+				"sport",
+				"scss/_sports-section.scss"
+			],
+			[
+				"slog",
+				"scss/_slogan.scss"
+			],
+			[
+				"map",
+				"scss/_map.scss"
+			],
+			[
+				"ascs",
+				"scss/app.scss"
+			],
+			[
+				"po",
+				"portfolio.html"
+			],
+			[
+				"than",
+				"thanks.html"
+			],
+			[
+				"found",
+				"js/foundation.js"
+			],
+			[
+				"wha",
+				"services/what-we-do.html"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"abou",
+				"about-us.html"
+			],
+			[
+				"por",
+				"portfolio.html"
+			],
+			[
+				"how",
+				"services/how-we-do-it.html"
+			],
+			[
+				"what",
+				"services/what-we-do.html"
+			],
+			[
+				"apc",
+				"css/app.css"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"inde",
+				"_layouts/index/default.html"
+			],
+			[
+				"panor",
+				"_site/blog/cool-stuff/downtown-panorama-video.html"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"footrs",
+				"scss/_footer.scss"
+			],
+			[
+				"foos",
+				"scss/_footer.scss"
+			],
+			[
+				"layoutpo",
+				"_layouts/posts/default.html"
+			],
+			[
+				"def",
+				"_layouts/index/default.html"
+			],
+			[
+				"red",
+				"_includes/head/redirect.html"
+			],
+			[
+				"posb",
+				"_includes/posts/post-banner.html"
+			],
+			[
+				"head/r",
+				"_includes/head/redirect.html"
+			],
+			[
+				"1s",
+				"_posts/2014-09-04-1st-post-ever.md"
+			],
+			[
+				"codi",
+				"_layouts/categories/coding.html"
+			],
+			[
+				"layout",
+				"_layouts/index/default.html"
+			],
+			[
+				"nav",
+				"_includes/nav/nav-standard.html"
+			],
+			[
+				"indef",
+				"_layouts/index/default.html"
+			],
+			[
+				"psts/po",
+				"_includes/posts/post-banner.html"
+			],
+			[
+				"post/d",
+				"_layouts/posts/default.html"
+			],
+			[
+				"post/m",
+				"_layouts/posts/mobile.html"
+			],
+			[
+				"1st(m",
+				"_posts/2014-09-04-1st-post-ever(m).md"
+			],
+			[
+				"1st(",
+				"_site/blog/coding/1st-post-ever(m).html"
+			],
+			[
+				"redir",
+				"_includes/head/redirect.html"
+			],
+			[
+				"laymob",
+				"_layouts/posts/mobile.html"
+			],
+			[
+				"1stm",
+				"_posts/2014-09-04-1st-post-ever(m).md"
+			],
+			[
+				"post/de",
+				"_layouts/posts/default.html"
+			],
+			[
+				"head-m",
+				"_includes/head/head-m.html"
+			],
+			[
+				"deafultm",
+				"_layouts/posts/default-mobile.html"
+			],
+			[
+				"1st",
+				"_posts/2014-09-04-1st-post-ever(m).md"
+			],
+			[
+				"headmh",
+				"_includes/head/head(m).html"
+			],
+			[
+				"1",
+				"_posts/2014-09-04-1st-post-ever.md"
+			],
+			[
+				"layout/pos",
+				"_layouts/posts/default.html"
+			],
+			[
+				"layind",
+				"_layouts/index/default.html"
+			],
+			[
+				"layout/in",
+				"_layouts/index/default.html"
+			],
+			[
+				"footer/",
+				"_includes/footer/footer.html"
+			],
+			[
+				"skroll",
+				"js/skrollr.ie.min.js"
+			],
+			[
+				"pos/d",
+				"_layouts/posts/default.html"
+			],
+			[
+				"hum",
+				"humans.txt"
+			],
+			[
+				"un",
+				"_posts/2014-09-07-under-construction.md"
+			],
+			[
+				"codiin",
+				"blog/coding/index.html"
+			],
+			[
+				"do",
+				"_posts/2014-09-09-downtown-panorama-video.md"
+			],
+			[
+				"down",
+				"_posts/2014-09-09-downtown-panorama-video.md"
+			],
+			[
+				"who",
+				"_posts/2014-10-1-who-is-this-guy.md"
+			],
+			[
+				"whomd",
+				"_posts/2014-10-1-who-is-this-guy.md"
+			],
+			[
+				"posds",
+				"scss/_post-default.scss"
+			],
+			[
+				"posd",
+				"_layouts/post-default.html"
+			],
+			[
+				"cod",
+				"blog/coding.html"
+			],
+			[
+				"blogca",
+				"_layouts/blog-category.html"
+			],
+			[
+				"coolin",
+				"blog/cool-stuff/index.html"
+			],
+			[
+				"coding",
+				"blog/coding/index.html"
+			],
+			[
+				"scriptss",
+				"_includes/scripts/scripts-post-default.html"
+			],
+			[
+				"larg",
+				"_includes/posts/video-bg/large-up.html"
+			],
+			[
+				"mediu",
+				"_includes/posts/video-bg/medium-only.html"
+			],
+			[
+				"small",
+				"_includes/posts/video-bg/small-only.html"
+			],
+			[
+				"headf",
+				"_includes/head-fancybox.html"
+			],
+			[
+				"headht",
+				"_includes/head.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"j",
+				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdf.sublime-project"
+			],
+			[
+				"l",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisaesposito.com/_ignores/lisa.sublime-project"
+			],
+			[
+				"s",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"snc",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/Under Development/_ignores/snc-new.sublime-project"
+			],
+			[
+				"h",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/houstonuncovered.com/Site Folder/houstonuncovered.com/_ignores/houston-u.sublime-workspace"
+			],
+			[
+				"z",
+				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/development/htdocs/_ignores/zaraza.sublime-project"
+			],
+			[
+				"n",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+			],
+			[
+				"g",
+				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
+			],
+			[
+				"",
+				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
+			],
+			[
+				"gc",
+				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

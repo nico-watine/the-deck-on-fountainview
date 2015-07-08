@@ -1,0 +1,51 @@
+section#review {
+	height: 100%;
+	background: #eee;
+	padding-top: 30px;
+
+	.row {
+		text-align: center;
+	}
+
+	p {
+		font-family: 'Open Sans';
+		font-size: 25px;
+		color: #333333;
+		line-height: 34px;
+		text-shadow: 2px 3px 0px #FFFFFF;
+
+		@media #{$small-only} {
+			margin-bottom: 10px;
+		}
+	}
+
+	img#yelp {
+		max-width: 150px;
+		@media #{$small-only} {
+			margin-bottom: 10px;
+		}
+	}
+	.thick-hr {
+		border-bottom: 1px solid black;
+		margin-bottom: 30px;
+	}
+	
+	h4 {
+		text-align: center;
+		margin-bottom: 20px;
+
+		a {
+			font-family: 'Open Sans';
+			font-weight: 600;
+			font-size: 28px;
+			color: #333333;
+			line-height: 38px;
+			text-shadow: 2px 3px 0px #FFFFFF;
+			text-decoration: underline;
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+}

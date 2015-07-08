@@ -1,0 +1,117 @@
+section#sports-section {
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 30px;
+
+	h2 {
+		@media #{$small-only} {
+			font-size: 28px;
+			line-height: 38px;
+		}
+
+		font-family: 'Open Sans';
+		font-weight: 700;
+		font-size: 40px;
+		color: #FFFFFF;
+		line-height: 50px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	h3 {
+		@media #{$small-only} {
+			font-size: 25px;
+			line-height: 35px;
+		}
+		font-family: 'Open Sans';
+		font-weight: 600;
+		font-size: 30px;
+		color: #FFFFFF;
+		line-height: 45px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	img#astros {
+		max-height: 275px;
+	}
+
+	img#texans {
+	}
+
+	img#rockets {
+		@media #{$large-up} {
+		max-width: 265px;
+		}
+	}
+
+	.row#events-button {
+		
+		a.c2a {	
+			@media #{$small-only} {
+				font-size: 25px;
+			}
+			font-family: 'Open Sans';
+			font-size: 28px;
+			color: #FFFFFF;
+			line-height: 33px;
+			text-shadow: 1px 1px 0px #222222;
+			text-decoration: underline;
+			background-color: #5EBDDF;
+			width: 100%;
+
+			&:hover {
+    			background-color: #7CD4F9 !important;
+    			text-shadow: 2px 2px 0px #000;
+			}
+		}
+	}
+
+	.row#leagues {
+		margin-top: 50px;
+		
+		.logos {
+
+		}
+
+		img#mlb {
+			margin-top: 20px;
+		}
+
+		img#mls {
+			@media #{$large-up} {
+				margin-top: 90px;
+			}
+			@media #{$medium-only} {
+				margin-top: 70px;
+			}
+			@media #{$small-only} {
+				margin-top: 50px;
+			}
+		}
+
+		img#pga {
+			@media #{$medium-only} {
+				margin-top: 30px;
+			}
+		}
+
+		img#dynamo {
+			max-height: 200px;
+			margin-bottom: 30px;
+			@media #{$small-only} {
+				margin-top: 20px;
+			}
+		}
+
+		img#nfl {
+			margin-bottom: 10px;
+			@media #{$small-only} {
+				max-height: 130px;
+			}
+		}
+		img#ncaa {
+			@media #{$small-only} {
+				max-height: 150px;
+			}
+		}
+	}
+}

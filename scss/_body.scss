@@ -1,0 +1,36 @@
+html,
+body {
+	height: 100%;
+	width: 100%;
+	background-color: #5EBDDF;
+
+	@media #{$small-only} {
+		background: url('/img/bg/bg-small.jpg') center top repeat-y;
+		background-size: cover;
+	}
+
+	@media #{$medium-only} {
+		background: url('/img/bg/bg-medium.jpg') center top repeat-y;
+		background-size: cover;
+	}
+
+	@media #{$large-up} {
+		background: url('/img/bg/bg.jpg') center center no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+}
+
+::-moz-selection {
+    background: #5EBDDF;
+    opacity: 1;
+    color: #fff;
+    text-shadow: 2px 2px 0 #000;
+}
+
+::selection {
+    background: #5EBDDF;
+    opacity: 1;
+    color: #fff;
+    text-shadow: 2px 2px 0 #000;
+}

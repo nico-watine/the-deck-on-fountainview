@@ -1,0 +1,43 @@
+section#food {
+	border-top: 15px solid #eee;
+	text-align: center;
+	padding-top: 30px;
+
+	h2 {
+		font-family: 'Open Sans';
+		font-weight: 700;
+		font-size: 40px;
+		color: #FFFFFF;
+		line-height: 50px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	h3 {
+		font-family: 'Open Sans';
+		font-weight: 600;
+		font-size: 30px;
+		color: #FFFFFF;
+		line-height: 45px;
+		text-shadow: 2px 3px 0px #222222;
+	}
+
+	img {
+		border: 6px solid #eee;
+		@media #{$small-only} {
+			max-width: 400px;
+			width: 100%;
+		}
+	}
+
+	h4 {
+		font-family: 'Open Sans';
+		font-weight: 600;
+		font-size: 24px;
+		color: #FFFFFF;
+		line-height: 33px;
+		text-shadow: 1px 2px 0px #222222;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+

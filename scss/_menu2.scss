@@ -1,0 +1,37 @@
+#menu-accordion {
+
+	.section-title-m {
+			color: #222;
+			font-family: 'Roboto Slab', serif;
+			font-size: 28px;
+			line-height: 50px;
+			text-shadow: 2px 2px 0px #fff;
+			text-align: center;
+			padding-top: 15px;
+			margin-top: 0;
+			border-bottom: 3px solid #5EBDDF;
+	}
+
+	section {
+		text-align: center;
+	}
+}
+
+.section-detail-m {
+	text-align: center;
+	margin-bottom: 10px;
+
+	h5 {
+		color: #222;
+		text-shadow: 2px 2px 0px #fff;
+	}
+}
+
+footer#mobile-menu-footer {
+	margin-top: 23px;
+}
+
+li#sides-label {
+	border-top: 1px solid #222;
+	padding-top: 15px;
+}
