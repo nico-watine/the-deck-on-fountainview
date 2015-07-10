@@ -4540,6 +4540,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/index\/map\/map-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139679,
+		"inputAbbreviatedPath": "\/img\/index\/map\/map-2.png",
+		"outputAbbreviatedPath": "\/img\/index\/map\/map-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/index\/map\/map-bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
