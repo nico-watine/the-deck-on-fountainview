@@ -1,16 +1,17 @@
+<?php 
+    include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <link type="text/plain" rel="author" href="/humans.txt" />
-    <title>The Deck On Fountainview</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Action-Packed Calendar! | The Deck On Fountainview</title>
     <meta name="description" content="We pride ourselves to be the true neighborhood local bar and the best sports bar in the Galleria Area with tasty food with one of Houston&#039;s best happy hours. #1 spot for Crawfish."/>
-    <link rel="canonical" href="http://thedeckonfountainview.com/" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
+    <link type="text/plain" rel="author" href="/humans.txt" />
 
-    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="<?php autoVer('/css/app.css'); ?>"/>
+
     <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
     
     <!--[if lt IE 9]>
@@ -55,16 +56,16 @@
         <nav class="top-bar" data-topbar role="navigation">
             <ul class="title-area">
                 <li class="name">
-                  <h1><a href="#"></a></h1>
+                  <h1><a href="/"></a></h1>
                 </li>
                 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
             <section class="top-bar-section">
                 <ul class="right">
                     <li><a href="/">HOME</a></li>
-                    <li><a href="/events.html">EVENTS</a></li>
-                    <li><a href="/menu-m.html">FOOD + DRINK</a></li>
-                    <li class="active"><a href="#">LOCATION</a></li>
+                    <li class="active"><a href="#">EVENTS</a></li>
+                    <li><a href="/menu-m">FOOD + DRINK</a></li>
+                    <li><a href="/location">LOCATION</a></li>
                 </ul>
             </section>
         </nav>
@@ -97,9 +98,9 @@
                     <nav class="small-12 large-9 columns">
                         <ul>
                             <li id="first"><a href="/" class="home">HOME</a></li>
-                            <li><a href="/events.html" class="events">EVENTS</a></li>
-                            <li><a href="/menu.html" class="menu">FOOD + DRINK</a></li>
-                            <li id="last"><a href="#" class="location active">LOCATION</a></li>
+                            <li><a href="#" class="events active">EVENTS</a></li>
+                            <li><a href="/menu" class="menu">FOOD + DRINK</a></li>
+                            <li id="last"><a href="/location" class="location">LOCATION</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -108,46 +109,29 @@
 </header>
 
 <main>
-    <section id="contact-info">
-        <div class="row">
-            <div class="small-12 columns">
-                <h1>Come On Over - The Game’s Almost Started!</h1>
-            </div>
-        </div>
-        <div class="row">
-            <div class="medium-6 columns">
-                <h3>Here's Where We're Located</h3>
-                <p>6002 Fairdale Ln <br> Houston, TX 77057</p>
-            </div>
-            <div class="medium-6 columns">
-                <h3>Have A Question? Get In Touch</h3>
-                <p>713-914-9990 <br> <a href="mailto:info@thedeckonfountainview.com">info@thedeckonfountainview.com</a></p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="small-12 medium-8 medium-centered columns">
-                <div class="blue-hr"></div>
-            </div>
-        </div>
-        <div class="blue-container">
-            <div class="row">
-                <div class="small-12 medium-centered columns">
-                    <h2>See You Soon!</h2>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="gmap">
-        <div class="overlay hide-for-touch" onClick="style.pointerEvents='none'"></div>
-        <div class="iframe-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6929.0560483414265!2d-95.485206!3d29.733428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x650c137e7d6f5b63!2sThe+Deck+on+Fountainview+Bar+%26+Grill!5e0!3m2!1sen!2sus!4v1418956029154" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
-        </div>
-    </div>
-    <div class="bar-pano">
-        <img src="/img/location/pano.jpg" alt="The Deck On Fountainview">
-    </div>
-</main>
 
+<section id="calendar">
+    <div class="row">
+        <h1>Events Calendar</h1>
+        <div class="small-12 medium-11 small-centered columns" id="iframe-container">
+            <div class="show-for-small-only">
+                <iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=marketing%40thedeckonfountainview.com&amp;color=%23AB8B00&amp;ctz=America%2FChicago" style="border: 3px solid #5EBDDF;" height="400" width="88%" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div class="show-for-medium-up">
+                <iframe src="https://www.google.com/calendar/embed?showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=marketing%40thedeckonfountainview.com&amp;color=%23AB8B00&amp;ctz=America%2FChicago" style="border: 3px solid #5EBDDF;" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <h2>Reserve The Deck for your next event!</h2>
+        <h3>Call us at <a href="tel:713-914-9990">713-914-9990</a> for more info.</h3>
+    </div>
+</section>
+
+
+
+
+</main>
 <footer>
     <section id="sharing">
         <div class="row">
@@ -161,25 +145,19 @@
                     <li class="last"><a href="http://instagram.com/thedeckonfountainview" target="_blank"><img src="/img/footer/sharing/instagram.png" alt="Instagram"></a></li>
                 </ul>
             </div>
-            <div class="medium-5 columns">
-                <p class="credit">
-                    <a href="http://studioncreations.com" target="_blank">A <span>STUDIO N</span> CREATION</a>
-                </p>
-            </div>
         </div>
     </section>
 </footer>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <!--[if lt IE 9]>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
-<!--[if gte IE 9]>
-    <!-->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <!--
-<![endif]-->
-<script src="/js/foundation.min.js"></script>
-<script src="/js/app.min.js"></script>
+
+<script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/app-min.js'); ?>"></script>
+
 </body>
 </html>
+

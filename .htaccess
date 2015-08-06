@@ -66,6 +66,7 @@
 # http://www.webmasterworld.com/apache/3808792.htm
 
 Options -MultiViews
+# Options +MultiViews
 
 # ------------------------------------------------------------------------------
 # | Custom error messages / pages                                              |
@@ -74,8 +75,8 @@ Options -MultiViews
 # You can customize what Apache returns to the client in case of an error (see
 # http://httpd.apache.org/docs/current/mod/core.html#errordocument), e.g.:
 
-ErrorDocument 404 /404.html
 ErrorDocument 403 /403.html
+ErrorDocument 404 /404.html
 
 
 # ##############################################################################
@@ -218,25 +219,42 @@ AddDefaultCharset utf-8
 </IfModule>
 
 # ------------------------------------------------------------------------------
-# | Rewrite HTML Endings                                                             |
+# | Rewrite HTML (& PHP & HTM) Endings                                         |
 # ------------------------------------------------------------------------------
 
 RewriteOptions inherit
 
 RewriteEngine on
+#example.com/page will display the contents of example.com/page.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L,QSA]
+
+#example.com/page will display the contents of example.com/page.htm
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.htm -f
+RewriteRule ^(.+)$ $1.htm [L,QSA]
+
 #example.com/page will display the contents of example.com/page.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+)$ $1.html [L,QSA]
 
+#301 from example.com/page.php to example.com/page
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.php\ HTTP/
+RewriteRule ^(.*)\.php$ /$1 [R=301,L]
+
+#301 from example.com/page.htm to example.com/page
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.htm\ HTTP/
+RewriteRule ^(.*)\.htm$ /$1 [R=301,L]
+
 #301 from example.com/page.html to example.com/page
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.html\ HTTP/
 RewriteRule ^(.*)\.html$ /$1 [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
-RewriteRule ^services\/?$ "http\:\/\/studioncreations\.com\/services\/what\-we\-do" [R=301,L]
 
 # ------------------------------------------------------------------------------
 # | Suppressing / Forcing the "www." at the beginning of URLs                  |
@@ -571,3 +589,13 @@ FileETag None
 # <IfModule mod_headers.c>
 #    Header set Connection Keep-Alive
 # </IfModule>
+
+
+
+# ------------------------------------------------------------------------------
+# | Rules for Versioned Static Files
+# ------------------------------------------------------------------------------
+
+RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
+
+
