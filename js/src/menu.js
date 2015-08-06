@@ -16,6 +16,6 @@ var jRes = jRespond([
 jRes.addFunc({
     breakpoint: 'small',
     enter: function() {
-        window.location="/menu-m.html";
+        window.location="/menu-m";
     }
 });

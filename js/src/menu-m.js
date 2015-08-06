@@ -11,6 +11,6 @@ var jRes = jRespond([
 jRes.addFunc({
     breakpoint: 'medium',
     enter: function() {
-        window.location="/menu.html";
+        window.location="/menu";
     }
 });

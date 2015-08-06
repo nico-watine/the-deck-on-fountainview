@@ -63,7 +63,7 @@
             </ul>
             <section class="top-bar-section">
                 <ul class="right">
-                    <li class="active"><a href="#">HOME</a></li>
+                    <li class="active"><a href="/">HOME</a></li>
                     <li><a href="/events">EVENTS</a></li>
                     <li><a href="/menu-m">FOOD + DRINK</a></li>
                     <li><a href="/location">LOCATION</a></li>
@@ -98,7 +98,7 @@
                     </div>
                     <nav class="small-12 large-9 columns">
                         <ul>
-                            <li id="first"><a href="#" class="home active">HOME</a></li>
+                            <li id="first"><a href="/" class="home active">HOME</a></li>
                             <li><a href="/events" class="events">EVENTS</a></li>
                             <li><a href="/menu" class="menu">FOOD + DRINK</a></li>
                             <li id="last"><a href="/location" class="location">LOCATION</a></li>
@@ -186,19 +186,19 @@
         </div>
         <div class="row section-trio">
             <div class="medium-4 columns">
-                <a href="menu">
+                <a href="/menu">
                     <img src="/img/index/eats/steak.jpg" alt="Monday Night Steaks">
                     <h4>Monday Night Steaks</h4>
                 </a>
             </div>
             <div class="medium-4 columns">
-                <a href="menu">
+                <a href="/menu">
                     <img src="/img/index/eats/drinks.jpg" alt="Drink Specials">
                     <h4>Happy Hour & Daily Drink Specials</h4>
                 </a>
             </div>
             <div class="medium-4 columns">
-                <a href="menu">
+                <a href="/menu">
                 <img src="/img/index/eats/crawfish.jpg" alt="Crawfish">
                     <h4>Crawfish</h4>
                 </a>
