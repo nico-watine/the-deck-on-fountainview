@@ -50,23 +50,23 @@
         </section>
         <div class="row">
             <div class="small-12 columns">
-                <a href="#"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
+                <a href="/"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
                 <noscript><img src="/img/logo/logo.png" alt="The Deck On Fountainview"></noscript></a>
             </div>
         </div>
         <nav class="top-bar" data-topbar role="navigation">
             <ul class="title-area">
                 <li class="name">
-                  <h1><a href="#"></a></h1>
+                  <h1><a href="/"></a></h1>
                 </li>
                 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
             <section class="top-bar-section">
                 <ul class="right">
                     <li class="active"><a href="#">HOME</a></li>
-                    <li><a href="/events.html">EVENTS</a></li>
-                    <li><a href="/menu-m.html">FOOD + DRINK</a></li>
-                    <li><a href="/location.html">LOCATION</a></li>
+                    <li><a href="/events">EVENTS</a></li>
+                    <li><a href="/menu-m">FOOD + DRINK</a></li>
+                    <li><a href="/location">LOCATION</a></li>
                 </ul>
             </section>
         </nav>
@@ -91,7 +91,7 @@
                     <![endif]-->
                     <!--[if gte IE 9]>
                         <!-->
-                        <a href="#"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
+                        <a href="/"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
                         <noscript><img src="/img/logo/logo.png" alt="The Deck On Fountainview"></noscript></a>
                         <!--
                     <![endif]-->
@@ -99,9 +99,9 @@
                     <nav class="small-12 large-9 columns">
                         <ul>
                             <li id="first"><a href="#" class="home active">HOME</a></li>
-                            <li><a href="/events.html" class="events">EVENTS</a></li>
-                            <li><a href="/menu.html" class="menu">FOOD + DRINK</a></li>
-                            <li id="last"><a href="/location.html" class="location">LOCATION</a></li>
+                            <li><a href="/events" class="events">EVENTS</a></li>
+                            <li><a href="/menu" class="menu">FOOD + DRINK</a></li>
+                            <li id="last"><a href="/location" class="location">LOCATION</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -149,7 +149,7 @@
         </div>
         <div class="row" id="events-button">
             <div class="small-11 small-centered medium-6 medium columns">
-                <a href="/events.html" class="button radius c2a">Events Calendar</a>
+                <a href="/events" class="button radius c2a">Events Calendar</a>
             </div>
         </div>
         <!-- show-for-medium-up -->
@@ -186,19 +186,19 @@
         </div>
         <div class="row section-trio">
             <div class="medium-4 columns">
-                <a href="menu.html">
+                <a href="menu">
                     <img src="/img/index/eats/steak.jpg" alt="Monday Night Steaks">
                     <h4>Monday Night Steaks</h4>
                 </a>
             </div>
             <div class="medium-4 columns">
-                <a href="menu.html">
+                <a href="menu">
                     <img src="/img/index/eats/drinks.jpg" alt="Drink Specials">
                     <h4>Happy Hour & Daily Drink Specials</h4>
                 </a>
             </div>
             <div class="medium-4 columns">
-                <a href="menu.html">
+                <a href="menu">
                 <img src="/img/index/eats/crawfish.jpg" alt="Crawfish">
                     <h4>Crawfish</h4>
                 </a>
@@ -221,7 +221,7 @@
         </div>
         <div class="row">
             <div class="small-12 columns">
-                <h4><a href="/menu.html">Check Out The Menu</a></h4>
+                <h4><a href="/menu">Check Out The Menu</a></h4>
             </div>
         </div>
     </section>
@@ -233,7 +233,7 @@
         </div>
         <div class="row" id="location-button">
             <div class="small-10 small-centered medium-6 large-4 columns">
-                <a href="/location.html" class="button radius c2a">Here's Our Location</a>
+                <a href="/location" class="button radius c2a">Here's Our Location</a>
             </div>
         </div>
     </section>
