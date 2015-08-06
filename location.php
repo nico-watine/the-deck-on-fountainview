@@ -1,16 +1,17 @@
+<?php 
+    include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Here's Our Location | The Deck On Fountainview</title>
+    <meta name="description" content="Come join us at The Deck, grab a drink and cheer on your favorite sports teams!"/>
     <link type="text/plain" rel="author" href="/humans.txt" />
-    <title>The Deck On Fountainview</title>
-    <meta name="description" content="We pride ourselves to be the true neighborhood local bar and the best sports bar in the Galleria Area with tasty food with one of Houston&#039;s best happy hours. #1 spot for Crawfish."/>
-    <link rel="canonical" href="http://thedeckonfountainview.com/" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
 
-    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="<?php autoVer('/css/app.css'); ?>"/>
+
     <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
     
     <!--[if lt IE 9]>
@@ -170,16 +171,15 @@
     </section>
 </footer>
 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <!--[if lt IE 9]>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
-<!--[if gte IE 9]>
-    <!-->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <!--
-<![endif]-->
-<script src="/js/foundation.min.js"></script>
-<script src="/js/app.min.js"></script>
+
+<script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/app-min.js'); ?>"></script>
+
 </body>
 </html>
