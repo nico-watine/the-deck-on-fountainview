@@ -46,16 +46,16 @@
         <nav class="top-bar" data-topbar role="navigation">
             <ul class="title-area">
                 <li class="name">
-                  <h1><a href="#"></a></h1>
+                  <h1><a href="/"></a></h1>
                 </li>
                 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
             <section class="top-bar-section">
                 <ul class="right">
                     <li><a href="/">HOME</a></li>
-                    <li><a href="/events.html">EVENTS</a></li>
+                    <li><a href="/events">EVENTS</a></li>
                     <li class="active"><a href="#">FOOD + DRINK</a></li>
-                    <li><a href="/location.html">LOCATION</a></li>
+                    <li><a href="/location">LOCATION</a></li>
                 </ul>
             </section>
         </nav>

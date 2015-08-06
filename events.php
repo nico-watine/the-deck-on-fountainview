@@ -56,7 +56,7 @@
         <nav class="top-bar" data-topbar role="navigation">
             <ul class="title-area">
                 <li class="name">
-                  <h1><a href="#"></a></h1>
+                  <h1><a href="/"></a></h1>
                 </li>
                 <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
@@ -64,8 +64,8 @@
                 <ul class="right">
                     <li><a href="/">HOME</a></li>
                     <li class="active"><a href="#">EVENTS</a></li>
-                    <li><a href="/menu-m.html">FOOD + DRINK</a></li>
-                    <li><a href="/location.html">LOCATION</a></li>
+                    <li><a href="/menu-m">FOOD + DRINK</a></li>
+                    <li><a href="/location">LOCATION</a></li>
                 </ul>
             </section>
         </nav>
@@ -99,8 +99,8 @@
                         <ul>
                             <li id="first"><a href="/" class="home">HOME</a></li>
                             <li><a href="#" class="events active">EVENTS</a></li>
-                            <li><a href="/menu.html" class="menu">FOOD + DRINK</a></li>
-                            <li id="last"><a href="/location.html" class="location">LOCATION</a></li>
+                            <li><a href="/menu" class="menu">FOOD + DRINK</a></li>
+                            <li id="last"><a href="/location" class="location">LOCATION</a></li>
                         </ul>
                     </nav>
                 </div>
