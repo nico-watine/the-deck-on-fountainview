@@ -122,7 +122,7 @@
             </div>
             <div class="medium-6 columns">
                 <h3>Have A Question? Get In Touch</h3>
-                <p>713-914-9990 <br> <a href="mailto:info@thedeckonfountainview.com">info@thedeckonfountainview.com</a></p>
+                <p>713-914-9990 <br> <a href="mailto:thedeckonfountainview@gmail.com">thedeckonfountainview@gmail.com</a></p>
             </div>
         </div>
         <div class="row">
