@@ -20,50 +20,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_ignores\/apple-touch-icon-144x144-precomposed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6613,
-		"inputAbbreviatedPath": "\/_ignores\/apple-touch-icon-144x144-precomposed.png",
-		"outputAbbreviatedPath": "\/_ignores\/apple-touch-icon-144x144-precomposed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_ignores\/apple-touch-icon-152x152-precomposed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6792,
-		"inputAbbreviatedPath": "\/_ignores\/apple-touch-icon-152x152-precomposed.png",
-		"outputAbbreviatedPath": "\/_ignores\/apple-touch-icon-152x152-precomposed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_ignores\/apple-touch-icon-180x180-precomposed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8291,
-		"inputAbbreviatedPath": "\/_ignores\/apple-touch-icon-180x180-precomposed.png",
-		"outputAbbreviatedPath": "\/_ignores\/apple-touch-icon-180x180-precomposed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_ignores\/apple-touch-icon-precomposed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6829,
-		"inputAbbreviatedPath": "\/_ignores\/apple-touch-icon-precomposed.png",
-		"outputAbbreviatedPath": "\/_ignores\/apple-touch-icon-precomposed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_ignores\/head.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -90,17 +46,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_ignores\/touch-icon-192x192.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9268,
-		"inputAbbreviatedPath": "\/_ignores\/touch-icon-192x192.png",
-		"outputAbbreviatedPath": "\/_ignores\/touch-icon-192x192.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/_ignores\/typography.html": {
 		"fileType": 8192,
@@ -5538,7 +5483,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "DOFV",
+	"displayValue": "Deck On Fountainview",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/apple-touch-icon-precomposed.png"
 	},
@@ -5685,7 +5630,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/dofv.local",
+	"externalServerAddress": "http:\/\/deck.static",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
