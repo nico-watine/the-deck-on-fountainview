@@ -1,3 +1,16 @@
+# ##############################################################################
+# # PERSONALLY CUSTOMIZED HTACCESS FILE
+# ------------------------------------------------------------------------------
+# # USED IN ALL NEW STANDARD PHP PROJECTS
+# # DOES NOT WORK WITH HYBRID STATIC/WORDPRESS SITES
+# ##############################################################################
+
+# ------------------------------------------------------------------------------
+# INCLUDES EDITS FOR .PHP FILE EXTENSION REMOVAL
+# INCLUDES EDITS FOR .HTM FILE EXTENSION REMOVAL
+# INCLUDES ENTRY FOR JS/CSS AUTOVERSIONING (LOCATED AT BOTTOM OF FILE)
+# ------------------------------------------------------------------------------
+
 # Apache Server Configs v1.1.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
 
