@@ -135,6 +135,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events.php",
+			"settings":
+			{
+				"buffer_size": 9523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu.php",
+			"settings":
+			{
+				"buffer_size": 28088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/pages/menu/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 2848,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -143,10 +167,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 107.0,
-		"last_filter": "",
+		"height": 147.0,
+		"last_filter": "syhtml",
 		"selected_items":
 		[
+			[
+				"syhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
 			[
 				"fetch",
 				"Fetch: Package"
@@ -208,7 +240,7 @@
 				"Package Control: Disable Package"
 			]
 		],
-		"width": 575.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -233,6 +265,8 @@
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/.htaccess",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/calendar-default.txt",
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_conservatory.scss",
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_interior.scss",
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/neat/_grid-settings.scss",
@@ -257,7 +291,6 @@
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/extras/_sticky-footer.scss",
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/slider/_slick-theme.scss",
 		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/ie.css",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/.htaccess",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/_ignores/lisa.sublime-workspace",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/pages/_location.scss",
 		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -359,12 +392,11 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/effects/animatedSelector.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower.json",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/app.css"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -379,6 +411,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"craw",
 			"conservatory/",
 			"gardens",
 			"1921",
@@ -505,8 +538,7 @@
 			"=\"#\"><",
 			"img/",
 			"nav-squares/",
-			"p",
-			"dark"
+			"p"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -544,8 +576,278 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4955,
+								4955
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10208,
+								10090
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3809.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/pages/menu/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2430,
+								2430
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -598,8 +900,20 @@
 		"selected_items":
 		[
 			[
+				"mensc",
+				"scss/pages/menu/_menu.scss"
+			],
+			[
+				"men",
+				"menu.php"
+			],
+			[
 				".ht",
 				".htaccess"
+			],
+			[
+				"even",
+				"events.php"
 			],
 			[
 				"loc",
@@ -762,10 +1076,6 @@
 				"location.html"
 			],
 			[
-				"men",
-				"menu.html"
-			],
-			[
 				"menujs",
 				"js/src/menu.js"
 			],
@@ -912,10 +1222,6 @@
 			[
 				"menumj",
 				"js/src/menu-m.js"
-			],
-			[
-				"even",
-				"events.html"
 			],
 			[
 				"hea",
@@ -1104,10 +1410,6 @@
 			[
 				"codi",
 				"_layouts/categories/coding.html"
-			],
-			[
-				"layout",
-				"_layouts/index/default.html"
 			]
 		],
 		"width": 0.0
@@ -1115,9 +1417,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "ne",
+		"last_filter": "en",
 		"selected_items":
 		[
+			[
+				"en",
+				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
+			],
+			[
+				"e",
+				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
+			],
 			[
 				"ne",
 				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
@@ -1145,10 +1455,6 @@
 			[
 				"snb",
 				"~/SNC Projects/Studio N Creations/Site Folder/beta.snc.com/_ignores/snc-beta.sublime-project"
-			],
-			[
-				"e",
-				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged-paris.sublime-project"
 			],
 			[
 				"j",
@@ -1201,7 +1507,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 365.0,
 	"status_bar_visible": true,
 	"template_settings":
