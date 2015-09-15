@@ -1,3 +1,10 @@
+// IMPORTS
+    // PRE-PENDS ::
+        // SKROLLR.MIN.JS
+        // JRESPOND.MIN.JS
+
+// -----------------------------------
+
 
 if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera)){
     skrollr.init({
@@ -5,6 +12,7 @@ if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAg
         smoothScrolling: true
     });
 }
+
 var jRes = jRespond([
     {
         label: 'small',

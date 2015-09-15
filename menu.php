@@ -574,7 +574,6 @@
 <![endif]-->
 
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
-<script src="<?php autoVer('/js/app-min.js'); ?>"></script>
 <script src="<?php autoVer('/js/menu-min.js'); ?>"></script>
 
 </body>
