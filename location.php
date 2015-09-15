@@ -108,6 +108,11 @@
     </div>
 </header>
 
+<aside id="golf-tourney">
+        <h3>Come Join Our Golf Tournament! <span>October 16, 2015</span></h3>
+        <a href="#" class="button">Sign Up Here</a>
+</aside>
+
 <main>
     <section id="contact-info">
         <div class="row">
