@@ -39,8 +39,7 @@
         </section>
         <div class="row">
             <div class="small-12 columns">
-                <a href="/"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
-                <noscript><img src="/img/logo/logo.png" alt="The Deck On Fountainview"></noscript></a>
+                <a href="/"><img src="/img/logo/logo@2x.png"></a>
             </div>
         </div>
         <nav class="top-bar" data-topbar role="navigation">
@@ -451,14 +450,13 @@
     </section>
 </footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-<script src="<?php autoVer('/js/foundation-m-min.js'); ?>"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="<?php autoVer('/js/menu-m-min.js'); ?>"></script>
-<script src="<?php autoVer('/js/app-min.js'); ?>"></script>
 
 </body>
 </html>
+
 
 
 

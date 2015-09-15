@@ -567,12 +567,10 @@
     </section>
 </footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!--[if lt IE 9]>
-    <script src="/js/rem.min.js" type="text/javascript"></script>
+    <script src="/js/rem-min.js" type="text/javascript"></script>
 <![endif]-->
-
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
 <script src="<?php autoVer('/js/menu-min.js'); ?>"></script>
 
