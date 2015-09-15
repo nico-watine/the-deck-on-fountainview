@@ -1,3 +1,10 @@
+// IMPORTS
+	// PREPENDS ::
+		// FOUNDATIONS.JS
+		// FOUNDATION.ACCORDIAN.JS
+		// FOUNDATION.TOPBAR.JS
+		// JRESPOND.MIN.JS
+
 $(document).foundation({});
 
 var jRes = jRespond([
