@@ -49,8 +49,7 @@
         </section>
         <div class="row">
             <div class="small-12 columns">
-                <a href="/"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
-                <noscript><img src="/img/logo/logo.png" alt="The Deck On Fountainview"></noscript></a>
+                <a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
             </div>
         </div>
         <nav class="top-bar" data-topbar role="navigation">
@@ -85,15 +84,7 @@
         <section id="main-header">
                 <div class="row">
                     <div class="small-12 medium-12 large-3 columns" id="logo">
-                    <!--[if lt IE 9]>
-                        <a href="/"><img src="/img/logo/logo.png" alt="The Deck On Fountainview"></a>
-                    <![endif]-->
-                    <!--[if gte IE 9]>
-                        <!-->
-                        <a href="/"><img data-interchange="[/img/logo/logo.png, (default)], [/img/logo/logo@2x.png, (retina)]">
-                        <noscript><img src="/img/logo/logo.png" alt="The Deck On Fountainview"></noscript></a>
-                        <!--
-                    <![endif]-->
+                        <a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
                     </div>
                     <nav class="small-12 large-9 columns">
                         <ul>
