@@ -108,12 +108,154 @@
     </div>
 </header>
 
-<aside id="golf-tourney">
-        <h3>Come Join Our Golf Tournament! <span>October 16, 2015</span></h3>
-        <a href="#" class="button">Sign Up Here</a>
-</aside>
-
 <main>
+
+<section id="golf-tourney-info">
+    <ul class="tabs" id="golf-tourney-form" data-tab>
+        <li class="tab-title active large-3 large-offset-3 columns"><a href="#individual" class="button">Individual</a></li>
+        <li class="tab-title large-3 columns end"><a href="#team" class="button">Team</a></li>
+    </ul>
+    <div class="tabs-content">
+        <div class="content active" id="individual">
+            <h2>Individual</h2>
+            <form action="#">
+                <div class="row">
+                    <div class="large-5 columns">
+                        <label>Name
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-3 columns">
+                        <label>Phone
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Handicap
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Club
+                            <input type="text">
+                        </label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-5 columns">
+                        <label>Address
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-3 columns">
+                        <label>City
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>State
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Zip
+                            <input type="text">
+                        </label>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="content" id="team">
+            <h2>Team Captain</h2>
+            <form action="#">
+                <div class="row">
+                    <div class="large-5 columns">
+                        <label>Name
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-3 columns">
+                        <label>Phone
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Handicap
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Club
+                            <input type="text">
+                        </label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-5 columns">
+                        <label>Address
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-3 columns">
+                        <label>City
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>State
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Zip
+                            <input type="text">
+                        </label>
+                    </div>
+                </div>
+            </form>
+            <h2>Player 2</h2>
+            <form action="#">
+                <div class="row">
+                    <div class="large-6 large-offset-1 columns">
+                        <label>Name
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Handicap
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns end">
+                        <label>Club
+                            <input type="text">
+                        </label>
+                    </div>
+                </div>
+            </form>
+            <h2>Player 3</h2>
+            <form action="#">
+                <div class="row">
+                    <div class="large-6 large-offset-1 columns">
+                        <label>Name
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns">
+                        <label>Handicap
+                            <input type="text">
+                        </label>
+                    </div>
+                    <div class="large-2 columns end">
+                        <label>Club
+                            <input type="text">
+                        </label>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
 
 <section id="calendar">
     <div class="row">

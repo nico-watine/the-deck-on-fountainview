@@ -45,3 +45,56 @@ aside#golf-tourney {
 		height: 150px;
 	}
 }
+
+section#golf-tourney-info {
+	margin-top: 60px;
+
+	li.tab-title {
+
+		a.button {
+			background: #fff;
+			color: #333;
+			box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.50);
+			border-radius: 6px;
+			font-family: 'Roboto Slab', serif;
+			font-size: 30px;
+			padding: 10px 40px 14px;
+
+			&:hover {
+				background: #5EBDDF;
+				color: #fff;
+				box-shadow: 0px 1px 1px 0px #000;
+			}
+		}
+	}
+
+	li.tab-title.active {
+		a.button {
+			background: #5EBDDF;
+			color: #fff;
+		}
+	}
+
+	.tabs-content {
+		h2 {
+			text-align: center;
+			text-shadow: 2px 2px 0 #000;
+		}
+	}
+	form {
+		margin-bottom: 20px;
+		label {
+			font-family: 'Lato', sans-serif;
+			font-weight: 700;
+			font-size: 18px;
+			color: #fff;
+			text-shadow: 2px 2px 0 #000;
+		}
+	}
+
+	@media #{$max-740} {
+		a.button {
+			font-size: 22px;
+		}
+	}
+}

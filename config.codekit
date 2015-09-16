@@ -405,7 +405,7 @@
 		},
 	"\/bower_components\/foundation\/js\/foundation\/foundation.tab.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.tab.js",
 		"outputAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/min\/foundation.tab-min.js",
@@ -4449,6 +4449,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dev\/forms.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dev\/forms.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/events.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5451,6 +5460,12 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
 			"position": 6,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.tab.js",
+			"position": 7,
 			"type": 0
 			}
 		],
