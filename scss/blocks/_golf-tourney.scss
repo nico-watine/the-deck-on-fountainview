@@ -1,5 +1,5 @@
-$max-740: "only screen and (max-width : 740px)";
-$max-520: "only screen and (max-width : 520px)";
+$max-900: "only screen and (max-width : 900px)";
+$max-650: "only screen and (max-width : 650px)";
 
 aside#golf-tourney {
 	height: 150px;
@@ -31,7 +31,7 @@ aside#golf-tourney {
 		}
 	}
 
-	@media #{$max-740} {
+	@media #{$max-900} {
 		height: 120px;
 		padding: 10px;
 
@@ -41,13 +41,22 @@ aside#golf-tourney {
 		}
 	}
 
-	@media #{$max-520} {
+	@media #{$max-650} {
 		height: 150px;
 	}
 }
 
 section#golf-tourney-info {
 	margin-top: 60px;
+	h1,
+	h2 {
+		text-align: center;
+		text-shadow: 2px 2px 0 #000;
+	}
+
+	h2 {
+		margin-bottom: 30px;
+	}
 
 	li.tab-title {
 
@@ -90,9 +99,30 @@ section#golf-tourney-info {
 			color: #fff;
 			text-shadow: 2px 2px 0 #000;
 		}
+		#submit-row {
+			text-align: center;
+			margin-top: 24px;
+
+			button#submit {
+				background: #fff;
+				color: #333;
+				box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.50);
+				border-radius: 6px;
+				font-family: 'Roboto Slab', serif;
+				font-size: 30px;
+				padding: 10px 40px 14px;
+				max-width: 280px;
+
+				&:hover {
+					background: #5EBDDF;
+					color: #fff;
+					box-shadow: 0px 1px 1px 0px #000;
+				}
+			}
+		}
 	}
 
-	@media #{$max-740} {
+	@media #{$max-900} {
 		a.button {
 			font-size: 22px;
 		}
