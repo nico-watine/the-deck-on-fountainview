@@ -114,52 +114,52 @@
     <h1>Deck Open Entry Form</h1>
     <h2>October 16, 2015</h2>
     <ul class="tabs" id="golf-tourney-form" data-tab>
-        <li class="tab-title active large-3 large-offset-3 columns"><a href="#individual" class="button">Individual</a></li>
-        <li class="tab-title large-3 columns end"><a href="#team" class="button">Team</a></li>
+        <li class="tab-title active medium-4 medium-offset-1 large-3 large-offset-3 columns"><a href="#individual" class="button">Individual</a></li>
+        <li class="tab-title medium-4 medium-offset-2 large-3  large-offset-0 columns end"><a href="#team" class="button">Team</a></li>
     </ul>
     <div class="tabs-content">
         <div class="content active" id="individual">
             <h2>Individual</h2>
             <form action="/php/sendcontact-individual" enctype="multipart/form-data" method="post">
                 <div class="row">
-                    <div class="large-5 columns">
+                    <div class="medium-8 large-5 columns">
                         <label>Name
                             <input type="text" name="name" id="name" >
                         </label>
                     </div>
-                    <div class="large-3 columns">
+                    <div class="medium-4 large-3 columns">
                         <label>Phone
                             <input type="text" name="phone" id="phone">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>Handicap
                             <input type="text" name="handicap" id="handicap">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>Club
                             <input type="text" name="club" id="club">
                         </label>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="large-5 columns">
+                    <div class="medium-8 large-5 columns">
                         <label>Address
                             <input type="text" name="address" id="address">
                         </label>
                     </div>
-                    <div class="large-3 columns">
+                    <div class="medium-4 large-3 columns">
                         <label>City
                             <input type="text" name="city" id="city">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>State
                             <input type="text" name="state" id="state">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>Zip
                             <input type="text" name="zip" id="zip">
                         </label>
