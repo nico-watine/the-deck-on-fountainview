@@ -71,7 +71,7 @@
     <section id="menu-title">
         <div class="row">
             <div class="small-12 columns">
-                <h1>Food & Drink Menu</h1>
+                <h1>Food &amp; Drink Menu</h1>
                 <h3>We Serve a Variety Of Food, From Steak and Burgers to Salads and Wraps</h3>
             </div>
         </div>
@@ -87,8 +87,8 @@
                             <div class="row">
                                 <div class="medium-6 columns">
                                     <ul class="no-bullet">
-                                        <li>Chips & Salsa <span>- $3.25</span></li>
-                                        <li>Chips & Queso <span>- $4.75</span></li>
+                                        <li>Chips &amp; Salsa <span>- $3.25</span></li>
+                                        <li>Chips &amp; Queso <span>- $4.75</span></li>
                                             <ul class="description">
                                                 <li>Add fajita - $7.79</li>
                                             </ul>
@@ -129,9 +129,9 @@
                                             </ul>
                                         <li>Semi Pro Sampler (choose 4)<span>- $11.99</span></li>
                                             <ul class="description">
-                                                <li>Chips & Salsa | Potato Skins</li>
+                                                <li>Chips &amp; Salsa | Potato Skins</li>
                                                 <li>Mozzarella Sticks | Fried Mushrooms</li>
-                                                <li>Chips & Queso | Fried Green Beans</li>
+                                                <li>Chips &amp; Queso | Fried Green Beans</li>
                                             </ul>
                                         <li>Pregame Tacos <span>- $1.99</span></li>
                                             <ul class="description">
@@ -139,7 +139,7 @@
                                             </ul>
                                         <li>Nachos</li>
                                             <ul class="description">
-                                                <li>Beans & Cheese - $6.99</li>
+                                                <li>Beans &amp; Cheese - $6.99</li>
                                                 <li>Chicken - $8.99</li>
                                                 <li>Fajita Beef - $10.99</li>
                                             </ul>
@@ -147,7 +147,7 @@
                                         <li>Fried Mushrooms <span>- $6.99</span></li>
                                         <li>Soup</li>
                                             <ul class="description">
-                                                <li><strong>'The Deck'</strong> Homemade Chili, Chicken & Sausage gumbo, or Spicy Chicken Noodle</li>
+                                                <li><strong>'The Deck'</strong> Homemade Chili, Chicken &amp; Sausage gumbo, or Spicy Chicken Noodle</li>
                                                 <li>cup $3.99 | bowl $4.99</li>
                                             </ul>
                                     </ul>
@@ -171,7 +171,7 @@
                                     <li><img src="/img/menu/club-salad.jpg" alt="Club Salad"></li>
                                     <li>Club Salad <span>-$8.99</span></li>
                                         <ul class="description">
-                                            <li>Crisp Romaine lettuce, crispy chicken tenders, onions, tomatoes, avocado & cheese</li>
+                                            <li>Crisp Romaine lettuce, crispy chicken tenders, onions, tomatoes, avocado &amp; cheese</li>
                                         </ul>
                                 </ul>
                             </div>
@@ -179,20 +179,20 @@
                                 <ul class="no-bullet">
                                     <li>Taco Salad <span>- $8.99</span></li>
                                         <ul class="description">
-                                            <li>Crisp Romaine topped with ground beef, cheddar cheese, sour cream, fresh corn, homemade salsa & guacamole</li>
+                                            <li>Crisp Romaine topped with ground beef, cheddar cheese, sour cream, fresh corn, homemade salsa &amp; guacamole</li>
                                         </ul>
                                     <li>Garden Salad <span>- $5.99</span></li>
                                         <ul class="description">
-                                            <li>Crisp Romain lettuce topped with fresh tomatoes, carrots, croutons & cheese</li>
+                                            <li>Crisp Romain lettuce topped with fresh tomatoes, carrots, croutons &amp; cheese</li>
                                             <li>Add chicken or shrimp - $2.99</li>
                                         </ul>
                                     <li>Grilled Chicken Caesar <span>- $8.99</span></li>
                                         <ul class="description">
-                                            <li>Crisp Romaine lettuce tossed with Caesar dressing, grilled chicken & croutons</li>
+                                            <li>Crisp Romaine lettuce tossed with Caesar dressing, grilled chicken &amp; croutons</li>
                                         </ul>
                                     <li>Cobb Salad <span>- $8.99</span></li>
                                         <ul class="description">
-                                            <li>Crisp Romaine lettuce topped with ham, eggs, blue cheese crumbles, tomatoes, croutons & blue cheese dressing</li>
+                                            <li>Crisp Romaine lettuce topped with ham, eggs, blue cheese crumbles, tomatoes, croutons &amp; blue cheese dressing</li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -215,12 +215,12 @@
                                 <ul class="no-bullet">
                                     <li>Deck Burger <span>- $7.99</span></li>
                                         <ul class="description">
-                                            <li>Certified Angus Beef Patty topped with lettuce, tomato, pickles & onions</li>
+                                            <li>Certified Angus Beef Patty topped with lettuce, tomato, pickles &amp; onions</li>
                                             <li>Add Cheese: American, Swiss, Blue, Cheddar, Pepper Jack - .59¢</li>
                                         </ul>
-                                    <li>Black & Blue Burger <span>- $9.59</span></li>
+                                    <li>Black &amp; Blue Burger <span>- $9.59</span></li>
                                         <ul class="description">
-                                            <li>Certified Angus Beef Patty, blackened and topped with lettuce, tomato, onions and pickles & finished with a pile of blue cheese crumbles</li>
+                                            <li>Certified Angus Beef Patty, blackened and topped with lettuce, tomato, onions and pickles &amp; finished with a pile of blue cheese crumbles</li>
                                         </ul>
                                     <li>Deck Melt <span>- $8.59</span></li>
                                         <ul class="description">
@@ -232,7 +232,7 @@
                                 <ul class="no-bullet">
                                     <li>Bacon Cheeseburger <span>- $8.99</span></li>
                                         <ul class="description">
-                                            <li>Certified Angus Beef Patty topped with 4 strips of crispy bacon, shredded cheddar cheese, lettuce, tomato, pickles & onions</li>
+                                            <li>Certified Angus Beef Patty topped with 4 strips of crispy bacon, shredded cheddar cheese, lettuce, tomato, pickles &amp; onions</li>
                                         </ul>
                                     <li><img src="/img/menu/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger"></li>
                                     <li>The Deck Dog <span>- $5.99</span></li>
@@ -265,7 +265,7 @@
                                         </ul>
                                     <li>Chicken Fried Chicken <span>- $9.99</span></li>
                                         <ul class="description">
-                                            <li>10oz chicken breast, breaded and fried to a gold brown. Topped with white country gravy and served with mashed potatoes & grilled vegetables</li>
+                                            <li>10oz chicken breast, breaded and fried to a gold brown. Topped with white country gravy and served with mashed potatoes &amp; grilled vegetables</li>
                                         </ul>
                                     <li>Chicken Fried Steak <span>- $9.99</span></li>
                                         <ul class="description">
@@ -288,7 +288,7 @@
                                     <li>Wraps <span>- $7.99</span></li>
                                         <ul class="description">
                                             <li>Ham | Turkey | Caesar</li>
-                                            <li>Grilled Turkey | Ham & Cheese</li>
+                                            <li>Grilled Turkey | Ham &amp; Cheese</li>
                                         </ul>
                                     <li>Chicken Breast <span>- $9.99</span></li>
                                         <ul class="description">
@@ -296,7 +296,7 @@
                                         </ul>
                                     <li>Tostadas <span>- $7.99</span></li>
                                         <ul class="description">
-                                            <li>Three crispy Tostadas topped with seasoned ground beef, shredded lettuce, tomatoes, avocadoes & Mexican cheese</li>
+                                            <li>Three crispy Tostadas topped with seasoned ground beef, shredded lettuce, tomatoes, avocadoes &amp; Mexican cheese</li>
                                         </ul>
                                     <li>Chicken or Shrimp Alfredo <span>- $9.99</span></li>
                                         <ul class="description">
@@ -304,11 +304,11 @@
                                         </ul>
                                     <li>Queso Pasta <span>- $9.99</span></li>
                                         <ul class="description">
-                                            <li>Penne pasta topped with our secret house blend of spicy cheese, topped with blackened & sliced chicken breast and served with garlic bread</li>
+                                            <li>Penne pasta topped with our secret house blend of spicy cheese, topped with blackened &amp; sliced chicken breast and served with garlic bread</li>
                                         </ul>
                                     <li>Deck Tacos <span>- $9.99</span></li>
                                         <ul class="description">
-                                            <li>3 soft or crispy tacos, stuffed with fajita beef or chicken, and served with refried beans & rice</li>
+                                            <li>3 soft or crispy tacos, stuffed with fajita beef or chicken, and served with refried beans &amp; rice</li>
                                         </ul>
                                     <li>Tilapia <span>- $9.99</span></li>
                                         <ul class="description">
@@ -317,7 +317,7 @@
                                         </ul>
                                     <li>Crawfish <span>- Market Price/lb</span></li>
                                         <ul class="description">
-                                            <li>Add your choice of Sausage or Corn & Potatos - $1.50 each</li>
+                                            <li>Add your choice of Sausage or Corn &amp; Potatos - $1.50 each</li>
                                         </ul>
                                     <br>
                                     <li id="sides-label">Sides <span>- $1.99</span></li>
@@ -366,7 +366,7 @@
                                             </ul>
                                         <li>Thursday</li>
                                             <ul class="description">
-                                                <li>.45&cent; Hot Wings</li>
+                                                <li>.45&amp;cent; Hot Wings</li>
                                                 <li>Big Ass Beers - Domestic $3 / Imports $3.50</li>
                                             </ul>
                                         <li>Friday</li>
@@ -378,11 +378,11 @@
                                         <li>Saturday</li>
                                             <ul class="description">
                                                 <li>$2.75 Domestic Draft</li>
-                                                <li>Bloody Mary & Breakfast Taco $5.99</li>
+                                                <li>Bloody Mary &amp; Breakfast Taco $5.99</li>
                                             </ul>
                                         <li>Sunday</li>
                                             <ul class="description">
-                                                <li>Bloody Mary & Breakfast Taco $5.99</li>
+                                                <li>Bloody Mary &amp; Breakfast Taco $5.99</li>
                                                 <li>$2.75 Domestic Beers | $3 Import Beers</li>
                                             </ul>
                                     <hr>
@@ -394,12 +394,12 @@
                                             <ul class="description">
                                                 <li><strong>Dine-In Only</strong></li>
                                                 <li>Mon - Fri 11-3</li>
-                                                <li>Ground Beef Burger or Chicken Tenders, served with your choice of fries or onion rings & soft drink or tea - $6.99</li>
+                                                <li>Ground Beef Burger or Chicken Tenders, served with your choice of fries or onion rings &amp; soft drink or tea - $6.99</li>
                                             </ul>
                                         <br>
                                         <li>Happy Hour</li>
                                             <ul class="description">
-                                                <li><strong>11-7 Mon - Thurs & Fri all day!</strong></li>
+                                                <li><strong>11-7 Mon - Thurs &amp; Fri all day!</strong></li>
                                                 <li>$2.50 Domestic Bottles</li>
                                                 <li>$3.50 Import Bottles</li>
                                                 <li>$2.75 Domestic Draft</li>
