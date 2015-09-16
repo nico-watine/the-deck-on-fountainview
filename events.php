@@ -124,44 +124,44 @@
                 <div class="row">
                     <div class="large-5 columns">
                         <label>Name
-                            <input type="text" id="name" >
+                            <input type="text" name="name" id="name" >
                         </label>
                     </div>
                     <div class="large-3 columns">
                         <label>Phone
-                            <input type="text" id="phone">
+                            <input type="text" name="phone" id="phone">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Handicap
-                            <input type="text" id="handicap">
+                            <input type="text" name="handicap" id="handicap">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Club
-                            <input type="text" id="club">
+                            <input type="text" name="club" id="club">
                         </label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="large-5 columns">
                         <label>Address
-                            <input type="text" id="address">
+                            <input type="text" name="address" id="address">
                         </label>
                     </div>
                     <div class="large-3 columns">
                         <label>City
-                            <input type="text" id="city">
+                            <input type="text" name="city" id="city">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>State
-                            <input type="text" id="state">
+                            <input type="text" name="state" id="state">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Zip
-                            <input type="text" id="zip">
+                            <input type="text" name="zip" id="zip">
                         </label>
                     </div>
                 </div>
@@ -180,44 +180,44 @@
                 <div class="row">
                     <div class="large-5 columns">
                         <label>Name
-                            <input type="text" id="captain-name" >
+                            <input type="text" name="captain-name" id="captain-name" >
                         </label>
                     </div>
                     <div class="large-3 columns">
                         <label>Phone
-                            <input type="text" id="captain-phone">
+                            <input type="text" name="captain-phone" id="captain-phone">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Handicap
-                            <input type="text" id="captain-handicap">
+                            <input type="text" name="captain-handicap" id="captain-handicap">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Club
-                            <input type="text" id="captain-club">
+                            <input type="text" name="captain-club" id="captain-club">
                         </label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="large-5 columns">
                         <label>Address
-                            <input type="text" id="captain-address">
+                            <input type="text" name="captain-address" id="captain-address">
                         </label>
                     </div>
                     <div class="large-3 columns">
                         <label>City
-                            <input type="text" id="captain-city">
+                            <input type="text" name="captain-city" id="captain-city">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>State
-                            <input type="text" id="captain-state">
+                            <input type="text" name="captain-state" id="captain-state">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Zip
-                            <input type="text" id="captain-zip">
+                            <input type="text" name="captain-zip" id="captain-zip">
                         </label>
                     </div>
                 </div>
@@ -227,17 +227,17 @@
                 <div class="row">
                     <div class="large-6 large-offset-1 columns">
                         <label>Name
-                            <input type="text" id="p2-name">
+                            <input type="text" name="p2-name" id="p2-name">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Handicap
-                            <input type="text" id="p2-handicap">
+                            <input type="text" name="p2-handicap" id="p2-handicap">
                         </label>
                     </div>
                     <div class="large-2 columns end">
                         <label>Club
-                            <input type="text" id="p2-club">
+                            <input type="text" name="p2-club" id="p2-club">
                         </label>
                     </div>
                 </div>
@@ -247,17 +247,17 @@
                 <div class="row">
                     <div class="large-6 large-offset-1 columns">
                         <label>Name
-                            <input type="text" id="p3-name">
+                            <input type="text" name="p3-name" id="p3-name">
                         </label>
                     </div>
                     <div class="large-2 columns">
                         <label>Handicap
-                            <input type="text" id="p3-handicap">
+                            <input type="text" name="p3-handicap" id="p3-handicap">
                         </label>
                     </div>
                     <div class="large-2 columns end">
                         <label>Club
-                            <input type="text" id="p3-club">
+                            <input type="text" name="p3-club" id="p3-club">
                         </label>
                     </div>
                 </div>
