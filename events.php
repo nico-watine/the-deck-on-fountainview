@@ -178,44 +178,44 @@
                     <h2>Team Captain</h2>
                 </div>
                 <div class="row">
-                    <div class="large-5 columns">
+                    <div class="medium-8 large-5 columns">
                         <label>Name
                             <input type="text" name="captain-name" id="captain-name" >
                         </label>
                     </div>
-                    <div class="large-3 columns">
+                    <div class="medium-4 large-3 columns">
                         <label>Phone
                             <input type="text" name="captain-phone" id="captain-phone">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>Handicap
                             <input type="text" name="captain-handicap" id="captain-handicap">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>Club
                             <input type="text" name="captain-club" id="captain-club">
                         </label>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="large-5 columns">
+                    <div class="medium-8 large-5 columns">
                         <label>Address
                             <input type="text" name="captain-address" id="captain-address">
                         </label>
                     </div>
-                    <div class="large-3 columns">
+                    <div class="medium-4 large-3 columns">
                         <label>City
                             <input type="text" name="captain-city" id="captain-city">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>State
                             <input type="text" name="captain-state" id="captain-state">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 large-2 columns">
                         <label>Zip
                             <input type="text" name="captain-zip" id="captain-zip">
                         </label>
@@ -225,17 +225,17 @@
                     <h2>Player 2</h2>
                 </div>
                 <div class="row">
-                    <div class="large-6 large-offset-1 columns">
+                    <div class="medium-6 medium-offset-1 columns">
                         <label>Name
                             <input type="text" name="p2-name" id="p2-name">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 medium-2 columns">
                         <label>Handicap
                             <input type="text" name="p2-handicap" id="p2-handicap">
                         </label>
                     </div>
-                    <div class="large-2 columns end">
+                    <div class="small-6 medium-2 columns end">
                         <label>Club
                             <input type="text" name="p2-club" id="p2-club">
                         </label>
@@ -245,17 +245,17 @@
                     <h2>Player 3</h2>
                 </div>
                 <div class="row">
-                    <div class="large-6 large-offset-1 columns">
+                    <div class="medium-6 medium-offset-1 columns">
                         <label>Name
                             <input type="text" name="p3-name" id="p3-name">
                         </label>
                     </div>
-                    <div class="large-2 columns">
+                    <div class="small-6 medium-2 columns">
                         <label>Handicap
                             <input type="text" name="p3-handicap" id="p3-handicap">
                         </label>
                     </div>
-                    <div class="large-2 columns end">
+                    <div class="small-6 medium-2 columns end">
                         <label>Club
                             <input type="text" name="p3-club" id="p3-club">
                         </label>
