@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+bower_components
+npm-debug.log
+dist
+config.codekit
+config.codekit3
+*.sublime-project
+*.sublime-workspace
