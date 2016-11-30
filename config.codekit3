@@ -4929,7 +4929,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/foundation-min-min.js",
+		"oAP": "\/js\/foundation-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4938,7 +4938,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/index-min-min.js",
+		"oAP": "\/js\/index-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4947,7 +4947,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/menu-m-min-min.js",
+		"oAP": "\/js\/menu-m-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4956,7 +4956,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/menu-min-min.js",
+		"oAP": "\/js\/menu-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4965,7 +4965,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/rem-min-min.js",
+		"oAP": "\/js\/rem-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4974,7 +4974,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/min\/foundation-min.js",
+		"oAP": "\/js\/foundation-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4983,7 +4983,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/min\/index-min.js",
+		"oAP": "\/js\/index-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4992,7 +4992,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/min\/menu-m-min.js",
+		"oAP": "\/js\/menu-m-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -5001,7 +5001,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/min\/menu-min.js",
+		"oAP": "\/js\/menu-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -5010,7 +5010,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/min\/rem-min.js",
+		"oAP": "\/js\/rem-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -5019,7 +5019,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/vendor\/jquery\/1-11-3\/min\/jquery-min-min.js",
+		"oAP": "\/js\/jquery-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -7018,10 +7018,10 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "js\/",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
