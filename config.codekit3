@@ -306,7 +306,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.accordion.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.accordion.js",
 		"oF": 0,
 		"sC": 0,
@@ -369,7 +369,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.js",
 		"oF": 0,
 		"sC": 0,
@@ -441,7 +441,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js",
 		"oF": 0,
 		"sC": 0,
@@ -2204,7 +2204,7 @@
 	"\/bower_components\/jrespond\/js\/jRespond.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/jrespond\/js\/jRespond.min.js",
 		"oF": 0,
 		"sC": 0,
@@ -5293,6 +5293,32 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/menu-m.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.accordion.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/jrespond\/js\/jRespond.min.js",
+			"position": 3,
+			"type": 0
+			}
+		],
 	"\/js\/src\/menu.js": [
 		{
 			"followForSyntaxChecking": 0,
