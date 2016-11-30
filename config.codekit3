@@ -4386,7 +4386,7 @@
 	"\/bower_components\/slick.js\/slick\/slick.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/slick.js\/slick\/slick.min.js",
 		"oF": 0,
 		"sC": 0,
@@ -5293,6 +5293,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/index.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/slick.js\/slick\/slick.min.js",
+			"position": 0,
+			"type": 0
+			}
+		],
 	"\/js\/src\/menu-m.js": [
 		{
 			"followForSyntaxChecking": 0,
