@@ -248,6 +248,10 @@
 <![endif]-->
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
 <script src="<?php autoVer('/js/index-min.js'); ?>"></script>
-
+<script>
+	window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+	ga('create','UA-85408517-5','auto');ga('send','pageview')
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async defer></script>
 </body>
 </html>
