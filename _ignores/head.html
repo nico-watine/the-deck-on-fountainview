@@ -1,23 +1,22 @@
-<!doctype html>
-<html class="no-js" lang="en">
+<?php 
+    include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <link type="text/plain" rel="author" href="/humans.txt" />
-    <title>The Deck On Fountainview</title>
-    <meta name="description" content="We pride ourselves to be the true neighborhood local bar and the best sports bar in the Galleria Area with tasty food with one of Houston&#039;s best happy hours. #1 spot for Crawfish."/>
-    <link rel="canonical" href="http://thedeckonfountainview.com/" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}} | The Deck On Fountainview</title>
+    <meta name="description" content="Description">
+    <link href="http://thedeckonfountainview.com/" rel="canonical">
+    <link href="/humans.txt" rel="author">
 
-    <link rel="stylesheet" href="/css/app.css" />
-    <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
-    
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-        <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-    <![endif]-->
+    <link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+
 </head>
 
+
+
+<!-- At bottom of page, before you call foundation.js -->
+<script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
