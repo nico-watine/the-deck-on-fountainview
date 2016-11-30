@@ -45,10 +45,10 @@
 		"oAP": "\/_ignores\/calendar-default.txt",
 		"oF": 0
 		},
-	"\/_ignores\/head.html": {
+	"\/_ignores\/head-templates.html": {
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_ignores\/head.html",
+		"oAP": "\/_ignores\/head-templates.html",
 		"oF": 0
 		},
 	"\/_ignores\/htaccess.txt": {
