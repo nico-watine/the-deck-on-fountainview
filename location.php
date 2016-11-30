@@ -1,36 +1,19 @@
 <?php 
     include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
-<!doctype html>
-<html class="no-js" lang="en">
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Here's Our Location | The Deck On Fountainview</title>
-    <meta name="description" content="Come join us at The Deck, grab a drink and cheer on your favorite sports teams!"/>
-    <link type="text/plain" rel="author" href="/humans.txt" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Location &amp; Contact | The Deck On Fountainview</title>
+    <meta name="description" content="We're located at 6002 Fairdale Lane Houston, TX 77057. Call 713-914-9990.">
+    <link href="http://thedeckonfountainview.com/location" rel="canonical">
+    <link href="/humans.txt" rel="author">
 
-    <link rel="stylesheet" href="<?php autoVer('/css/app.css'); ?>"/>
+    <link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 
-    <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
-    
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-        <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-    <![endif]-->
-
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-55459011-4', 'auto');
-      ga('send', 'pageview');
-
-    </script>
 </head>
 
 <body>
@@ -165,6 +148,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
 <!--[if lt IE 9]>
     <script src="/js/rem-min.js" type="text/javascript"></script>
 <![endif]-->
