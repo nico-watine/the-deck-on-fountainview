@@ -3780,7 +3780,7 @@
 	"\/bower_components\/REM-unit-polyfill\/js\/rem.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
 		"oF": 0,
 		"sC": 0,
@@ -5330,6 +5330,14 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/jrespond\/js\/jRespond.min.js",
 			"position": 1,
+			"type": 0
+			}
+		],
+	"\/js\/src\/rem.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/REM-unit-polyfill\/js\/rem.min.js",
+			"position": 0,
 			"type": 0
 			}
 		]
