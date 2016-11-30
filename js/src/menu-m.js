@@ -5,7 +5,13 @@
 		// FOUNDATION.TOPBAR.JS
 		// JRESPOND.MIN.JS
 
-$(document).foundation({});
+// $(document).foundation({});
+
+$(document).foundation({
+  accordion: {
+    multi_expand: true
+  }
+});
 
 var jRes = jRespond([
     {
