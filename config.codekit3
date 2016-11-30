@@ -45,6 +45,12 @@
 		"oAP": "\/_ignores\/calendar-default.txt",
 		"oF": 0
 		},
+	"\/_ignores\/google-analytics-snippet.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/google-analytics-snippet.html",
+		"oF": 0
+		},
 	"\/_ignores\/head-templates.html": {
 		"ft": 8192,
 		"oA": 0,
