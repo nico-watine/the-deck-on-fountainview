@@ -57,6 +57,12 @@
 		"oAP": "\/_ignores\/htaccess.txt",
 		"oF": 0
 		},
+	"\/_ignores\/ie8-head.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/ie8-head.html",
+		"oF": 0
+		},
 	"\/_ignores\/index(old).html": {
 		"ft": 8192,
 		"oA": 0,
@@ -67,6 +73,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/new-calendar-snippet.html",
+		"oF": 0
+		},
+	"\/_ignores\/old-google-tracking-id.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/old-google-tracking-id.html",
 		"oF": 0
 		},
 	"\/_ignores\/the-deck-on-fountainview.sublime-project": {
