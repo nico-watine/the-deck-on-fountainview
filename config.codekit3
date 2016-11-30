@@ -5317,12 +5317,6 @@
 			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js",
 			"position": 1,
 			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
-			"position": 2,
-			"type": 0
 			}
 		],
 	"\/js\/src\/index.js": [
@@ -5370,6 +5364,12 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/jrespond\/js\/jRespond.min.js",
 			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
+			"position": 2,
 			"type": 0
 			}
 		],
