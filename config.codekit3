@@ -2204,7 +2204,7 @@
 	"\/bower_components\/jrespond\/js\/jRespond.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/jrespond\/js\/jRespond.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -3867,7 +3867,7 @@
 	"\/bower_components\/skrollr\/dist\/skrollr.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/skrollr\/dist\/skrollr.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -5293,6 +5293,20 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/menu.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/skrollr\/dist\/skrollr.min.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/jrespond\/js\/jRespond.min.js",
+			"position": 1,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 501275536,
