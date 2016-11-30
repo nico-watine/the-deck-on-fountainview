@@ -1,11 +1,8 @@
 // IMPORTS
 	// PREPENDS::
 		// foundation.js
-		// interchange.js
-		// clearing.js
-		// dropdown.js
 		// topbar.js
-		// magellan.js
+		// magellan.js <- this is on menu.php page
 
 // -----------------------------------
 
@@ -20,3 +17,9 @@ $(document).foundation({
       offset_by_height: true // whether to offset the destination by the expedition height. Usually you want this to be true, unless your expedition is on the side.
     }
 });
+
+
+// PREVIOUSLY IMPORTED PRIOR TO FILE OPTIMIZATION ::
+// interchange.js
+// clearing.js
+// dropdown.js
