@@ -324,7 +324,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.clearing.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.clearing.js",
 		"oF": 0,
 		"sC": 0,
@@ -333,7 +333,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.dropdown.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.dropdown.js",
 		"oF": 0,
 		"sC": 0,
@@ -351,7 +351,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.interchange.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.interchange.js",
 		"oF": 0,
 		"sC": 0,
@@ -378,7 +378,7 @@
 	"\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
 		"oF": 0,
 		"sC": 0,
@@ -5293,6 +5293,44 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/foundation.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.interchange.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.clearing.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.dropdown.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js",
+			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
+			"position": 5,
+			"type": 0
+			}
+		],
 	"\/js\/src\/index.js": [
 		{
 			"followForSyntaxChecking": 0,
