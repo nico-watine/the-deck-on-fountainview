@@ -1,37 +1,19 @@
 <?php 
     include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
-<!doctype html>
-<html class="no-js" lang="en">
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>We've Got Good Eats &amp; Cold Drinks! | The Deck On Fountainview</title>
-    <meta name="description" content="We pride ourselves to be the true neighborhood local bar and the best sports bar in the Galleria Area with tasty food with one of Houston&amp;#039;s best happy hours. #1 spot for Crawfish."/>
-    <link rel="canonical" href="http://thedeckonfountainview.com/" />
-    <link type="text/plain" rel="author" href="/humans.txt" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food &amp; Drink Menu | The Deck On Fountainview</title>
+    <meta name="description" content="We've got good eats &amp; cold drinks! View our full menu.">
+    <link href="http://thedeckonfountainview.com/menu" rel="canonical">
+    <link href="/humans.txt" rel="author">
 
-    <link rel="stylesheet" href="<?php autoVer('/css/app.css'); ?>"/>
+    <link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 
-    <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
-    
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-        <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-    <![endif]-->
-
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-55459011-4', 'auto');
-      ga('send', 'pageview');
-
-    </script>
 </head>
 
 <body>
@@ -555,6 +537,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
 <!--[if lt IE 9]>
     <script src="/js/rem-min.js" type="text/javascript"></script>
 <![endif]-->
