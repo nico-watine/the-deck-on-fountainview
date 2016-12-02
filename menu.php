@@ -258,14 +258,11 @@
 
 	<section id="burgers">
 		<div class="row">
-			<div class="small-12 columns section-title">
+			<div class="small-12 columns menu-category-title">
 				<a name="burgers"></a>
-				<h2 data-magellan-destination="burgers">Burgers</h2>
-			</div>
-		</div>
-		<div class="row">
-			<div class="small-12 columns section-detail">
-				<h5>-served with your choice of fries or onion rings-<br>-mix both for $1 extra-</h5>
+				<p data-magellan-destination="burgers">Burgers</p>
+				<h2>Home Plate Sliders</h2>
+				<p class="menu-category-extra">-Served with Crispy Pub Fries-</p>
 			</div>
 		</div>
 		<div class="row item-row">
