@@ -130,6 +130,8 @@
 					<p class="item-price"><strong>$6.99</strong></p>
 					<p class="item-description">Pile of Hand Battered Kosher Pickle Chips, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
 				</div>
+			</div>
+			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">The Sticks</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
@@ -146,6 +148,8 @@
 					<p class="item-description">Pile of Hand Battered Fresh Green Beans, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
 				</div>
 			</div>
+		</div>
+		<div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Tex-Rolls</h3>
@@ -163,6 +167,8 @@
 					<p class="item-price"><strong>$6.99</strong></p>
 					<p class="item-description">Fritos Piled High, topped with Creamy Nacho Cheese sauce and Homemade Texas Chili</p>
 				</div>
+			</div>
+			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Chicken &amp; Andouille Sausage Gumbo</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
