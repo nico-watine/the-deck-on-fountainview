@@ -119,6 +119,62 @@
 					- Add Grilled Chicken + <strong>$2.00</strong> <br>
 					- Add Certified Angus Beef Fajita + <strong>$3.00</strong></p>
 				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Skins Game</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Five Potato Skins Fried to a Golden Brown, Topped with Cheddar Cheese, Apple Wood Smoked Bacon, Fresh Chives, Sour Cream and a side of Homemade Buttermilk Ranch</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Buzzer Battered Pickles</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Pile of Hand Battered Kosher Pickle Chips, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">The Sticks</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">10 Hand Battered Mozzarella Sticks, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch and Zesty Marinara Sauce</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Ball Caps</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Ten Hand Battered Mushroom Caps, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">19th Hole Green Beans</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Pile of Hand Battered Fresh Green Beans, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Tex-Rolls</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Not your ordinary Egg Rolls!!! Four Crispy Egg Rolls stuffed with Grilled Chicken, Pepper Jack Cheese, Black Bean, Sweet Corn and Peppers fried to a Golden Brown and served with Zesty Jalapeno Ranch Dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Texsadillas</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Fresh All Natural Chicken Breast, layered between Shredded Cheddar and Monterey Jack Cheese and grilled between two Fresh Flour Tortillas <br>
+					- Add Certified Angus Beef Fajita + <strong>$2.00</strong></p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Frito Pie</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Fritos Piled High, topped with Creamy Nacho Cheese sauce and Homemade Texas Chili</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Chicken &amp; Andouille Sausage Gumbo</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Fresh Chicken Breast and Sliced Andouille Sausage, nestled in a Zesty New Orleans style Roux and served with a generous scoop of Steaming Long Grain Rice</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Texas Pepas</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Five Fresh Texas Jalapenos Stuffed with Wisconsin Cheddar Cheese, Battered with Homemade Potato Breading and Fried to a Golden Brown</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Coin Toss Tacos</h3>
+					<p class="item-price"><strong>$6.99</strong> (Only Served Sunday Mornings)</p>
+					<p class="item-description">Two Early Morning Breakfast Tacos Stuffed with Scrambled Eggs, Cheddar Cheese, Refried Beans and your choice of Bacon, Sausage or Chorizo. Served with Homemade Salsa</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
 				
