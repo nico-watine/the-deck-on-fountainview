@@ -220,14 +220,10 @@
 	
 	<section id="salads">
 		<div class="row">
-			<div class="small-12 columns section-title">
-				<a name="salads"></a>
-				<h2 data-magellan-destination="salads">Salads</h2>
-			</div>
-		</div>
-		<div class="row">
-			<div class="small-12 columns section-detail">
-				<h5>-Dressings- <br> Homemade Ranch/ Caesar/ Blue Cheese/ Italian/ Avocado Ranch/ 1000 Island/ Honey Mustard/ Cilantro Lime/ Balsamic Vinaigrette</h5>
+			<div class="small-12 columns menu-category-title">
+				<a name="appetizers"></a>
+				<p>Salads</p>
+				<h2 data-magellan-destination="appetizers">On the Green</h2>
 			</div>
 		</div>
 		<div class="row item-row">
