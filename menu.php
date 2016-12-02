@@ -418,32 +418,21 @@
 		</div>
 	</section>
 
-	<section id="dog-sides">
+	<section id="sides">
 		<div class="row">
-			<div class="medium-6 columns">
-
-			</div>
-			<div class="medium-6 columns">
-
+			<div class="small-12 columns menu-category-title">
+				<h2>Sides</h2>
+				<p class="menu-category-extra">$1.99</p>
 			</div>
 		</div>
 		<div class="row">
-			<div class="small-5 columns item-row">
-				<div class="small-6 columns" id="divider">
-					<ul class="no-bullet">
-						<li class="sides">Fries</li>
-						<li class="sides">Onion Rings</li>
-						<li class="sides">White Rice</li>
-						<li class="sides">Grilled Veggies</li>
-					</ul>
-				</div>
-				<div class="small-6 columns">
-					<ul class="no-bullet">
-						<li class="sides">Small Pasta</li>
-						<li class="sides">Side Salad</li>
-						<li class="sides">Mashed Potatos</li>
-					</ul>
-				</div>
+			<div class="small-12 columns item-row text-center">
+				<ul class="inline-list">
+					<li>French Fries</li>
+					<li>Onion Rings</li>
+					<li>Grilled Vegetables</li>
+					<li>Mash Potatoes</li>
+				</ul>
 			</div>
 		</div>
 	</section>
