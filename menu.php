@@ -144,6 +144,8 @@
 					<p class="item-price"><strong>$6.99</strong></p>
 					<p class="item-description">Pile of Hand Battered Fresh Green Beans, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
 				</div>
+			</div>
+			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Tex-Rolls</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
@@ -175,9 +177,6 @@
 					<p class="item-price"><strong>$6.99</strong> (Only Served Sunday Mornings)</p>
 					<p class="item-description">Two Early Morning Breakfast Tacos Stuffed with Scrambled Eggs, Cheddar Cheese, Refried Beans and your choice of Bacon, Sausage or Chorizo. Served with Homemade Salsa</p>
 				</div>
-			</div>
-			<div class="medium-6 columns">
-				
 			</div>
 		</div>
 	</section>
