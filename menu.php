@@ -420,33 +420,14 @@
 
 	<section id="dog-sides">
 		<div class="row">
-			<div class="small-5 columns section-title">
-				<a name="deck-dog"></a>
-				<h2 data-magellan-destination="dog">Deck Dog</h2>
+			<div class="medium-6 columns">
+
 			</div>
-			<div class="small-5 columns section-title">
-				<a name="sides"></a>
-				<h2 data-magellan-destination="sides">Sides</h2>
+			<div class="medium-6 columns">
+
 			</div>
 		</div>
 		<div class="row">
-			<div class="small-5 columns section-detail">
-				<h5>-served with your choice of fries or onion rings-<br>-mix both for $1 extra-</h5>
-			</div>
-			<div class="small-5 columns section-detail">
-				<h5>-$1.99-</h5>
-			</div>
-		</div>
-		<div class="row">
-			<div class="small-5 columns item-row">
-				<ul class="no-bullet">
-					<li>The Deck Dog <span>- $5.99</span></li>
-						<ul class="description">
-							<li>10 inch all-beef frank</li>
-							<li>Add chili $0.50 | Add cheese $0.50</li>
-						</ul>
-				</ul>
-			</div>
 			<div class="small-5 columns item-row">
 				<div class="small-6 columns" id="divider">
 					<ul class="no-bullet">
