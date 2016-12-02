@@ -213,82 +213,54 @@
 					<div id="entrees" class="content">
 					<section id="entrees">
 						<div class="row">
-							<div class="small-12 columns section-detail-m">
-								<h5>-Split Entree for $2.00-</h5>
-							</div>
-						</div>
-						<div class="row">
-							<div class="medium-6 columns">
+							<div class="small-12 columns">
 								<ul class="no-bullet">
-									<li>Crispy Chicken Tender Basket <span>- $8.99</span></li>
-										<ul class="description">
-											<li>Regular with honey mustard or buffalo style, tossed in spicy sauce and served with fries</li>
-										</ul>
-									<li>Chicken Fried Chicken <span>- $9.99</span></li>
-										<ul class="description">
-											<li>10oz chicken breast, breaded and fried to a gold brown. Topped with white country gravy and served with mashed potatoes &amp; grilled vegetables</li>
-										</ul>
-									<li>Chicken Fried Steak <span>- $9.99</span></li>
-										<ul class="description">
-											<li>10oz chicken fried steak, fried to a gold brown. Topped with your choice of brown or white country gravy and served with mashed potatoes and grilled vegetables</li>
-										</ul>
-									<li>Pork Chops <span>- $9.99</span></li>
-										<ul class="description">
-											<li>Two grilled or blackened Prime pork chops, served with mashed potatoes and grilled vegetables</li>
-										</ul>
-									<li><img src="/img/menu/pork-chops.jpg" alt="Pork Chops"></li>
-								</ul>
-							</div>
-							<div class="medium-6 columns">
-								<ul class="no-bullet">
-									<li>Sandwhiches <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Chicken Sandwhich - Blackened, Buffalo, Grilled or Fried</li>
-											<li>Meatball Sub | Club Sandwhich | Beef or Chicken Philly</li>
-										</ul>
-									<li>Wraps <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Ham | Turkey | Caesar</li>
-											<li>Grilled Turkey | Ham &amp; Cheese</li>
-										</ul>
-									<li>Chicken Breast <span>- $9.99</span></li>
-										<ul class="description">
-											<li>8oz all-natural chicken breast, blacked or grilled and served up with mashed potatoes and grilled vegetables</li>
-										</ul>
-									<li>Tostadas <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Three crispy Tostadas topped with seasoned ground beef, shredded lettuce, tomatoes, avocadoes &amp; Mexican cheese</li>
-										</ul>
-									<li>Chicken or Shrimp Alfredo <span>- $9.99</span></li>
-										<ul class="description">
-											<li>Generous portion of sliced chicken breast or Gulf Tiger Shrimp, served over fettuccini and topped with home-made alfredo sauce and parmesan cheese. Served with garlic bread and mixed vegetables</li>
-										</ul>
-									<li>Queso Pasta <span>- $9.99</span></li>
-										<ul class="description">
-											<li>Penne pasta topped with our secret house blend of spicy cheese, topped with blackened &amp; sliced chicken breast and served with garlic bread</li>
-										</ul>
-									<li>Deck Tacos <span>- $9.99</span></li>
-										<ul class="description">
-											<li>3 soft or crispy tacos, stuffed with fajita beef or chicken, and served with refried beans &amp; rice</li>
-										</ul>
-									<li>Tilapia <span>- $9.99</span></li>
-										<ul class="description">
-											<li>10oz filet of blacked or grilled tilapia, served with mashed potatoes and grilled vegetables</li>
-											<li>Add Crawfish Etoufee - $2.99</li>
-										</ul>
-									<li>Crawfish <span>- Market Price/lb</span></li>
-										<ul class="description">
-											<li>Add your choice of Sausage or Corn &amp; Potatos - $1.50 each</li>
-										</ul>
-									<br>
-									<li id="sides-label">Sides <span>- $1.99</span></li>
-									<li class="sides">Fries</li>
-									<li class="sides">Onion Rings</li>
-									<li class="sides">White Rice</li>
-									<li class="sides">Grilled Veggies</li>
-									<li class="sides">Small Pasta</li>
-									<li class="sides">Side Salad</li>
-									<li class="sides">Mashed Potatos</li>
+									<li>Prime Chops <span>- $9.99</span></li>
+									<ul class="description">
+										<li>One 6oz Prime Pork Chop Grilled or Fried to your liking. Served with Redskin Mashed Potatoes and Sautéed Garlic Green Beans</li>
+										<li>Add another Chop + $3.00</li>
+									</ul>
+									<li>Cajun Fried Red Fish <span>- $12.99</span></li>
+									<ul class="description">
+										<li>8oz Fresh Red Fish Filet fried in our Signature “Deck” Batter. Served alongside a pile of Fresh Crispy French Fries</li>
+									</ul>
+									<li>Famous Queso Pasta <span>- $10.99</span></li>
+									<ul class="description">
+										<li>Our Signature Spicy Cheese Sauce Blend, poured over Fresh Penne Pasta and topped with 8oz of Zesty Blackened Chicken Breast. Served with Crunchy Garlic Toast</li>
+									</ul>
+									<li>Steak Fingers <span>- $9.99</span></li>
+									<ul class="description">
+										<li>Five Hand Battered Angus Beef Fingers Fried to a Golden Brown. Served over Fried Onion Rings and Fresh Crispy French Fries with a side of Homemade Peppered Gravy</li>
+									</ul>
+									<li>Deck Dog <span>- $9.99</span></li>
+									<ul class="description">
+										<li>This is no ordinary dog! We start with an 8oz all Beef Angus Frank Grilled over an open Flame. Served in a Fresh Philadelphia style Hoagie Roll and topped with Homemade Hot Dog Chili, Cheddar Cheese and Fresh Diced Onions. Served with Fresh Crispy French Fries</li>
+									</ul>
+									<li>Fried Gulf Shrimp <span>- $10.99</span></li>
+									<ul class="description">
+										<li>8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</li>
+									</ul>
+									<li>Chicken Dinner <span>- $10.99</span></li>
+									<ul class="description">
+										<li>8oz All natural Chicken Breast Grilled or Blackened. Served with Creamy Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</li>
+									</ul>
+									<li>Chicken Alfredo <span>- $10.99</span></li>
+									<ul class="description">
+										<li>8oz of Fresh Grilled Chicken Breast piled over Fresh Fettuccini Pasta. Topped with Creamy, Rich, Homemade Alfredo Sauce</li>
+										<li>Substitute Shrimp + $3.00</li>
+									</ul>
+									<li>Fried Chicken Tenderloins <span>- $9.99</span></li>
+									<ul class="description">
+										<li>Fresh Chicken Breast Tenders, Rolled in a Homestyle breading Fried to a Golden Brown. Served with Fresh Crispy French Fries and Lavaca Bay Honey Mustard</li>
+									</ul>
+									<li>The Country Fried Legend <span>- $11.99</span></li>
+									<ul class="description">
+										<li>9oz of Fresh Angus Beef breaded and Fried to a Golden Brown. Topped with Creamy Peppered Gravy. Served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</li>
+									</ul>
+									<li>The Beef <span>- $13.99</span></li>
+									<ul class="description">
+										<li>8oz of Fresh Brazilian Style Sirloin Steak, Aged a minimum of 30 days for Flavor and Tenderness. Grilled to your liking and served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</li>
+									</ul>
 								</ul>
 							</div>
 						</div>
