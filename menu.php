@@ -107,8 +107,8 @@
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="appetizers"></a>
-				<p>Appetizers</p>
-				<h2 data-magellan-destination="appetizers">Starting Line Up</h2>
+				<p data-magellan-destination="appetizers">Appetizers</p>
+				<h2>Starting Line Up</h2>
 			</div>
 		</div>
 		<div class="row item-row">
