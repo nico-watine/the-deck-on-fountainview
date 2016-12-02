@@ -103,7 +103,7 @@
 		</nav>
 	</section>
 
-	<section class="menu-category" id="appetizers">
+	<section class="menu-category" id="appetizers" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="appetizers"></a>
@@ -218,7 +218,7 @@
 		</div>
 	</section>
 	
-	<section id="salads">
+	<section id="salads" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="salads"></a>
@@ -256,7 +256,7 @@
 	</section>
 	
 
-	<section id="burgers">
+	<section id="burgers" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="burgers"></a>
@@ -294,7 +294,7 @@
 	</section>
 
 
-	<section id="entrees">
+	<section id="entrees" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="entrees"></a>
@@ -367,7 +367,7 @@
 		</div>
 	</section>
 
-	<section id="sandwiches">
+	<section id="sandwiches" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="sandwiches"></a>
