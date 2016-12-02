@@ -12,7 +12,7 @@
 	<link href="http://thedeckonfountainview.com/menu" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+	<link href="<?php autoVer('/css/app-m.css'); ?>" rel="stylesheet">
 
 </head>
 
