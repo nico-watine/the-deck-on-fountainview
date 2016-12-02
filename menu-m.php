@@ -306,6 +306,26 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
+					<a href="#sides" class="section-title-m">Sides</a>
+					<div id="sides" class="content">
+					<section id="sides">
+						<div class="row">
+							<div class="small-12 columns">
+								<ul class="no-bullet">
+									<li>Sides <span>- $1.99</span></li>
+									<ul class="description">
+										<li>French Fries</li>
+										<li>Onion Rings</li>
+										<li>Grilled Vegetables</li>
+										<li>Mash Potatoes</li>
+									</ul>
+								</ul>
+							</div>
+						</div>
+					</section>
+					</div>
+				</dd>
+				<dd class="accordion-navigation">
 					<a href="#specials" class="section-title-m">Specials</a>
 					<div id="specials" class="content">
 						<section id="specials">
