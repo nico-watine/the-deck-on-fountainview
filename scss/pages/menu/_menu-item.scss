@@ -1,0 +1,22 @@
+.menu-item {
+	.item-name {
+		font-weight: bold;
+		font-size: 24px;
+		color: #5EBDDF;
+		text-shadow: 1px 0.5px 0 #111;
+		margin-bottom: 6px;
+	}
+
+	.item-price {
+		font-size: 18px;
+		color: #000;
+		margin-bottom: 8px;
+	}
+
+	.item-description {
+		font-size: 18px;
+		color: #000;
+		line-height: 1.5;
+		margin-bottom: 26px;
+	}
+}

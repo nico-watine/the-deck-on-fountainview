@@ -1,5 +1,7 @@
 @import "_menu-mobile.scss";
 
+@import "_menu-item.scss";
+
 section#menu-title,
 section#crawfish {
 	text-align: center;
@@ -76,7 +78,7 @@ section#magellan-nav {
 }
 
 section#appetizers,
-section#salads,
+section#salads,_
 section#burgers,
 section#entrees,
 section#specials,
