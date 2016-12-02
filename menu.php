@@ -267,30 +267,28 @@
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
-				<ul class="no-bullet">
-					<li>Deck Burger <span>- $7.99</span></li>
-						<ul class="description">
-							<li>Certified Angus Beef Patty topped with lettuce, tomato, pickles &amp; onions</li>
-							<li>Add Cheese: American, Swiss, Blue, Cheddar, Pepper Jack - .59¢</li>
-						</ul>
-					<li>Black &amp; Blue Burger <span>- $9.59</span></li>
-						<ul class="description">
-							<li>Certified Angus Beef Patty, blackened and topped with lettuce, tomato, onions and pickles &amp; finished with a pile of blue cheese crumbles</li>
-						</ul>
-					<li>Deck Melt <span>- $8.59</span></li>
-						<ul class="description">
-							<li>Certified Angus Beef Patty smothered in cheese and grilled onions, served on Texas Toast</li>
-						</ul>
-				</ul>
+				<div class="menu-item">
+					<h3 class="item-name">Stros</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three Certified Angus Beef Slider Patties Grilled to Perfection. Topped with Sweet Grilled Onions and our signature “Deck” Sauce, served on Freshly Toasted Brioche Buns</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Deck-fil-A</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
-				<ul class="no-bullet">
-					<li>Bacon Cheeseburger <span>- $8.99</span></li>
-						<ul class="description">
-							<li>Certified Angus Beef Patty topped with 4 strips of crispy bacon, shredded cheddar cheese, lettuce, tomato, pickles &amp; onions</li>
-						</ul>
-					<li><img src="/img/menu/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger"></li>
-				</ul>
+				<div class="menu-item">
+					<h3 class="item-name">3 Lil Pigs</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">PULL Pens</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</p>
+				</div>
 			</div>
 		</div>
 	</section>
