@@ -77,6 +77,32 @@ section#magellan-nav {
 	}
 }
 
+section#appetizers {
+	.row#wing-it {
+		background: #fff;
+
+		h2 {
+			font-family: 'Roboto Slab', serif;
+			font-size: 34px;
+			color: #fff;
+			text-shadow: 2px 2px 0 #000;
+			background: #5EBDDF;
+			text-align: center;
+			margin: 0;
+			padding: 5px 0;
+		}
+
+		h3 {
+			span {
+				text-shadow: none;
+				font-family: Lato;
+				font-size: 18px;
+				color: #000;
+			}
+		}
+	}
+}
+
 section#appetizers,
 section#salads,_
 section#burgers,
