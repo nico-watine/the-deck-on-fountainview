@@ -418,7 +418,7 @@
 		</div>
 	</section>
 
-	<section id="sides">
+	<section id="sides" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<h2>Sides</h2>
@@ -438,14 +438,12 @@
 	</section>
 
 
-	<section id="specials">
+	<section id="specials" style="margin-top: 20px;">
 		<div class="row">
-			<div class="small-12 columns section-title">
+			<div class="small-12 columns menu-category-title">
 				<a name="specials"></a>
 				<h2 data-magellan-destination="specials">Specials</h2>
-			</div>
-			<div class="small-12 columns section-detail">
-				<h5>-Dine-In Only-</h5>
+				<p class="menu-category-extra">-Dine-In Only-</p>
 			</div>
 		</div>
 		<div class="row item-row">
