@@ -304,10 +304,70 @@
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
-
+				<div class="menu-item">
+					<h3 class="item-name">Prime Chops</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">One 6oz Prime Pork Chop Grilled or Fried to your liking. Served with Redskin Mashed Potatoes and Sautéed Garlic Green Beans <br>
+					- Add another Chop + <strong>$3.00</strong></p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Cajun Fried Red Fish</h3>
+					<p class="item-price"><strong>$12.99</strong></p>
+					<p class="item-description">8oz Fresh Red Fish Filet fried in our Signature “Deck” Batter. Served alongside a pile of Fresh Crispy French Fries</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Famous Queso Pasta</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">Our Signature Spicy Cheese Sauce Blend, poured over Fresh Penne Pasta and topped with 8oz of Zesty Blackened Chicken Breast. Served with Crunchy Garlic Toast</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Steak Fingers</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Five Hand Battered Angus Beef Fingers Fried to a Golden Brown. Served over Fried Onion Rings and Fresh Crispy French Fries with a side of Homemade Peppered Gravy</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Deck Dog</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">This is no ordinary dog! We start with an 8oz all Beef Angus Frank Grilled over an open Flame. Served in a Fresh Philadelphia style Hoagie Roll and topped with Homemade Hot Dog Chili, Cheddar Cheese and Fresh Diced Onions. Served with Fresh Crispy French Fries</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Fried Gulf Shrimp</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
-
+				<div class="menu-item">
+					<h3 class="item-name">Chicken Dinner</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">8oz All natural Chicken Breast Grilled or Blackened. Served with Creamy Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Chicken Alfredo</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">8oz of Fresh Grilled Chicken Breast piled over Fresh Fettuccini Pasta. Topped with Creamy, Rich, Homemade Alfredo Sauce <br>
+					- Substitute Shrimp + <strong>$3.00</strong></p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Fried Chicken Tenderloins</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Fresh Chicken Breast Tenders, Rolled in a Homestyle breading Fried to a Golden Brown. Served with Fresh Crispy French Fries and Lavaca Bay Honey Mustard</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">The Country Fried Legend</h3>
+					<p class="item-price"><strong>$11.99</strong></p>
+					<p class="item-description">9oz of Fresh Angus Beef breaded and Fried to a Golden Brown. Topped with Creamy Peppered Gravy. Served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</p>
+				</div>
+<!-- 				<div class="menu-item">
+					<h3 class="item-name">Fried Gulf Shrimp</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
+				</div> -->
+				<div class="menu-item">
+					<h3 class="item-name">The Beef</h3>
+					<p class="item-price"><strong>$13.99</strong></p>
+					<p class="item-description">8oz of Fresh Brazilian Style Sirloin Steak, Aged a minimum of 30 days for Flavor and Tenderness. Grilled to your liking and served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</p>
+				</div>
 			</div>
 		</div>
 	</section>
