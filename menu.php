@@ -383,26 +383,41 @@
 		<div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">Stros</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Certified Angus Beef Slider Patties Grilled to Perfection. Topped with Sweet Grilled Onions and our signature “Deck” Sauce, served on Freshly Toasted Brioche Buns</p>
+					<h3 class="item-name">The Rocket</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">8oz Certified Angus Beef Patty Grilled to Perfection. Topped with Cheddar Cheese, Fresh Jalapeno Peppers, Fresh Serrano Peppers, Avocado and a stack of Applewood Smoked Bacon. Served with Crispy Sriracha French Fries</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">Deck-fil-A</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
+					<h3 class="item-name">The Summit</h3>
+					<p class="item-price"><strong>$12.99</strong></p>
+					<p class="item-description">8oz of Fillet Mignon Seasoned and Grilled to Perfection. Topped with Swiss Cheese, Fresh Sliced Tomatoes and Grilled Texas Sweet Onions, then stuffed into a New Orleans Style Hoagie Roll. Served with Hand Battered Onion Rings</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Deck Melt</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">8oz Certified Angus Beef Patty Grilled to Perfection. Topped with Grilled Texas Sweet Onions and Swiss Cheese, served on Fresh Marble Rye with a Crispy French Fries</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Turn Down for Watt</h3>
+					<p class="item-price"><strong>$13.99</strong></p>
+					<p class="item-description">Two 8oz Certified Angus Beef Patties layered with Pepper Jack Cheese, Aged Cheddar Cheese and Swiss, topped with Applewood Smoked Bacon, Two Onion Rings and our Signature “Deck” Sauce, served on a Freshly Toasted Bun with a side of Crispy Tater Tots</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">3 Lil Pigs</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
+					<h3 class="item-name">Da Pollo</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">7oz All Natural Chicken Breast Grilled to Perfection. Topped with Crisp Lettuce, Fresh Tomatoes, Pickles, Red Onions and Pepper Jack Cheese on a Freshly Toasted Bun. Served with Hand Cut Potato Wedges</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">PULL Pens</h3>
+					<h3 class="item-name">The Philly</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">8oz of Certified Angus Beef Ribeye, Sliced Thin and Grilled with our Signature Spice Blend. Topped with Fresh Grilled Green Bell Peppers, Onions and Sliced Mushrooms. Served with a side of Homemade Marinara Sauce and Crispy French Fries</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">H-Town Classic</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</p>
+					<p class="item-description">8oz Certified Angus Beef Patty Grilled to Perfection and topped with Crisp Lettuce, Fresh Tomatoes, Texas Sweet Onions, Tangy Dill Pickle Slices and American Cheese on a Freshly Toasted Bun. Served with Crispy French Fries</p>
 				</div>
 			</div>
 		</div>
