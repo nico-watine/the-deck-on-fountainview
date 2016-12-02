@@ -221,42 +221,36 @@
 	<section id="salads">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
-				<a name="appetizers"></a>
-				<p>Salads</p>
-				<h2 data-magellan-destination="appetizers">On the Green</h2>
+				<a name="salads"></a>
+				<p data-magellan-destination="salads">Salads</p>
+				<h2>On the Green</h2>
 			</div>
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
-				<ul class="no-bullet">
-					<li><img src="/img/menu/club-salad.jpg" alt="Club Salad"></li>
-					<li>Club Salad <span>-$8.99</span></li>
-						<ul class="description">
-							<li>Crisp Romaine lettuce, crispy chicken tenders, onions, tomatoes, avocado &amp; cheese</li>
-						</ul>
-				</ul>
+				<div class="menu-item">
+					<h3 class="item-name">The Wedge</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Fresh Iceberg Lettuce, AppleWood Smoked Bacon, SweetTomatoes and Aged Blue Cheese Crumbs, Topped with our Signature Chunky Blue Cheese Dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">The Club House</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
-				<ul class="no-bullet">
-					<li>Taco Salad <span>- $8.99</span></li>
-						<ul class="description">
-							<li>Crisp Romaine topped with ground beef, cheddar cheese, sour cream, fresh corn, homemade salsa &amp; guacamole</li>
-						</ul>
-					<li>Garden Salad <span>- $5.99</span></li>
-						<ul class="description">
-							<li>Crisp Romain lettuce topped with fresh tomatoes, carrots, croutons &amp; cheese</li>
-							<li>Add chicken or shrimp - $2.99</li>
-						</ul>
-					<li>Grilled Chicken Caesar <span>- $8.99</span></li>
-						<ul class="description">
-							<li>Crisp Romaine lettuce tossed with Caesar dressing, grilled chicken &amp; croutons</li>
-						</ul>
-					<li>Cobb Salad <span>- $8.99</span></li>
-						<ul class="description">
-							<li>Crisp Romaine lettuce topped with ham, eggs, blue cheese crumbles, tomatoes, croutons &amp; blue cheese dressing</li>
-						</ul>
-					</li>
-				</ul>
+				<div class="menu-item">
+					<h3 class="item-name">The Classic</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing <br>
+					- Substitute Grilled Shrimp + <strong>$2.00</strong></p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">The Rough</h3>
+					<p class="item-price"><strong>$4.99</strong></p>
+					<p class="item-description">Traditional Caesar or House Salad</p>
+				</div>
 			</div>
 		</div>
 	</section>
