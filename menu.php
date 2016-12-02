@@ -103,9 +103,9 @@
 		</nav>
 	</section>
 
-	<section id="appetizers">
+	<section class="menu-category" id="appetizers">
 		<div class="row">
-			<div class="small-12 columns section-title">
+			<div class="small-12 columns menu-category-title">
 				<a name="appetizers"></a>
 				<p>Appetizers</p>
 				<h2 data-magellan-destination="appetizers">Starting Line Up</h2>
