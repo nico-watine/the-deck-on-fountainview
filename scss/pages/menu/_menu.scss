@@ -169,6 +169,7 @@ section#dog-sides {
 		li {
 			font-weight: 700;
 			text-shadow: 1px .5px 0px #111;
+			font-size: 20px;
 			color: #5EBDDF;
 
 			span {
@@ -191,12 +192,14 @@ section#dog-sides {
 		}
 
 		ul.description {
-			margin-bottom: 0;
+			// margin-bottom: 0;
+			margin-bottom: 12px;
 			list-style: none;
 
 			li {
 				font-weight: 400;
 				text-shadow: none;
+				font-size: 16px;
 				color: #222;
 			}
 		}
