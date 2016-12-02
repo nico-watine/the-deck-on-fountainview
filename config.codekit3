@@ -5054,12 +5054,6 @@
 		"oAP": "\/menu-m.php",
 		"oF": 0
 		},
-	"\/menu.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/menu.php",
-		"oF": 0
-		},
 	"\/node_modules": {
 		"ft": 65536,
 		"oA": 2,
