@@ -180,40 +180,28 @@
 					<section id="burgers">
 						<div class="row">
 							<div class="small-12 columns section-detail-m">
-								<h5>-served with your choice of fries or onion rings-<br>-mix both for $1 extra-</h5>
+								<h5>-Served with Crispy Pub Fries-</h5>
 							</div>
 						</div>
 						<div class="row">
-							<div class="medium-6 columns">
+							<div class="small-12 columns">
 								<ul class="no-bullet">
-									<li>Deck Burger <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Certified Angus Beef Patty topped with lettuce, tomato, pickles &amp; onions</li>
-											<li>Add Cheese: American, Swiss, Blue, Cheddar, Pepper Jack - .59¢</li>
-										</ul>
-									<li>Black &amp; Blue Burger <span>- $9.59</span></li>
-										<ul class="description">
-											<li>Certified Angus Beef Patty, blackened and topped with lettuce, tomato, onions and pickles &amp; finished with a pile of blue cheese crumbles</li>
-										</ul>
-									<li>Deck Melt <span>- $8.59</span></li>
-										<ul class="description">
-											<li>Certified Angus Beef Patty smothered in cheese and grilled onions, served on Texas Toast</li>
-										</ul>
-								</ul>
-							</div>
-							<div class="medium-6 columns">
-								<ul class="no-bullet">
-									<li>Bacon Cheeseburger <span>- $8.99</span></li>
-										<ul class="description">
-											<li>Certified Angus Beef Patty topped with 4 strips of crispy bacon, shredded cheddar cheese, lettuce, tomato, pickles &amp; onions</li>
-										</ul>
-									<li><img src="/img/menu/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger"></li>
-									<li>The Deck Dog <span>- $5.99</span></li>
-										<ul class="description">
-											<li>10 inch all-beef frank</li>
-											<li>Add chili $0.50 | Add cheese $0.50</li>
-											<li>(yep, this ain't a burger)</li>
-										</ul>
+									<li>Stros <span>- $8.99</span></li>
+									<ul class="description">
+										<li>Three Certified Angus Beef Slider Patties Grilled to Perfection. Topped with Sweet Grilled Onions and our signature “Deck” Sauce, served on Freshly Toasted Brioche Buns</li>
+									</ul>
+									<li>Deck-fil-A <span>- $8.99</span></li>
+									<ul class="description">
+										<li>Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits</li>
+									</ul>
+									<li>3 Lil Pigs <span>- $8.99</span></li>
+									<ul class="description">
+										<li>Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</li>
+									</ul>
+									<li>PULL Pens <span>- $8.99</span></li>
+									<ul class="description">
+										<li>Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</li>
+									</ul>
 								</ul>
 							</div>
 						</div>
