@@ -268,6 +268,47 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
+					<a href="#sandwiches" class="section-title-m">Sandwiches</a>
+					<div id="sandwiches" class="content">
+					<section id="sandwiches">
+						<div class="row">
+							<div class="small-12 columns">
+								<ul class="no-bullet">
+									<li>The Rocket <span>- $10.99</span></li>
+									<ul class="description">
+										<li>8oz Certified Angus Beef Patty Grilled to Perfection. Topped with Cheddar Cheese, Fresh Jalapeno Peppers, Fresh Serrano Peppers, Avocado and a stack of Applewood Smoked Bacon. Served with Crispy Sriracha French Fries</li>
+									</ul>
+									<li>The Summit <span>- $12.99</span></li>
+									<ul class="description">
+										<li>8oz of Fillet Mignon Seasoned and Grilled to Perfection. Topped with Swiss Cheese, Fresh Sliced Tomatoes and Grilled Texas Sweet Onions, then stuffed into a New Orleans Style Hoagie Roll. Served with Hand Battered Onion Rings</li>
+									</ul>
+									<li>Deck Melt <span>- $9.99</span></li>
+									<ul class="description">
+										<li>8oz Certified Angus Beef Patty Grilled to Perfection. Topped with Grilled Texas Sweet Onions and Swiss Cheese, served on Fresh Marble Rye with a Crispy French Fries</li>
+									</ul>
+									<li>Turn Down for Watt <span>- $13.99</span></li>
+									<ul class="description">
+										<li>Two 8oz Certified Angus Beef Patties layered with Pepper Jack Cheese, Aged Cheddar Cheese and Swiss, topped with Applewood Smoked Bacon, Two Onion Rings and our Signature “Deck” Sauce, served on a Freshly Toasted Bun with a side of Crispy Tater Tots</li>
+									</ul>
+									<li>Da Pollo <span>- $9.99</span></li>
+									<ul class="description">
+										<li>7oz All Natural Chicken Breast Grilled to Perfection. Topped with Crisp Lettuce, Fresh Tomatoes, Pickles, Red Onions and Pepper Jack Cheese on a Freshly Toasted Bun. Served with Hand Cut Potato Wedges</li>
+									</ul>
+									<li>The Philly <span>- $9.99</span></li>
+									<ul class="description">
+										<li>8oz of Certified Angus Beef Ribeye, Sliced Thin and Grilled with our Signature Spice Blend. Topped with Fresh Grilled Green Bell Peppers, Onions and Sliced Mushrooms. Served with a side of Homemade Marinara Sauce and Crispy French Fries</li>
+									</ul>
+									<li>H-Town Classic <span>- $8.99</span></li>
+									<ul class="description">
+										<li>8oz Certified Angus Beef Patty Grilled to Perfection and topped with Crisp Lettuce, Fresh Tomatoes, Texas Sweet Onions, Tangy Dill Pickle Slices and American Cheese on a Freshly Toasted Bun. Served with Crispy French Fries</li>
+									</ul>
+								</ul>
+							</div>
+						</div>
+					</section>
+					</div>
+				</dd>
+				<dd class="accordion-navigation">
 					<a href="#specials" class="section-title-m">Specials</a>
 					<div id="specials" class="content">
 						<section id="specials">
