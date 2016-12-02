@@ -358,11 +358,6 @@
 					<p class="item-price"><strong>$11.99</strong></p>
 					<p class="item-description">9oz of Fresh Angus Beef breaded and Fried to a Golden Brown. Topped with Creamy Peppered Gravy. Served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</p>
 				</div>
-<!-- 				<div class="menu-item">
-					<h3 class="item-name">Fried Gulf Shrimp</h3>
-					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
-				</div> -->
 				<div class="menu-item">
 					<h3 class="item-name">The Beef</h3>
 					<p class="item-price"><strong>$13.99</strong></p>
