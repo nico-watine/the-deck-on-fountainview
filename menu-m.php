@@ -205,6 +205,9 @@
 									<ul class="description">
 										<li>Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</li>
 									</ul>
+									<li class="menu-item-picture">
+										<img src="/img/menu/opt/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger">
+									</li>
 								</ul>
 							</div>
 						</div>
