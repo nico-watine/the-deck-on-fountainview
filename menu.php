@@ -166,7 +166,7 @@
 				</div>
 			</div>
 			<div class="medium-5 large-4 columns">
-				<img style="margin-top: 20px;" src="/img/menu/grilled-wings.jpg" alt="Grilled Wings" title="The Grilled Wings">
+				<img style="margin-top: 20px;" src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings" title="The Grilled Wings">
 			</div>
 		</div>
 		<div class="row item-row">
