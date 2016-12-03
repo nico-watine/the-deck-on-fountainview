@@ -159,6 +159,9 @@
 									<ul class="description">
 										<li>Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</li>
 									</ul>
+									<li class="menu-item-picture">
+										<img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
+									</li>
 									<li>The Classic <span>- $9.99</span></li>
 									<ul class="description">
 										<li>Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing</li>
