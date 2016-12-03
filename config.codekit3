@@ -4913,6 +4913,78 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/menu\/opt\/bacon-cheese-burger.jpg": {
+		"ft": 16384,
+		"iS": 48305,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/bacon-cheese-burger.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/club-salad.jpg": {
+		"ft": 16384,
+		"iS": 95519,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/club-salad.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/crawfish-l.jpg": {
+		"ft": 16384,
+		"iS": 281987,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/crawfish-l.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/crawfish-m.jpg": {
+		"ft": 16384,
+		"iS": 221658,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/crawfish-m.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/crawfish-s.jpg": {
+		"ft": 16384,
+		"iS": 51624,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/crawfish-s.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/drinks.jpg": {
+		"ft": 16384,
+		"iS": 160056,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/drinks.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/grilled-wings.jpg": {
+		"ft": 16384,
+		"iS": 79405,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/grilled-wings.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/pork-chops.jpg": {
+		"ft": 16384,
+		"iS": 74921,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/pork-chops.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/menu\/opt\/steaks.jpg": {
+		"ft": 16384,
+		"iS": 69384,
+		"oA": 1,
+		"oAP": "\/img\/menu\/opt\/steaks.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/menu\/pork-chops.jpg": {
 		"ft": 16384,
 		"iS": 84234,
