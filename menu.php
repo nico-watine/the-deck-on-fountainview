@@ -272,24 +272,31 @@
 					<p class="item-price"><strong>$8.99</strong></p>
 					<p class="item-description">Three Certified Angus Beef Slider Patties Grilled to Perfection. Topped with Sweet Grilled Onions and our signature “Deck” Sauce, served on Freshly Toasted Brioche Buns</p>
 				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Deck-fil-A</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
-				</div>
+                <div class="menu-item">
+                    <h3 class="item-name">3 Lil Pigs</h3>
+                    <p class="item-price"><strong>$8.99</strong></p>
+                    <p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
+                </div>
 			</div>
 			<div class="medium-6 columns">
-				<div class="menu-item">
-					<h3 class="item-name">3 Lil Pigs</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
-				</div>
+                <div class="menu-item">
+                    <h3 class="item-name">Deck-fil-A</h3>
+                    <p class="item-price"><strong>$8.99</strong></p>
+                    <p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
+                </div>
 				<div class="menu-item">
 					<h3 class="item-name">PULL Pens</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
 					<p class="item-description">Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</p>
 				</div>
 			</div>
+            <div class="row">
+                <div class="medium-8 medium-push-2 columns">
+                    <div class="menu-item-picture">
+                        <img src="/img/menu/opt/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger">
+                    </div>
+                </div>
+            </div>
 		</div>
 	</section>
 
