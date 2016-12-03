@@ -226,6 +226,9 @@
 										<li>One 6oz Prime Pork Chop Grilled or Fried to your liking. Served with Redskin Mashed Potatoes and Sautéed Garlic Green Beans</li>
 										<li>Add another Chop + $3.00</li>
 									</ul>
+									<li class="menu-item-picture">
+										<img src="/img/menu/opt/pork-chops.jpg" alt="Pork Chops">
+									</li>
 									<li>Cajun Fried Red Fish <span>- $12.99</span></li>
 									<ul class="description">
 										<li>8oz Fresh Red Fish Filet fried in our Signature “Deck” Batter. Served alongside a pile of Fresh Crispy French Fries</li>
