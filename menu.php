@@ -320,6 +320,9 @@
 					<p class="item-description">One 6oz Prime Pork Chop Grilled or Fried to your liking. Served with Redskin Mashed Potatoes and Sautéed Garlic Green Beans <br>
 					- Add another Chop + <strong>$3.00</strong></p>
 				</div>
+                <div class="menu-item-picture">
+                    <img src="/img/menu/opt/pork-chops.jpg" alt="Pork Chops">
+                </div>
 				<div class="menu-item">
 					<h3 class="item-name">Cajun Fried Red Fish</h3>
 					<p class="item-price"><strong>$12.99</strong></p>
@@ -339,11 +342,6 @@
 					<h3 class="item-name">Deck Dog</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
 					<p class="item-description">This is no ordinary dog! We start with an 8oz all Beef Angus Frank Grilled over an open Flame. Served in a Fresh Philadelphia style Hoagie Roll and topped with Homemade Hot Dog Chili, Cheddar Cheese and Fresh Diced Onions. Served with Fresh Crispy French Fries</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Fried Gulf Shrimp</h3>
-					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
@@ -368,6 +366,11 @@
 					<p class="item-price"><strong>$11.99</strong></p>
 					<p class="item-description">9oz of Fresh Angus Beef breaded and Fried to a Golden Brown. Topped with Creamy Peppered Gravy. Served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</p>
 				</div>
+                <div class="menu-item">
+                    <h3 class="item-name">Fried Gulf Shrimp</h3>
+                    <p class="item-price"><strong>$10.99</strong></p>
+                    <p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
+                </div>
 				<div class="menu-item">
 					<h3 class="item-name">The Beef</h3>
 					<p class="item-price"><strong>$13.99</strong></p>
