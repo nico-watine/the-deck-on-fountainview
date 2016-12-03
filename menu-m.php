@@ -109,6 +109,9 @@
 										<ul class="description">
 											<li>Ten All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</li>
 										</ul>
+										<li class="menu-item-picture">
+											<img src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings">
+										</li>
 										<li>Tex-Rolls <span>- $7.99</span></li>
 										<ul class="description">
 											<li>Not your ordinary Egg Rolls!!! Four Crispy Egg Rolls stuffed with Grilled Chicken, Pepper Jack Cheese, Black Bean, Sweet Corn and Peppers fried to a Golden Brown and served with Zesty Jalapeno Ranch Dressing</li>
