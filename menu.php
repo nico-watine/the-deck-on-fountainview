@@ -451,7 +451,7 @@
 	</section>
 
 
-	<section id="specials" style="margin-top: 20px;">
+	<!-- <section id="specials" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="specials"></a>
@@ -537,9 +537,9 @@
 					<li class="gratuity"><i><strong>$2.00 Split Entree Charge</strong></i></li>
 				</ul>
 			</div>
-	</section>
+	</section> -->
 
-	<section id="specials-pics">
+	<section id="specials-pics" style="margin-top: 20px;">
 		<div class="row">
 			<div class="medium-5 columns push-1">
 				<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
