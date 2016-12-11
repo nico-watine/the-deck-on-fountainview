@@ -337,7 +337,7 @@
 					</section>
 					</div>
 				</dd>
-				<dd class="accordion-navigation">
+				<!-- <dd class="accordion-navigation">
 					<a href="#specials" class="section-title-m">Specials</a>
 					<div id="specials" class="content">
 						<section id="specials">
@@ -427,7 +427,7 @@
 							</div>
 						</section>
 					</div>
-				</dd>
+				</dd> -->
 			</dl>
 		</div>
 	</div>
