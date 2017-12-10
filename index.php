@@ -8,7 +8,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Houston's Best Crawfish! | The Deck On Fountainview</title>
-	<meta name="description" content="A true neighborhood sports bar in the heart of the Galleria Area. #1 Crawfish &amp; Happy Hour">
+	<meta name="description" content="A true neighborhood sports bar in the heart of the Galleria Area. #1 Crawfish &nbsp;amp; Happy Hour">
 	<link href="http://thedeckonfountainview.com/" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
@@ -163,7 +163,7 @@
 			<div class="small-12 columns">
 				<h2>Hungry? Thirsty?</h2>
 				<hr>
-				<h3>We've Got Good Eats & Cold Drinks</h3>
+				<h3>We've Got Good Eats &nbsp; Cold Drinks</h3>
 			</div>
 		</div>
 		<div class="row section-trio">
@@ -176,7 +176,7 @@
 			<div class="medium-4 columns">
 				<a href="/menu">
 					<img src="/img/index/eats/drinks.jpg" alt="Drink Specials">
-					<h4>Happy Hour & Daily Drink Specials</h4>
+					<h4>Happy Hour &nbsp; Daily Drink Specials</h4>
 				</a>
 			</div>
 			<div class="medium-4 columns">
