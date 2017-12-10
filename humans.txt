@@ -1,33 +1,56 @@
-Hello savvy Internet wanderer!
+# --------------------------------------------------------
+# |            Hello savvy Internet wanderer!            |
+# --------------------------------------------------------
 
-This is the website of world-renowned Houston bar The Deck On Fountainview!
+This site is a Studio N Creation
+https://studioncreations.com
 
-The site is a Studio N Creation
-
-www.studioncreations.com
-
-Designed & coded with <3 by Nico Watine for a better web
-
-================
-
-Need a website? :: contact@studioncreations.com
-Get in touch with Nico :: nico.w@tine.rocks
-
-================
-
-/* SITE COLOPHON */
-Framework: ZURB Foundation 5
-Standards: HTML5, CSS3
-Components: jQuery, Normalize.css, Modernizr.js, html5shiv.js
-Software: Sublime Text, CodeKit, Sketch 3
+Coded with care and powered by HTML5 for a better web
 
 
-www.foundation.zurb.com
 
-What is this file??
-humanstxt.org
+# --------------------------------------
+# |            Contact Info            |
+# --------------------------------------
 
-================
+Project Lead:
+  Nico Watine
+  https://nicowatine.me
+  nico@studioncreations.com
+
+
+
+# ---------------------------------------
+# |            Site Colophon            |
+# ---------------------------------------
+
+Standards: 
+  HTML5
+  CSS3 pre-processed via SASS
+
+Components: 
+  ZURB Foundation 5 Framework (www.foundation.zurb.com)
+  jQuery
+  Normalize.css
+  Modernizr.js
+  html5shiv.js
+
+Software: 
+  Sublime Text 3
+  CodeKit 3
+  Sketch App
+
+
+
+# ------------------------------------------------------
+# |            What is this rambling file??            |
+# ------------------------------------------------------
+
+http://humanstxt.org
+
+
+
+================================
 
 
                     ++++++++          
