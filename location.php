@@ -113,7 +113,7 @@
         </div>
     </section>
     <div class="gmap">
-        <div class="overlay hide-for-touch" onClick="style.pointerEvents='none'"></div>
+        <!-- <div class="overlay hide-for-touch" onClick="style.pointerEvents='none'"></div> -->
         <div class="iframe-container">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13858.119280327319!2d-95.484497!3d29.733376!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x650c137e7d6f5b63!2sThe+Deck+on+Fountainview!5e0!3m2!1sen!2sus!4v1532526455790" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
