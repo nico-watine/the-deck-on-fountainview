@@ -67,12 +67,9 @@ section#contact-info {
 
 .gmap {
 	width: 100%;
+	height: 250px;
 
-	.iframe-container {
-		@media #{$small-only} {
-			height: 200px;
-		}
-
+	@media #{$medium-up} {
 		height: 375px;
 	}
 }
