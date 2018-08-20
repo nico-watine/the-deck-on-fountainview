@@ -9,13 +9,6 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/.bowerrc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.bowerrc",
-		"oF": 0
-		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
