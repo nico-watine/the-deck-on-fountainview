@@ -5842,7 +5842,7 @@
 		"oA": 0,
 		"oAP": "/css/app-m.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/scss/app.scss": {
@@ -5855,7 +5855,7 @@
 		"oA": 0,
 		"oAP": "/css/app.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"/scss/blocks/_body.scss": {
