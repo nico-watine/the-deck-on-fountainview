@@ -4934,68 +4934,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/fonts/opensans/OpenSans-Regular.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/opensans/OpenSans-Regular.eot",
-		"oF": 0
-		},
-	"/fonts/opensans/OpenSans-Regular.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/fonts/opensans/OpenSans-Regular.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/fonts/opensans/OpenSans-Regular.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/opensans/OpenSans-Regular.ttf",
-		"oF": 0
-		},
-	"/fonts/opensans/OpenSans-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/opensans/OpenSans-Regular.woff",
-		"oF": 0
-		},
-	"/fonts/robotoslab/RobotoSlab-Regular.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/robotoslab/RobotoSlab-Regular.eot",
-		"oF": 0
-		},
-	"/fonts/robotoslab/RobotoSlab-Regular.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/fonts/robotoslab/RobotoSlab-Regular.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/fonts/robotoslab/RobotoSlab-Regular.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/robotoslab/RobotoSlab-Regular.ttf",
-		"oF": 0
-		},
-	"/fonts/robotoslab/RobotoSlab-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/fonts/robotoslab/RobotoSlab-Regular.woff",
-		"oF": 0
-		},
 	"/fonts/slick/slick.eot": {
 		"cB": 0,
 		"ft": 8192,
