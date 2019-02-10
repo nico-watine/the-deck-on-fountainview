@@ -52,7 +52,7 @@
 				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
 			</ul>
 			<section class="top-bar-section">
-				<ul class="right">
+				<ul class="dropdown-nav right">
 					<li class="active"><a href="/">Home</a></li>
 					<li><a href="/events">Events</a></li>
 					<li><a href="/menu-m">Food + Drink</a></li>
