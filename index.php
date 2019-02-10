@@ -53,10 +53,10 @@
 			</ul>
 			<section class="top-bar-section">
 				<ul class="right">
-					<li class="active"><a href="/">HOME</a></li>
-					<li><a href="/events">EVENTS</a></li>
-					<li><a href="/menu-m">FOOD + DRINK</a></li>
-					<li><a href="/location">LOCATION</a></li>
+					<li class="active"><a href="/">Home</a></li>
+					<li><a href="/events">Events</a></li>
+					<li><a href="/menu-m">Food + Drink</a></li>
+					<li><a href="/location">Location</a></li>
 				</ul>
 			</section>
 		</nav>
@@ -80,10 +80,10 @@
 					</div>
 					<nav class="small-12 large-9 columns">
 						<ul>
-							<li id="first"><a href="/" class="home active">HOME</a></li>
-							<li><a href="/events" class="events">EVENTS</a></li>
-							<li><a href="/menu" class="menu">FOOD + DRINK</a></li>
-							<li id="last"><a href="/location" class="location">LOCATION</a></li>
+							<li id="first"><a href="/" class="home active">Home</a></li>
+							<li><a href="/events" class="events">Events</a></li>
+							<li><a href="/menu" class="menu">Food + Drink</a></li>
+							<li id="last"><a href="/location" class="location">Location</a></li>
 						</ul>
 					</nav>
 				</div>

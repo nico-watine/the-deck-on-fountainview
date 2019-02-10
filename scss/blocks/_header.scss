@@ -9,7 +9,7 @@ header {
 			.row {
 				border-bottom: 3px solid #5EBDDF;
 				text-align: center;
-				
+
 				a p {
 					color: #fff;
 					text-shadow: 1px 1px 0px #000;
@@ -18,7 +18,7 @@ header {
 				}
 			}
 		}
-		
+
 		.row {
 			border-bottom: 3px solid #5EBDDF;
 			text-align: center;
@@ -52,13 +52,13 @@ header {
 				margin-bottom: 0;
 				line-height: 28px;
 			}
-			
+
 			a p.address {
 				&:hover {
 					text-decoration: underline;
 				}
 			}
-			
+
 			@media #{$small-only} {
 				p.phone,
 				p.address {
@@ -76,7 +76,7 @@ header {
 				}
 			}
 		}
-		
+
 	}
 
 	section#main-header {
@@ -87,7 +87,7 @@ header {
 			@media #{$large-up} {
 				height: 120px;
 			}
-			
+
 			@media #{$small-only} {
 				text-align: center;
 			}
@@ -126,8 +126,9 @@ header {
 						.active {
 							text-decoration: underline;
 						}
-						
+
 						a {
+							text-transform: uppercase;
 							text-align: center;
 							display: block;
 							font-size: 25px;
