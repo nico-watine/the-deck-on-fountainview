@@ -30,20 +30,6 @@
 		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"/403.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/403.html",
-		"oF": 0
-		},
-	"/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/404.html",
-		"oF": 0
-		},
 	"/_ignores/calendar-default.txt": {
 		"cB": 0,
 		"ft": 8192,
