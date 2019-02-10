@@ -4848,16 +4848,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/css/app-ie.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/css/app-ie-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"/css/app-m.css": {
 		"aP": 0,
 		"bl": 0,
