@@ -4878,16 +4878,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/css/error.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/css/error-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"/dev/forms.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -5869,19 +5859,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/components/css/_typography.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/error.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/error.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
