@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -208,7 +208,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 		<div class="row">
 			<div class="small-12 columns">
@@ -218,7 +218,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<section id="salads" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
@@ -258,7 +258,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 
 	<section id="burgers" style="margin-top: 20px;">
 		<div class="row">
@@ -572,8 +572,8 @@
 	</section>
 </footer>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-4/jquery-min.js"><\/script>')</script>
 <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
 <!--[if lt IE 9]>
 	<script src="/js/rem-min.js" type="text/javascript"></script>

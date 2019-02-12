@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -123,8 +123,8 @@
 	</section>
 </footer>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-4/jquery-min.js"><\/script>')</script>
 <script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
 <!--[if lt IE 9]>
 	<script src="/js/rem-min.js" type="text/javascript"></script>
