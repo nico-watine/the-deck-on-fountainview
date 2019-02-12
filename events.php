@@ -125,10 +125,6 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-4/jquery-min.js"><\/script>')</script>
-<script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
-<!--[if lt IE 9]>
-	<script src="/js/rem-min.js" type="text/javascript"></script>
-<![endif]-->
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
 <script>
 	window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
