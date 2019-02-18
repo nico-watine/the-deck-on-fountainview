@@ -234,27 +234,27 @@
 					<p class="item-price"><strong>$7.99</strong></p>
 					<p class="item-description">Fresh Iceberg Lettuce, AppleWood Smoked Bacon, SweetTomatoes and Aged Blue Cheese Crumbs, Topped with our Signature Chunky Blue Cheese Dressing</p>
 				</div>
-                <div class="menu-item">
-                    <h3 class="item-name">The Classic</h3>
-                    <p class="item-price"><strong>$9.99</strong></p>
-                    <p class="item-description">Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing <br>
-                    - Substitute Grilled Shrimp + <strong>$2.00</strong></p>
-                </div>
-                <div class="menu-item">
-                    <h3 class="item-name">The Rough</h3>
-                    <p class="item-price"><strong>$4.99</strong></p>
-                    <p class="item-description">Traditional Caesar or House Salad</p>
-                </div>
+				<div class="menu-item">
+					<h3 class="item-name">The Classic</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing <br>
+					- Substitute Grilled Shrimp + <strong>$2.00</strong></p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">The Rough</h3>
+					<p class="item-price"><strong>$4.99</strong></p>
+					<p class="item-description">Traditional Caesar or House Salad</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
-                <div class="menu-item">
-                    <h3 class="item-name">The Club House</h3>
-                    <p class="item-price"><strong>$9.99</strong></p>
-                    <p class="item-description">Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</p>
-                </div>
-                <div class="menu-item-picture">
-                    <img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
-                </div>
+				<div class="menu-item">
+					<h3 class="item-name">The Club House</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</p>
+				</div>
+				<div class="menu-item-picture">
+					<img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
+				</div>
 			</div>
 		</div>
 	</section>
@@ -276,31 +276,31 @@
 					<p class="item-price"><strong>$8.99</strong></p>
 					<p class="item-description">Three Certified Angus Beef Slider Patties Grilled to Perfection. Topped with Sweet Grilled Onions and our signature “Deck” Sauce, served on Freshly Toasted Brioche Buns</p>
 				</div>
-                <div class="menu-item">
-                    <h3 class="item-name">3 Lil Pigs</h3>
-                    <p class="item-price"><strong>$8.99</strong></p>
-                    <p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
-                </div>
+				<div class="menu-item">
+					<h3 class="item-name">3 Lil Pigs</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
-                <div class="menu-item">
-                    <h3 class="item-name">Deck-fil-A</h3>
-                    <p class="item-price"><strong>$8.99</strong></p>
-                    <p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
-                </div>
+				<div class="menu-item">
+					<h3 class="item-name">Deck-fil-A</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
+				</div>
 				<div class="menu-item">
 					<h3 class="item-name">PULL Pens</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
 					<p class="item-description">Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</p>
 				</div>
 			</div>
-            <div class="row">
-                <div class="medium-8 medium-push-2 columns">
-                    <div class="menu-item-picture">
-                        <img src="/img/menu/opt/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger">
-                    </div>
-                </div>
-            </div>
+			<div class="row">
+				<div class="medium-8 medium-push-2 columns">
+					<div class="menu-item-picture">
+						<img src="/img/menu/opt/bacon-cheese-burger.jpg" alt="Bacon Cheese Burger">
+					</div>
+				</div>
+			</div>
 		</div>
 	</section>
 
@@ -321,9 +321,9 @@
 					<p class="item-description">One 6oz Prime Pork Chop Grilled or Fried to your liking. Served with Redskin Mashed Potatoes and Sautéed Garlic Green Beans <br>
 					- Add another Chop + <strong>$3.00</strong></p>
 				</div>
-                <div class="menu-item-picture">
-                    <img src="/img/menu/opt/pork-chops.jpg" alt="Pork Chops">
-                </div>
+				<div class="menu-item-picture">
+					<img src="/img/menu/opt/pork-chops.jpg" alt="Pork Chops">
+				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Cajun Fried Red Fish</h3>
 					<p class="item-price"><strong>$12.99</strong></p>
@@ -367,11 +367,11 @@
 					<p class="item-price"><strong>$11.99</strong></p>
 					<p class="item-description">9oz of Fresh Angus Beef breaded and Fried to a Golden Brown. Topped with Creamy Peppered Gravy. Served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</p>
 				</div>
-                <div class="menu-item">
-                    <h3 class="item-name">Fried Gulf Shrimp</h3>
-                    <p class="item-price"><strong>$10.99</strong></p>
-                    <p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
-                </div>
+				<div class="menu-item">
+					<h3 class="item-name">Fried Gulf Shrimp</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</p>
+				</div>
 				<div class="menu-item">
 					<h3 class="item-name">The Beef</h3>
 					<p class="item-price"><strong>$13.99</strong></p>
