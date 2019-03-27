@@ -52,11 +52,11 @@
 				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
 			</ul>
 			<section class="top-bar-section">
-				<ul class="right">
-					<li class="active"><a href="/">HOME</a></li>
-					<li><a href="/events">EVENTS</a></li>
-					<li><a href="/menu-m">FOOD + DRINK</a></li>
-					<li><a href="/location">LOCATION</a></li>
+				<ul class="dropdown-nav right">
+					<li class="active"><a href="/">Home</a></li>
+					<li><a href="/events">Events</a></li>
+					<li><a href="/menu-m">Food + Drink</a></li>
+					<li><a href="/location">Location</a></li>
 				</ul>
 			</section>
 		</nav>
@@ -80,10 +80,10 @@
 					</div>
 					<nav class="small-12 large-9 columns">
 						<ul>
-							<li id="first"><a href="/" class="home active">HOME</a></li>
-							<li><a href="/events" class="events">EVENTS</a></li>
-							<li><a href="/menu" class="menu">FOOD + DRINK</a></li>
-							<li id="last"><a href="/location" class="location">LOCATION</a></li>
+							<li id="first"><a href="/" class="home active">Home</a></li>
+							<li><a href="/events" class="events">Events</a></li>
+							<li><a href="/menu" class="menu">Food + Drink</a></li>
+							<li id="last"><a href="/location" class="location">Location</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -238,14 +238,8 @@
 	</section>
 </footer>
 
-
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
-<!--[if lt IE 9]>
-	<script src="/js/rem-min.js" type="text/javascript"></script>
-<![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-1-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
 <script src="<?php autoVer('/js/index-min.js'); ?>"></script>
 <script>
