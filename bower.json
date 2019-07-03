@@ -1,7 +1,17 @@
 {
-	"name": "foundation-libsass-template",
-	"dependencies": {
-		"foundation": "zurb/bower-foundation",
-		"slick.js": "~1.5.8"
-	}
+  "name": "the-deck-on-fountainview",
+  "author": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+  ],
+  "description": "The repo for the website of The Deck on Fountainview bar and restaurant, located in Houston, TX.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "slick.js": "~1.5.8"
+  }
 }
