@@ -142,9 +142,9 @@
 					- Add Shrimp + <strong>$3.00</strong></p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">Fried Pickles</h3>
+					<h3 class="item-name">Cheese Sticks</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
+					<p class="item-description">Six fried mozzarella sticks served with Zesty Marinara</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Crispy Green Beans</h3>
@@ -152,14 +152,16 @@
 					<p class="item-description">Fried green beans served with homemade ranch dressing</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">Southwest Chicken Eggrolls</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three crispy egg rolls with grilled chicken, pepper jack cheese, black beans, and sweet corn, served with a zesty homemade ranch dressing</p>
-				</div>
-				<div class="menu-item">
 					<h3 class="item-name">Roasted Red Pepper Hummus</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
 					<p class="item-description">Served with roasted garlic and chili petite naan bread</p>
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="menu-item">
+					<h3 class="item-name">Southwest Chicken Eggrolls</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three crispy egg rolls with grilled chicken, pepper jack cheese, black beans, and sweet corn, served with a zesty homemade ranch dressing</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Loaded Potato Skins</h3>
@@ -172,9 +174,9 @@
 					<p class="item-description">Fritos piled high, topped with creamy nacho cheese and our homemade Texas chili</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">Cheese Sticks</h3>
+					<h3 class="item-name">Fried Pickles</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Six fried mozzarella sticks served with Zesty Marinara</p>
+					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Gumbo</h3>
@@ -191,9 +193,6 @@
 					<p class="item-price"><strong>$6.99</strong></p>
 					<p class="item-description">Two tacos with scrambled eggs cheddar cheese , and choice of bacon sausage or chorizo served with homemade salsa</p>
 				</div>
-			</div>
-			<div class="medium-6 columns">
-				<!-- &nbsp; -->
 			</div>
 		</div>
 		<div class="row" id="wing-it">
