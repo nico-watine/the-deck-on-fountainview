@@ -104,6 +104,7 @@
 		</nav>
 	</section>
 
+	<!-- Appetizers "Starting Line Up" -->
 	<section class="menu-category" id="appetizers" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
