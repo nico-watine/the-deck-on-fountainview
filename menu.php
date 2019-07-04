@@ -365,7 +365,16 @@
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
-				<!--  -->
+				<div class="menu-item">
+					<h3 class="item-name">Prime Chops</h3>
+					<p class="item-price"><strong>$12.99</strong></p>
+					<p class="item-description">Two 6oz prime pork chops grilled or fried to your liking. Served with mashed red potatoes and sautéed garlic mixed vegetables</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Cajun Fried Red Fish</h3>
+					<p class="item-price"><strong>$12.99</strong></p>
+					<p class="item-description">8oz fresh red fish filet fried in our Signature “Deck” Batter. Served alongside a pile of fresh crispy French Fries</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
 				<!--  -->
