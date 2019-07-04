@@ -265,41 +265,41 @@
 		</div>
 	</section>
 
+	<!-- Salads "The Greens" -->
 	<section id="salads" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="salads"></a>
 				<p data-magellan-destination="salads">Salads</p>
-				<h2>On the Green</h2>
+				<h2>The Greens</h2>
 			</div>
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">The Wedge</h3>
+					<h3 class="item-name">Grilled Chicken Club Salad</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">Lettuce blend, sweet tomatoes, crisp cucumbers, applewood smoked bacon, toasted croutons, ripe avacado, sliced fresh grilled chicken topped with our homemade ranch dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Wedge Salad</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Fresh Iceberg Lettuce, AppleWood Smoked Bacon, SweetTomatoes and Aged Blue Cheese Crumbs, Topped with our Signature Chunky Blue Cheese Dressing</p>
+					<p class="item-description">Iceberg lettuce, crispy bacon, tomato, aged blue cheese crumbles topped with chunky blue cheese dressing</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">The Classic</h3>
-					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing <br>
-					- Substitute Grilled Shrimp + <strong>$2.00</strong></p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">The Rough</h3>
-					<p class="item-price"><strong>$4.99</strong></p>
-					<p class="item-description">Traditional Caesar or House Salad</p>
+					<h3 class="item-name">House/Caesar Side Salad</h3>
+					<p class="item-price"><strong>$3.99</strong></p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">The Club House</h3>
+					<h3 class="item-name">Caesar Salad</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</p>
+					<p class="item-description">Crispy chopped romaine, grated parmesan cheese, toasted croutons, topped with fresh grilled chicken breast <br>
+					- Add Shrimp + <strong>$2.00</strong></p>
 				</div>
 				<div class="menu-item-picture">
-					<img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
+					<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
 				</div>
 			</div>
 		</div>
