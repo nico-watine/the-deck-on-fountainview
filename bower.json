@@ -12,6 +12,7 @@
   ],
   "dependencies": {
     "foundation": "zurb/bower-foundation",
-    "slick.js": "~1.5.8"
+    "slick.js": "~1.5.8",
+    "normalize-css": "^8.0.1"
   }
 }

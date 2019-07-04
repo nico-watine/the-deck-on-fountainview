@@ -1,10 +1,10 @@
-// @import 'normalize';
-@import 'settings';
+// normalize.css v8.0.1
+@import '../bower_components/normalize-css/normalize';
 
-// Import all Foundation:
+// Foundation v5.3.3
+@import 'settings';
 // @import 'foundation';
 
-// Or selectively include components
 @import
 	'foundation/components/accordion',
 	// 'foundation/components/alert-boxes',
@@ -52,7 +52,3 @@
 @import 'pages/_location.scss';
 @import 'pages/menu/_menu.scss';
 @import 'pages/_events.scss';
-
-
-// ie8 text shadow
-// filter: progid:DXImageTransform.Microsoft.DropShadow(offX=2,offY=2,color=000000);
