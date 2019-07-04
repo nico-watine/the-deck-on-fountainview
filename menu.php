@@ -141,6 +141,16 @@
 					- Add Certified Angus Beef Fajita + <strong>$2.00</strong> <br>
 					- Add Shrimp + <strong>$3.00</strong></p>
 				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Fried Pickles</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Crispy Green Beans</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Fried green beans served with homemade ranch dressing</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
 				<!-- &nbsp; -->
