@@ -115,39 +115,35 @@
 		<div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">Chip Shot Nachos</h3>
-					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Fresh Tortilla Chips (We don’t Fry em’ until you order em’!!!) Fresh Pico De Gallo, Crisp Iceberg Lettuce, Fresh Jalapenos topped with Creamy Cheese Sauce <br>
-					- Add Grilled Chicken + <strong>$2.00</strong> <br>
-					- Add Certified Angus Beef Fajita + <strong>$3.00</strong></p>
+					<h3 class="item-name">Fresh Tortilla Chips and Salsa</h3>
+					<p class="item-price"><strong>$3.99</strong></p>
+					<p class="item-description">- Add Queso + <strong>$2.00</strong></p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">Skins Game</h3>
-					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Five Potato Skins Fried to a Golden Brown, Topped with Cheddar Cheese, Apple Wood Smoked Bacon, Fresh Chives, Sour Cream and a side of Homemade Buttermilk Ranch</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Buzzer Battered Pickles</h3>
+					<h3 class="item-name">Mini Corn Dogs</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Pile of Hand Battered Kosher Pickle Chips, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
+					<p class="item-description">Eight mini corn dogs served with honey mustard</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Spinach Artichoke Dip</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Fresh tortilla chips with fresh homemade creamy spinach and artichoke dip</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Fajita Nachos</h3>
+					<p class="item-price"><strong>$10.99</strong></p>
+					<p class="item-description">Choice of beef or chicken, topped with queso, lettuce, tomatoes and jalapenos</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Quesadillas</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese grilled between two fresh flour tortillas <br>
+					- Add Certified Angus Beef Fajita + <strong>$2.00</strong> <br>
+					- Add Shrimp + <strong>$3.00</strong></p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
-				<div class="menu-item">
-					<h3 class="item-name">The Sticks</h3>
-					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">10 Hand Battered Mozzarella Sticks, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch and Zesty Marinara Sauce</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Ball Caps</h3>
-					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Ten Hand Battered Mushroom Caps, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">19th Hole Green Beans</h3>
-					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Pile of Hand Battered Fresh Green Beans, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</p>
-				</div>
+				<!-- &nbsp; -->
 			</div>
 		</div>
 		<div class="row" id="wing-it">
