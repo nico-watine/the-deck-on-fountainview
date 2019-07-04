@@ -104,6 +104,7 @@
 		</nav>
 	</section>
 
+	<!-- Appetizers "Starting Line Up" -->
 	<section class="menu-category" id="appetizers" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
@@ -142,18 +143,57 @@
 					- Add Shrimp + <strong>$3.00</strong></p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">Fried Pickles</h3>
+					<h3 class="item-name">Cheese Sticks</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
+					<p class="item-description">Six fried mozzarella sticks served with Zesty Marinara</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Crispy Green Beans</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
 					<p class="item-description">Fried green beans served with homemade ranch dressing</p>
 				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Roasted Red Pepper Hummus</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Served with roasted garlic and chili petite naan bread</p>
+				</div>
 			</div>
 			<div class="medium-6 columns">
-				<!-- &nbsp; -->
+				<div class="menu-item">
+					<h3 class="item-name">Southwest Chicken Eggrolls</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Three crispy egg rolls with grilled chicken, pepper jack cheese, black beans, and sweet corn, served with a zesty homemade ranch dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Loaded Potato Skins</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Five fried golden brown potato skins loaded with melted cheese, bacon, and chives. Served with your choice of sour cream or homemade ranch dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Frito Pie</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Fritos piled high, topped with creamy nacho cheese and our homemade Texas chili</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Fried Pickles</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Gumbo</h3>
+					<p class="item-price"><strong>$8.99</strong></p>
+					<p class="item-description">Fresh chicken breast and sliced andouille sausage nestled in a zesty New Orleans style roux. Served with rice</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Fried Mushrooms</h3>
+					<p class="item-price"><strong>$7.99</strong></p>
+					<p class="item-description">Fried golden brown mushrooms served with our homemade ranch dressing</p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Breakfast Tacos</h3>
+					<p class="item-price"><strong>$6.99</strong></p>
+					<p class="item-description">Two tacos with scrambled eggs cheddar cheese , and choice of bacon sausage or chorizo served with homemade salsa</p>
+				</div>
 			</div>
 		</div>
 		<div class="row" id="wing-it">
