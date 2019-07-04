@@ -290,17 +290,17 @@
 					<h3 class="item-name">House/Caesar Side Salad</h3>
 					<p class="item-price"><strong>$3.99</strong></p>
 				</div>
+			</div>
+			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Caesar Salad</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
 					<p class="item-description">Crispy chopped romaine, grated parmesan cheese, toasted croutons, topped with fresh grilled chicken breast <br>
 					- Add Shrimp + <strong>$2.00</strong></p>
 				</div>
-			</div>
-			<div class="medium-6 columns">
-				<!-- <div class="menu-item-picture">
-					<img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
-				</div> -->
+				<div class="menu-item-picture">
+					<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
+				</div>
 			</div>
 		</div>
 	</section>
