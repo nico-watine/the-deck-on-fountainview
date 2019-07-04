@@ -265,42 +265,23 @@
 		</div>
 	</section>
 
+	<!-- Salads "The Greens" -->
 	<section id="salads" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="salads"></a>
 				<p data-magellan-destination="salads">Salads</p>
-				<h2>On the Green</h2>
+				<h2>The Greens</h2>
 			</div>
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
-				<div class="menu-item">
-					<h3 class="item-name">The Wedge</h3>
-					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Fresh Iceberg Lettuce, AppleWood Smoked Bacon, SweetTomatoes and Aged Blue Cheese Crumbs, Topped with our Signature Chunky Blue Cheese Dressing</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">The Classic</h3>
-					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing <br>
-					- Substitute Grilled Shrimp + <strong>$2.00</strong></p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">The Rough</h3>
-					<p class="item-price"><strong>$4.99</strong></p>
-					<p class="item-description">Traditional Caesar or House Salad</p>
-				</div>
+
 			</div>
 			<div class="medium-6 columns">
-				<div class="menu-item">
-					<h3 class="item-name">The Club House</h3>
-					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</p>
-				</div>
-				<div class="menu-item-picture">
+				<!-- <div class="menu-item-picture">
 					<img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
