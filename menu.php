@@ -196,7 +196,10 @@
 				</div>
 			</div>
 		</div>
-		<div class="row" id="wing-it">
+
+		<!-- REVIEW THIS:: -->
+		<!-- WINGS -->
+		<!-- <div class="row" id="wing-it">
 			<h2>Wing It</h2>
 			<div class="medium-7 large-8 columns">
 				<div class="small-12 columns">
@@ -215,8 +218,9 @@
 			<div class="medium-5 large-4 columns">
 				<img style="margin-top: 20px;" src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings" title="The Grilled Wings">
 			</div>
-		</div>
-		<div class="row item-row">
+		</div> -->
+		<!-- REVIEW THIS (SECTION??) -->
+		<!-- <div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Tex-Rolls</h3>
@@ -252,7 +256,7 @@
 					<p class="item-description">Two Early Morning Breakfast Tacos Stuffed with Scrambled Eggs, Cheddar Cheese, Refried Beans and your choice of Bacon, Sausage or Chorizo. Served with Homemade Salsa</p>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</section>
 
 	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
