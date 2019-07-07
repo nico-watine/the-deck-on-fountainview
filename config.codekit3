@@ -41,6 +41,14 @@
 		"oAP": "/_ignores/calendar-default.txt",
 		"oF": 0
 		},
+	"/_ignores/food.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/food.txt",
+		"oF": 0
+		},
 	"/_ignores/google-analytics-snippet.html": {
 		"cB": 0,
 		"ft": 8192,
