@@ -390,6 +390,8 @@
 					<p class="item-price"><strong>$10.99</strong></p>
 					<p class="item-description">8oz all natural chicken breast grilled or blackened. Served with creamy redskin mashed potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast</p>
 				</div>
+			</div>
+			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Chicken Alfredo</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
@@ -411,9 +413,6 @@
 					<p class="item-price"><strong>$10.99</strong></p>
 					<p class="item-description">Eight fresh gulf shrimp, butterflied and hand battered then fried to a golden brown. Served with fresh crispy French fries, cocktail and tartar sauce</p>
 				</div>
-			</div>
-			<div class="medium-6 columns">
-				<!--  -->
 			</div>
 		</div>
 	</section>
