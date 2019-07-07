@@ -422,7 +422,7 @@
 			<div class="small-12 columns menu-category-title">
 				<a name="sandwiches"></a>
 				<p data-magellan-destination="sandwiches">Sandwiches</p>
-				<h2>Signature Sandwiches</h2>
+				<h2>Signature Sandwiches &amp; Hot Dogs</h2>
 			</div>
 		</div>
 		<div class="row item-row">
