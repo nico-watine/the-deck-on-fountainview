@@ -322,26 +322,26 @@
 		<div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">Stros</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Certified Angus Beef Slider Patties Grilled to Perfection. Topped with Sweet Grilled Onions and our signature “Deck” Sauce, served on Freshly Toasted Brioche Buns</p>
+					<h3 class="item-name">Deck Melt</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">8oz Certified Angus Beef patty, grilled to perfection. Topped with Texas sweet onions and Swiss cheese on a rye bread bun. Served with French fries.</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">3 Lil Pigs</h3>
+					<h3 class="item-name">Deck Sliders</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Grilled 100% Angus Beef Mini Franks topped with our Signature Homemade Chili and Spicy Relish</p>
+					<p class="item-description">Three Certified Angus Beef slider patties grilled to perfection. Topped with sweet grilled onions and our signature “deck” sauce on freshly toasted brioche buns. Served with pub fries.</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">Deck-fil-A</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Hand Breaded All Natural Chicken Breasts fried to a Golden Brown and topped with Texas Honey and Jalapenos. Served on Fluffy, Buttery, Homemade Biscuits </p>
+					<h3 class="item-name">The Rocket</h3>
+					<p class="item-price"><strong>$11.99</strong></p>
+					<p class="item-description">8oz Certified Angus Beef patty grilled to perfection. Topped with cheddar cheese, fresh jalapeno peppers, fresh serrano peppers, avocado and a stack of Applewood smoked bacon. Served with crispy sriracha French fries.</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">PULL Pens</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three Kansas City style Pulled Pork sliders, topped with Fresh Diced Onions and Dill Pickles</p>
+					<h3 class="item-name">H-Town Classic</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">8oz Certified Angus Beef Patty grilled to perfection. Topped with crisp lettuce, fresh tomatoes, Texas sweet onions, tangy dill pickle slices and American cheese, on a freshly toasted bun. Served with crispy French fries.</p>
 				</div>
 			</div>
 			<div class="row">
