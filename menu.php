@@ -331,6 +331,8 @@
 					<p class="item-price"><strong>$8.99</strong></p>
 					<p class="item-description">Three Certified Angus Beef slider patties grilled to perfection. Topped with sweet grilled onions and our signature “deck” sauce on freshly toasted brioche buns. Served with pub fries.</p>
 				</div>
+			</div>
+			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">The Rocket</h3>
 					<p class="item-price"><strong>$11.99</strong></p>
@@ -341,9 +343,6 @@
 					<p class="item-price"><strong>$9.99</strong></p>
 					<p class="item-description">8oz Certified Angus Beef Patty grilled to perfection. Topped with crisp lettuce, fresh tomatoes, Texas sweet onions, tangy dill pickle slices and American cheese, on a freshly toasted bun. Served with crispy French fries.</p>
 				</div>
-			</div>
-			<div class="medium-6 columns">
-				<!--  -->
 			</div>
 			<div class="row">
 				<div class="medium-8 medium-push-2 columns">
