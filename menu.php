@@ -467,7 +467,7 @@
 					<li>French Fries</li>
 					<li>Onion Rings</li>
 					<li>Grilled Vegetables</li>
-					<li>Mash Potatoes</li>
+					<li>Mashed Potatoes</li>
 				</ul>
 			</div>
 		</div>
