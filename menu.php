@@ -433,6 +433,13 @@
 					<p class="item-description">Topped with sautéed mushrooms, bell pepper, grilled onions and melted mozzarella cheese. Served with French fries.</p>
 				</div>
 				<div class="menu-item">
+					<h3 class="item-name">Deck Dog</h3>
+					<p class="item-price"><strong>$11.99</strong></p>
+					<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll, topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="menu-item">
 					<h3 class="item-name">Caesar Wrap</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
 					<p class="item-description">Grilled chicken, romaine lettuce, caesar dressing and shredded parmesan cheese. Served with French fries. <br>
@@ -443,14 +450,6 @@
 					<p class="item-price"><strong>$9.99</strong></p>
 					<p class="item-description">7oz all natural chicken breast grilled to perfection. Topped with crisp lettuce, fresh tomatoes, pickles, red onions and pepper jack cheese on a freshly toasted bun. Served with hand cut potato wedges.</p>
 				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Deck Dog</h3>
-					<p class="item-price"><strong>$11.99</strong></p>
-					<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll, topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
-				</div>
-			</div>
-			<div class="medium-6 columns">
-				<!--  -->
 			</div>
 		</div>
 	</section>
