@@ -422,47 +422,33 @@
 			<div class="small-12 columns menu-category-title">
 				<a name="sandwiches"></a>
 				<p data-magellan-destination="sandwiches">Sandwiches</p>
-				<h2>Signature Sandwiches</h2>
+				<h2>Signature Sandwiches &amp; Hot Dogs</h2>
 			</div>
 		</div>
 		<div class="row item-row">
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">The Rocket</h3>
-					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef Patty Grilled to Perfection. Topped with Cheddar Cheese, Fresh Jalapeno Peppers, Fresh Serrano Peppers, Avocado and a stack of Applewood Smoked Bacon. Served with Crispy Sriracha French Fries</p>
+					<h3 class="item-name">Philly Cheesesteak</h3>
+					<p class="item-price"><strong>$11.99</strong></p>
+					<p class="item-description">Topped with sautéed mushrooms, bell pepper, grilled onions and melted mozzarella cheese. Served with French fries.</p>
 				</div>
 				<div class="menu-item">
-					<h3 class="item-name">The Summit</h3>
-					<p class="item-price"><strong>$12.99</strong></p>
-					<p class="item-description">8oz of Fillet Mignon Seasoned and Grilled to Perfection. Topped with Swiss Cheese, Fresh Sliced Tomatoes and Grilled Texas Sweet Onions, then stuffed into a New Orleans Style Hoagie Roll. Served with Hand Battered Onion Rings</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Deck Melt</h3>
-					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef Patty Grilled to Perfection. Topped with Grilled Texas Sweet Onions and Swiss Cheese, served on Fresh Marble Rye with a Crispy French Fries</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Turn Down for Watt</h3>
-					<p class="item-price"><strong>$13.99</strong></p>
-					<p class="item-description">Two 8oz Certified Angus Beef Patties layered with Pepper Jack Cheese, Aged Cheddar Cheese and Swiss, topped with Applewood Smoked Bacon, Two Onion Rings and our Signature “Deck” Sauce, served on a Freshly Toasted Bun with a side of Crispy Tater Tots</p>
+					<h3 class="item-name">Deck Dog</h3>
+					<p class="item-price"><strong>$11.99</strong></p>
+					<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll, topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="menu-item">
-					<h3 class="item-name">Da Pollo</h3>
-					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">7oz All Natural Chicken Breast Grilled to Perfection. Topped with Crisp Lettuce, Fresh Tomatoes, Pickles, Red Onions and Pepper Jack Cheese on a Freshly Toasted Bun. Served with Hand Cut Potato Wedges</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">The Philly</h3>
-					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">8oz of Certified Angus Beef Ribeye, Sliced Thin and Grilled with our Signature Spice Blend. Topped with Fresh Grilled Green Bell Peppers, Onions and Sliced Mushrooms. Served with a side of Homemade Marinara Sauce and Crispy French Fries</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">H-Town Classic</h3>
+					<h3 class="item-name">Caesar Wrap</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef Patty Grilled to Perfection and topped with Crisp Lettuce, Fresh Tomatoes, Texas Sweet Onions, Tangy Dill Pickle Slices and American Cheese on a Freshly Toasted Bun. Served with Crispy French Fries</p>
+					<p class="item-description">Grilled chicken, romaine lettuce, caesar dressing and shredded parmesan cheese. Served with French fries. <br>
+					- Substitue Shrimp <strong>$9.99</strong></p>
+				</div>
+				<div class="menu-item">
+					<h3 class="item-name">Grilled Chicken Sandwich</h3>
+					<p class="item-price"><strong>$9.99</strong></p>
+					<p class="item-description">7oz all natural chicken breast grilled to perfection. Topped with crisp lettuce, fresh tomatoes, pickles, red onions and pepper jack cheese on a freshly toasted bun. Served with hand cut potato wedges.</p>
 				</div>
 			</div>
 		</div>
