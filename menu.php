@@ -197,7 +197,6 @@
 			</div>
 		</div>
 
-		<!-- REVIEW THIS:: -->
 		<!-- WINGS -->
 		<div class="row" id="wing-it">
 			<h2>Wings</h2>
