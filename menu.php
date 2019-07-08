@@ -203,13 +203,13 @@
 			<div class="medium-7 large-8 columns">
 				<div class="small-12 columns">
 					<div class="menu-item">
-						<h3 class="item-name">The Fried <span>- <strong>$8.99</strong></span></h3>
+						<h3 class="item-name">Fried Wings <span>- <strong>$9.99</strong></span></h3>
 						<p class="item-description">Ten Hand Breaded All Natural Chicken Wings, tossed in your choice of Zesty Lemon Pepper, Fresh Garlic Parmesan, Red Hot Cayenne or Spicy BBQ, and served with a side of Homemade Buttermilk Ranch</p>
 					</div>
 				</div>
 				<div class="small-12 columns">
 					<div class="menu-item">
-						<h3 class="item-name">The Grilled <span>- <strong>$9.99</strong></span></h3>
+						<h3 class="item-name">Grilled Wings <span>- <strong>$10.99</strong></span></h3>
 						<p class="item-description">Ten All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</p>
 					</div>
 				</div>
