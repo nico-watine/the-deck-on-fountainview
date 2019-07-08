@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Houston's Best Crawfish! | The Deck On Fountainview</title>
 	<meta name="description" content="A true neighborhood sports bar in the heart of the Galleria Area. #1 Crawfish &nbsp;amp; Happy Hour">
-	<link href="http://thedeckonfountainview.com/" rel="canonical">
+	<link href="https://thedeckonfountainview.com/" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
 	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">

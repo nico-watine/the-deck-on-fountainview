@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Food &amp; Drink Menu | The Deck On Fountainview</title>
 	<meta name="description" content="We've got good eats &amp; cold drinks! View our full menu.">
-	<link href="http://thedeckonfountainview.com/menu" rel="canonical">
+	<link href="https://thedeckonfountainview.com/menu-m" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
 	<link href="<?php autoVer('/css/app-m.css'); ?>" rel="stylesheet">

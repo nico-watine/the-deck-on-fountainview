@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Upcoming Events &amp; Sports Games | The Deck On Fountainview</title>
 	<meta name="description" content="Come watch all your favorite sporting events at The Deck On Fountainview">
-	<link href="http://thedeckonfountainview.com/events" rel="canonical">
+	<link href="https://thedeckonfountainview.com/events" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
 	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
