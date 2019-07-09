@@ -7058,9 +7058,6 @@ section#contact-info {
   margin-top: 0;
   border-bottom: 3px solid #5EBDDF; }
 
-#menu-accordion section {
-  text-align: center; }
-
 .section-detail-m {
   text-align: center;
   margin-bottom: 10px; }
@@ -7169,6 +7166,16 @@ li#sides-label {
   line-height: 1.5;
   margin-bottom: 26px; }
 
+.menu-m#menu-m .menu-item .item-name {
+  margin: 0 0 4px; }
+
+.menu-m#menu-m .menu-item .item-price {
+  margin: 0 0 4px;
+  line-height: 1.2; }
+
+.menu-m#menu-m .menu-item .item-description {
+  margin-bottom: 24px; }
+
 section#menu-title,
 section#crawfish {
   text-align: center; }
@@ -7181,12 +7188,12 @@ section#crawfish {
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
     line-height: 59px;
-    text-shadow: 2px 2px 0px #000; }
+    text-shadow: 2px 2px 0 #000; }
   section#menu-title h3,
   section#crawfish h3 {
     font-size: 24px;
     line-height: 33px;
-    text-shadow: 2px 2px 0px #000000; }
+    text-shadow: 2px 2px 0 #000; }
 
 section#magellan-nav {
   background: #eee;
@@ -7194,7 +7201,7 @@ section#magellan-nav {
   section#magellan-nav nav {
     padding: 0;
     margin: 0;
-    border-bottom: 3px solid #5EBDDF; }
+    border-bottom: 3px solid #5ebddf; }
     section#magellan-nav nav dl.sub-nav {
       padding-top: 0;
       height: 60px;
@@ -7206,22 +7213,22 @@ section#magellan-nav {
         section#magellan-nav nav dl.sub-nav dd:hover {
           background: #fff; }
           section#magellan-nav nav dl.sub-nav dd:hover a {
-            text-shadow: 2px 2px 0px #D8D8D8; }
+            text-shadow: 2px 2px 0 #d8d8d8; }
         section#magellan-nav nav dl.sub-nav dd a {
           font-size: 24px;
           color: #222;
           line-height: 60px;
-          text-shadow: 1px 1px 0px #fff;
+          text-shadow: 1px 1px 0 #fff;
           padding-top: 14px;
           padding-bottom: 13px; }
       section#magellan-nav nav dl.sub-nav dd.active {
-        background: #5EBDDF; }
+        background: #5ebddf; }
         section#magellan-nav nav dl.sub-nav dd.active a {
           background: none;
           color: #fff;
           font-size: 24px;
           line-height: 60px;
-          text-shadow: 2px 2px 0px #000; }
+          text-shadow: 2px 2px 0 #000; }
 
 section#appetizers .row#wing-it {
   background: #fff; }
@@ -7230,7 +7237,7 @@ section#appetizers .row#wing-it {
     font-size: 34px;
     color: #fff;
     text-shadow: 2px 2px 0 #000;
-    background: #5EBDDF;
+    background: #5ebddf;
     text-align: center;
     margin: 0;
     padding: 5px 0; }
@@ -7241,32 +7248,36 @@ section#appetizers .row#wing-it {
     color: #000; }
 
 section#appetizers img,
-section#salads img, _
+section#salads img,
+_
 section#burgers img,
 section#entrees img,
 section#specials img,
 section#dog-sides img {
-  border: 3px solid #5EBDDF; }
+  border: 3px solid #5ebddf; }
 
 section#appetizers ul.no-bullet,
-section#salads ul.no-bullet, _
+section#salads ul.no-bullet,
+_
 section#burgers ul.no-bullet,
 section#entrees ul.no-bullet,
 section#specials ul.no-bullet,
 section#dog-sides ul.no-bullet {
   margin-bottom: 0; }
   section#appetizers ul.no-bullet li,
-  section#salads ul.no-bullet li, _
+  section#salads ul.no-bullet li,
+  _
 section#burgers ul.no-bullet li,
   section#entrees ul.no-bullet li,
   section#specials ul.no-bullet li,
   section#dog-sides ul.no-bullet li {
     font-weight: 700;
-    text-shadow: 1px .5px 0px #111;
+    text-shadow: 1px .5px 0 #111;
     font-size: 20px;
-    color: #5EBDDF; }
+    color: #5ebddf; }
     section#appetizers ul.no-bullet li span,
-    section#salads ul.no-bullet li span, _
+    section#salads ul.no-bullet li span,
+    _
 section#burgers ul.no-bullet li span,
     section#entrees ul.no-bullet li span,
     section#specials ul.no-bullet li span,
@@ -7275,7 +7286,8 @@ section#burgers ul.no-bullet li span,
       color: #222;
       text-shadow: none; }
   section#appetizers ul.no-bullet li.sides,
-  section#salads ul.no-bullet li.sides, _
+  section#salads ul.no-bullet li.sides,
+  _
 section#burgers ul.no-bullet li.sides,
   section#entrees ul.no-bullet li.sides,
   section#specials ul.no-bullet li.sides,
@@ -7284,7 +7296,8 @@ section#burgers ul.no-bullet li.sides,
     text-shadow: none;
     color: #222; }
   section#appetizers ul.no-bullet li.gratuity,
-  section#salads ul.no-bullet li.gratuity, _
+  section#salads ul.no-bullet li.gratuity,
+  _
 section#burgers ul.no-bullet li.gratuity,
   section#entrees ul.no-bullet li.gratuity,
   section#specials ul.no-bullet li.gratuity,
@@ -7293,14 +7306,16 @@ section#burgers ul.no-bullet li.gratuity,
     text-shadow: none;
     color: #222; }
   section#appetizers ul.no-bullet ul.description,
-  section#salads ul.no-bullet ul.description, _
+  section#salads ul.no-bullet ul.description,
+  _
 section#burgers ul.no-bullet ul.description,
   section#entrees ul.no-bullet ul.description,
   section#specials ul.no-bullet ul.description,
   section#dog-sides ul.no-bullet ul.description {
     list-style: none; }
     section#appetizers ul.no-bullet ul.description li,
-    section#salads ul.no-bullet ul.description li, _
+    section#salads ul.no-bullet ul.description li,
+    _
 section#burgers ul.no-bullet ul.description li,
     section#entrees ul.no-bullet ul.description li,
     section#specials ul.no-bullet ul.description li,
@@ -7314,8 +7329,8 @@ section#crawfish {
   width: 100%;
   height: 150px;
   margin-top: 20px;
-  border-top: 3px solid #5EBDDF;
-  border-bottom: 3px solid #5EBDDF;
+  border-top: 3px solid #5ebddf;
+  border-bottom: 3px solid #5ebddf;
   background: #eee; }
   @media only screen and (min-width: 40.0625em) {
     section#crawfish {
@@ -7329,8 +7344,8 @@ section#crawfish {
 section#specials {
   margin-bottom: 30px; }
   section#specials hr {
-    border-width: 3px 0px 0px;
-    border-color: #5EBDDF; }
+    border-width: 3px 0 0;
+    border-color: #5ebddf; }
 
 section#specials-pics {
   margin-bottom: 50px; }
