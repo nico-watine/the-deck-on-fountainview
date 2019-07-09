@@ -2752,8 +2752,14 @@ li#sides-label {
   margin-bottom: 26px; }
 
 .menu-m#menu-m .menu-item .item-name {
-  font-size: 20px;
-  margin: 0; }
+  margin: 0 0 4px; }
+
+.menu-m#menu-m .menu-item .item-price {
+  margin: 0 0 4px;
+  line-height: 1.2; }
+
+.menu-m#menu-m .menu-item .item-description {
+  margin-bottom: 24px; }
 
 section#menu-title,
 section#crawfish {
