@@ -69,6 +69,7 @@
 	<div class="row" id="menu-accordion">
 		<div class="columns">
 			<dl class="accordion food-menu-accordion" data-accordion>
+				<!-- Appetizers -->
 				<dd class="accordion-navigation">
 					<a href="#appetizers" class="food-category-title">Appetizers</a>
 					<div id="appetizers" class="content">
@@ -157,50 +158,53 @@
 						</section>
 					</div>
 				</dd>
+				<!-- Salads -->
 				<dd class="accordion-navigation">
-					<a href="#salads" class="section-title-m">Salads</a>
+					<a href="#salads" class="food-category-title">Salads</a>
 					<div id="salads" class="content">
 					<section id="salads">
 						<div class="row">
-							<div class="small-12 columns">
-								<ul class="no-bullet">
-									<li>The Wedge <span>- $7.99</span></li>
-									<ul class="description">
-										<li>Fresh Iceberg Lettuce, AppleWood Smoked Bacon, SweetTomatoes and Aged Blue Cheese Crumbs, Topped with our Signature Chunky Blue Cheese Dressing</li>
-									</ul>
-									<li>The Club House <span>- $9.99</span></li>
-									<ul class="description">
-										<li>Artisan Lettuce Blend, Sweet Tomatoes, Crisp Cucumber Slices, Applewood Smoked Bacon, Toasted Croutons, Ripe Avocado Slices and Sliced Grilled Chicken, topped with Homemade Buttermilk Ranch Dressing</li>
-									</ul>
-									<li class="menu-item-picture">
-										<img src="/img/menu/opt/club-salad.jpg" alt="Club Salad">
-									</li>
-									<li>The Classic <span>- $9.99</span></li>
-									<ul class="description">
-										<li>Crispy Chopped Romaine, Hand Grated Parmesan Cheese and Toasted Croutons, topped with Sliced Grilled Chicken Breast and Tuscan Caesar Dressing</li>
-										<li>Substitute Grilled Shrimp + $2.00</li>
-									</ul>
-									<li>The Rough <span>- $4.99</span></li>
-									<ul class="description">
-										<li>Traditional Caesar or House Salad</li>
-									</ul>
-								</ul>
+							<div class="columns">
+								<div class="menu-item">
+									<h3 class="item-name">Grilled Chicken Club Salad</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">Lettuce blend, sweet tomatoes, crisp cucumbers, applewood smoked bacon, toasted croutons, ripe avacado, sliced fresh grilled chicken topped with our homemade ranch dressing</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Wedge Salad</h3>
+									<p class="item-price"><strong>$7.99</strong></p>
+									<p class="item-description">Iceberg lettuce, crispy bacon, tomato, aged blue cheese crumbles topped with chunky blue cheese dressing</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">House/Caesar Side Salad</h3>
+									<p class="item-price"><strong>$3.99</strong></p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Caesar Salad</h3>
+									<p class="item-price"><strong>$9.99</strong></p>
+									<p class="item-description">Crispy chopped romaine, grated parmesan cheese, toasted croutons, topped with fresh grilled chicken breast <br>
+									- Add Shrimp + <strong>$2.00</strong></p>
+								</div>
+								<div class="menu-item-picture">
+									<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
+								</div>
 							</div>
 						</div>
 					</section>
 					</div>
 				</dd>
+				<!-- Burgers -->
 				<dd class="accordion-navigation">
-					<a href="#burgers" class="section-title-m">Burgers</a>
+					<a href="#burgers" class="food-category-title">Burgers</a>
 					<div id="burgers" class="content">
 					<section id="burgers">
 						<div class="row">
-							<div class="small-12 columns section-detail-m">
+							<div class="columns section-detail-m">
 								<h5>-Served with Crispy Pub Fries-</h5>
 							</div>
 						</div>
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>Stros <span>- $8.99</span></li>
 									<ul class="description">
@@ -227,12 +231,13 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Entrees -->
 				<dd class="accordion-navigation">
-					<a href="#entrees" class="section-title-m">Entrees</a>
+					<a href="#entrees" class="food-category-title">Entrees</a>
 					<div id="entrees" class="content">
 					<section id="entrees">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>Prime Chops <span>- $9.99</span></li>
 									<ul class="description">
@@ -289,12 +294,13 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Sandwiches -->
 				<dd class="accordion-navigation">
-					<a href="#sandwiches" class="section-title-m">Sandwiches</a>
+					<a href="#sandwiches" class="food-category-title">Sandwiches</a>
 					<div id="sandwiches" class="content">
 					<section id="sandwiches">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>The Rocket <span>- $10.99</span></li>
 									<ul class="description">
@@ -330,12 +336,13 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Sides -->
 				<dd class="accordion-navigation">
-					<a href="#sides" class="section-title-m">Sides</a>
+					<a href="#sides" class="food-category-title">Sides</a>
 					<div id="sides" class="content">
 					<section id="sides">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>Sides <span>- $1.99</span></li>
 									<ul class="description">
@@ -351,7 +358,7 @@
 					</div>
 				</dd>
 				<!-- <dd class="accordion-navigation">
-					<a href="#specials" class="section-title-m">Specials</a>
+					<a href="#specials" class="food-category-title">Specials</a>
 					<div id="specials" class="content">
 						<section id="specials">
 							<div class="small-12 columns section-detail-m">

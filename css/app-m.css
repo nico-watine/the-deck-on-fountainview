@@ -2773,8 +2773,7 @@ li#sides-label {
     line-height: 1.6;
     text-shadow: 2px 2px 0 #fff;
     text-align: center;
-    border-top: 3px solid #5ebddf;
-    border-bottom: 3px solid #5ebddf; }
+    border-top: 3px solid #5ebddf; }
   .menu-m#menu-m .accordion.food-menu-accordion .accordion-navigation.active .food-category-title {
     background: #5ebddf;
     text-shadow: 2px 2px 0 #000;
@@ -2862,27 +2861,18 @@ section#appetizers .row#wing-it {
     font-size: 18px;
     color: #000; }
 
-section#appetizers img,
-section#salads img,
-_
 section#burgers img,
 section#entrees img,
 section#specials img,
 section#dog-sides img {
   border: 3px solid #5ebddf; }
 
-section#appetizers ul.no-bullet,
-section#salads ul.no-bullet,
-_
 section#burgers ul.no-bullet,
 section#entrees ul.no-bullet,
 section#specials ul.no-bullet,
 section#dog-sides ul.no-bullet {
   margin-bottom: 0; }
-  section#appetizers ul.no-bullet li,
-  section#salads ul.no-bullet li,
-  _
-section#burgers ul.no-bullet li,
+  section#burgers ul.no-bullet li,
   section#entrees ul.no-bullet li,
   section#specials ul.no-bullet li,
   section#dog-sides ul.no-bullet li {
@@ -2890,48 +2880,33 @@ section#burgers ul.no-bullet li,
     text-shadow: 1px .5px 0 #111;
     font-size: 20px;
     color: #5ebddf; }
-    section#appetizers ul.no-bullet li span,
-    section#salads ul.no-bullet li span,
-    _
-section#burgers ul.no-bullet li span,
+    section#burgers ul.no-bullet li span,
     section#entrees ul.no-bullet li span,
     section#specials ul.no-bullet li span,
     section#dog-sides ul.no-bullet li span {
       font-weight: 400;
       color: #222;
       text-shadow: none; }
-  section#appetizers ul.no-bullet li.sides,
-  section#salads ul.no-bullet li.sides,
-  _
-section#burgers ul.no-bullet li.sides,
+  section#burgers ul.no-bullet li.sides,
   section#entrees ul.no-bullet li.sides,
   section#specials ul.no-bullet li.sides,
   section#dog-sides ul.no-bullet li.sides {
     font-weight: 400;
     text-shadow: none;
     color: #222; }
-  section#appetizers ul.no-bullet li.gratuity,
-  section#salads ul.no-bullet li.gratuity,
-  _
-section#burgers ul.no-bullet li.gratuity,
+  section#burgers ul.no-bullet li.gratuity,
   section#entrees ul.no-bullet li.gratuity,
   section#specials ul.no-bullet li.gratuity,
   section#dog-sides ul.no-bullet li.gratuity {
     font-weight: 400;
     text-shadow: none;
     color: #222; }
-  section#appetizers ul.no-bullet ul.description,
-  section#salads ul.no-bullet ul.description,
-  _
-section#burgers ul.no-bullet ul.description,
+  section#burgers ul.no-bullet ul.description,
   section#entrees ul.no-bullet ul.description,
   section#specials ul.no-bullet ul.description,
   section#dog-sides ul.no-bullet ul.description {
     list-style: none; }
-    section#appetizers ul.no-bullet ul.description li,
-    section#salads ul.no-bullet ul.description li,
-    _
-section#burgers ul.no-bullet ul.description li,
+    section#burgers ul.no-bullet ul.description li,
     section#entrees ul.no-bullet ul.description li,
     section#specials ul.no-bullet ul.description li,
     section#dog-sides ul.no-bullet ul.description li {
