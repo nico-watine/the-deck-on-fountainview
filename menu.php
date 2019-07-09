@@ -65,7 +65,6 @@
 				<dd data-magellan-arrival="burgers"><a href="#burgers">Burgers</a></dd>
 				<dd data-magellan-arrival="entrees"><a href="#entrees">Entrees</a></dd>
 				<dd data-magellan-arrival="sandwiches"><a href="#sandwiches">Sandwiches</a></dd>
-				<!-- <dd data-magellan-arrival="specials"><a href="#specials">Specials</a></dd> -->
 			</dl>
 		</nav>
 	</section>
