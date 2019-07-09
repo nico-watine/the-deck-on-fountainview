@@ -94,7 +94,7 @@
 <main>
 	<section id="slide-show">
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<div class="slick-sider slides">
 					<div><img src="/img/index/ss/1.jpg" alt="The Deck On Fountain View"></div>
 					<div><img src="/img/index/ss/2.jpg" alt="The Deck On Fountain View"></div>
@@ -105,14 +105,14 @@
 	</section>
 	<section id="slogan">
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h1>Come For The Sports, Stay For The Fun</h1>
 			</div>
 		</div>
 	</section>
 	<section id="sports-section">
 		<div class="row section-header">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h2>Your Neighborhood Sports Headquarters</h2>
 				<hr>
 				<h3>With Screens Showing All Your Favorite Teams</h3>
@@ -160,7 +160,7 @@
 	</section>
 	<section id="food">
 		<div class="row section-header">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h2>Hungry? Thirsty?</h2>
 				<hr>
 				<h3>We've Got Good Eats &nbsp; Cold Drinks</h3>
@@ -189,10 +189,10 @@
 	</section>
 	<section id="review">
 		<div class="row">
-			<div class="small-12 medium-push-2 medium-6 columns">
+			<div class="medium-push-2 medium-6 columns">
 				<p>“Good food and good grub y'all. I'll be back soon. My bartender rocked!”</p>
 			</div>
-			<div class="small-12 medium-push-2 medium-3 columns end">
+			<div class="medium-push-2 medium-3 columns end">
 				<img src="/img/index/review/yelp-logo.png" id="yelp" alt="Yelp">
 			</div>
 		</div>
@@ -202,7 +202,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h4><a href="/menu">Check Out The Menu</a></h4>
 			</div>
 		</div>
