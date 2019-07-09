@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -9,16 +9,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Houston's Best Crawfish! | The Deck On Fountainview</title>
 	<meta name="description" content="A true neighborhood sports bar in the heart of the Galleria Area. #1 Crawfish &nbsp;amp; Happy Hour">
-	<link href="http://thedeckonfountainview.com/" rel="canonical">
+	<link href="https://thedeckonfountainview.com/" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+	<!-- <link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet"> -->
+	<link href="<?php autoVer('/css/opt/app.css'); ?>" rel="stylesheet">
 
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Houston's Best Crawfish!">
 	<meta property="og:description" content="We pride ourselves to be the true neighborhood local bar and the best sports bar in the Galleria Area with tasty food with one of Houston's best happy hours. #1 spot for Crawfish.">
-	<meta property="og:url" content="http://thedeckonfountainview.com/">
+	<meta property="og:url" content="https://thedeckonfountainview.com/">
 	<meta property="og:site_name" content="The Deck On Fountainview">
 	<!-- <meta property="og:image" content="http://url.com/image"> -->
 	<!-- <meta property="fb:app_id" content="123456789"> -->
@@ -31,16 +32,16 @@
 	<section class="show-for-small-only" id="mobile-header">
 		<section id="mobile-contact">
 				<div class="row">
-					<div class="small-12 columns">
+					<div class="columns">
 						<a href="tel:713-914-9990"><p>713-914-9990</p></a>
 					</div>
-					<div class="small-12 columns">
+					<div class="columns">
 						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p>6002 Fairdale Lane Houston, TX 77057</p></a>
 					</div>
 				</div>
 		</section>
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
 			</div>
 		</div>
@@ -52,11 +53,11 @@
 				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
 			</ul>
 			<section class="top-bar-section">
-				<ul class="right">
-					<li class="active"><a href="/">HOME</a></li>
-					<li><a href="/events">EVENTS</a></li>
-					<li><a href="/menu-m">FOOD + DRINK</a></li>
-					<li><a href="/location">LOCATION</a></li>
+				<ul class="dropdown-nav right">
+					<li class="active"><a href="/">Home</a></li>
+					<li><a href="/events">Events</a></li>
+					<li><a href="/menu-m">Food + Drink</a></li>
+					<li><a href="/location">Location</a></li>
 				</ul>
 			</section>
 		</nav>
@@ -65,25 +66,25 @@
 	<div class="show-for-medium-up">
 		<section id="mini-header">
 				<div class="row">
-					<div class="small-12 medium-4 columns">
+					<div class="medium-4 columns">
 						<p class="phone">713-914-9990</p>
 					</div>
-					<div class="small-12 medium-6 large-4 columns">
+					<div class="medium-6 large-4 columns">
 						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p class="address">6002 Fairdale Lane Houston, TX 77057</p></a>
 					</div>
 				</div>
 		</section>
 		<section id="main-header">
 				<div class="row">
-					<div class="small-12 medium-12 large-3 columns" id="logo">
-						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
+					<div class="large-3 columns" id="logo">
+						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo" title="The Deck On Fountainview"></a>
 					</div>
-					<nav class="small-12 large-9 columns">
+					<nav class="large-9 columns">
 						<ul>
-							<li id="first"><a href="/" class="home active">HOME</a></li>
-							<li><a href="/events" class="events">EVENTS</a></li>
-							<li><a href="/menu" class="menu">FOOD + DRINK</a></li>
-							<li id="last"><a href="/location" class="location">LOCATION</a></li>
+							<li id="first"><a href="/" class="home active">Home</a></li>
+							<li><a href="/events" class="events">Events</a></li>
+							<li><a href="/menu" class="menu">Food + Drink</a></li>
+							<li id="last"><a href="/location" class="location">Location</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -94,7 +95,7 @@
 <main>
 	<section id="slide-show">
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<div class="slick-sider slides">
 					<div><img src="/img/index/ss/1.jpg" alt="The Deck On Fountain View"></div>
 					<div><img src="/img/index/ss/2.jpg" alt="The Deck On Fountain View"></div>
@@ -105,14 +106,14 @@
 	</section>
 	<section id="slogan">
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h1>Come For The Sports, Stay For The Fun</h1>
 			</div>
 		</div>
 	</section>
 	<section id="sports-section">
 		<div class="row section-header">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h2>Your Neighborhood Sports Headquarters</h2>
 				<hr>
 				<h3>With Screens Showing All Your Favorite Teams</h3>
@@ -160,7 +161,7 @@
 	</section>
 	<section id="food">
 		<div class="row section-header">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h2>Hungry? Thirsty?</h2>
 				<hr>
 				<h3>We've Got Good Eats &nbsp; Cold Drinks</h3>
@@ -189,10 +190,10 @@
 	</section>
 	<section id="review">
 		<div class="row">
-			<div class="small-12 medium-push-2 medium-6 columns">
+			<div class="medium-push-2 medium-6 columns">
 				<p>“Good food and good grub y'all. I'll be back soon. My bartender rocked!”</p>
 			</div>
-			<div class="small-12 medium-push-2 medium-3 columns end">
+			<div class="medium-push-2 medium-3 columns end">
 				<img src="/img/index/review/yelp-logo.png" id="yelp" alt="Yelp">
 			</div>
 		</div>
@@ -202,7 +203,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h4><a href="/menu">Check Out The Menu</a></h4>
 			</div>
 		</div>
@@ -238,14 +239,8 @@
 	</section>
 </footer>
 
-
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="/bower_components/foundation/js/vendor/modernizr.js"></script>
-<!--[if lt IE 9]>
-	<script src="/js/rem-min.js" type="text/javascript"></script>
-<![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-1-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
 <script src="<?php autoVer('/js/index-min.js'); ?>"></script>
 <script>

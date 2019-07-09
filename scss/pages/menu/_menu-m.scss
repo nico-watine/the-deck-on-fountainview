@@ -1,0 +1,40 @@
+.menu-m#menu-m {
+	.accordion.food-menu-accordion {
+		max-width: 480px;
+		margin: 0 auto 32px;
+
+		.food-category-title {
+			color: #222;
+			font-family: 'Roboto Slab', serif;
+			font-size: 32px;
+			line-height: 1.6;
+			text-shadow: 2px 2px 0 #fff;
+			text-align: center;
+			border-top: 3px solid #5ebddf;
+		}
+
+		.accordion-navigation.active {
+			.food-category-title {
+				background: #5ebddf;
+				text-shadow: 2px 2px 0 #000;
+				color: #fff;
+				border-color: #fff;
+			}
+		}
+	}
+
+	.menu-item {
+		.item-name {
+			margin: 0 0 4px;
+		}
+
+		.item-price {
+			margin: 0 0 4px;
+			line-height: 1.2;
+		}
+
+		.item-description {
+			margin-bottom: 24px;
+		}
+	}
+}
