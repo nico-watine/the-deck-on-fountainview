@@ -166,12 +166,12 @@
 								<div class="columns">
 									<div class="menu-item">
 										<h3 class="item-name">Fried Wings <span>- <strong>$9.99</strong></span></h3>
-										<p class="item-description">10 savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
+										<p class="item-description">Ten savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
 										<strong>Zesty Lemon Pepper</strong> | <strong>Fresh Garlic Parmesan</strong> | <strong>Red Hot Cayenne Sauce</strong> | <strong>Spicy BBQ</strong> | <strong>Naked</strong></p>
 									</div>
 									<div class="menu-item">
 										<h3 class="item-name">Grilled Wings <span>- <strong>$10.99</strong></span></h3>
-										<p class="item-description">10 All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</p>
+										<p class="item-description">Ten All Natural Chicken Wings, grilled over an open flame and served with a side of Homemade Ranch.</p>
 									</div>
 									<div class="menu-item-picture">
 										<img src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings" title="Grilled Wings">
