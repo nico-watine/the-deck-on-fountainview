@@ -1,6 +1,6 @@
+@import '_menu-m.scss';
 @import '_menu-category.scss';
 @import '_menu-item.scss';
-@import '_menu-m.scss';
 
 .page-title {
 	padding: 24px 0;
@@ -19,7 +19,6 @@
 	}
 }
 
-section#menu-title,
 section#crawfish {
 	text-align: center;
 
