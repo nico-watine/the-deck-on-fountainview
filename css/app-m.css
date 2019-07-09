@@ -2778,7 +2778,8 @@ li#sides-label {
   .menu-m#menu-m .accordion.food-menu-accordion .accordion-navigation.active .food-category-title {
     background: #5ebddf;
     text-shadow: 2px 2px 0 #000;
-    color: #fff; }
+    color: #fff;
+    border-color: #fff; }
 
 .menu-m#menu-m .menu-item .item-name {
   margin: 0 0 4px; }
