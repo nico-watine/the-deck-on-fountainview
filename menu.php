@@ -70,7 +70,7 @@
 	</section>
 
 	<!-- Appetizers "Starting Line Up" -->
-	<section class="menu-category" id="appetizers" style="margin-top: 20px;">
+	<section class="menu-category" id="appetizers" style="margin-top: 20px;margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="appetizers"></a>
@@ -198,7 +198,7 @@
 	</section>
 
 	<!-- Salads "The Greens" -->
-	<section id="salads" style="margin-top: 20px;">
+	<section id="salads" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="salads"></a>
@@ -238,7 +238,7 @@
 	</section>
 
 	<!-- Burgers -->
-	<section id="burgers" style="margin-top: 20px;">
+	<section id="burgers" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="burgers"></a>
@@ -282,7 +282,7 @@
 	</section>
 
 	<!-- Entrees "Owner's Box" -->
-	<section id="entrees" style="margin-top: 20px;">
+	<section id="entrees" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="entrees"></a>
@@ -345,7 +345,7 @@
 	</section>
 
 	<!-- Sandwiches "Signature Sandwiches & Hot Dogs" -->
-	<section id="sandwiches" style="margin-top: 20px;">
+	<section id="sandwiches" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="sandwiches"></a>
@@ -383,7 +383,7 @@
 	</section>
 
 	<!-- Sides -->
-	<section id="sides-section" style="margin-top: 20px; margin-bottom: 40px;">
+	<section id="sides-section" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="columns item-row text-center">
 				<div class="menu-item">
