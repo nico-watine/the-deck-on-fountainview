@@ -1,8 +1,8 @@
 // IMPORTS
 
 // @codekit-prepend "../../bower_components/jrespond/js/jRespond.min.js";
-// @codekit-prepend "../../bower_components/skrollr/dist/skrollr.min.js";
 // @codekit-prepend "../../bower_components/foundation/js/foundation/foundation.magellan.js";
+// @codekit-prepend "../../bower_components/skrollr/dist/skrollr.min.js";
 
 // -----------------------------------
 
