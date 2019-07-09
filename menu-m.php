@@ -17,7 +17,7 @@
 
 </head>
 
-<body>
+<body class="menu-m" id="menu-m">
 
 <header>
 	<section id="mobile-header">
