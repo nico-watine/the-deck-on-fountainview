@@ -3049,16 +3049,19 @@ footer {
         footer section#sharing p.credit a:hover {
           text-decoration: underline; }
 
-#menu-accordion .section-title-m {
-  color: #222;
-  font-family: 'Roboto Slab', serif;
-  font-size: 28px;
-  line-height: 50px;
-  text-shadow: 2px 2px 0px #fff;
-  text-align: center;
-  padding-top: 15px;
-  margin-top: 0;
-  border-bottom: 3px solid #5EBDDF; }
+#menu-accordion {
+  max-width: 480px;
+  margin: 0 auto; }
+  #menu-accordion .section-title-m {
+    color: #222;
+    font-family: 'Roboto Slab', serif;
+    font-size: 28px;
+    line-height: 50px;
+    text-shadow: 2px 2px 0px #fff;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 0;
+    border-bottom: 3px solid #5EBDDF; }
 
 .section-detail-m {
   text-align: center;
