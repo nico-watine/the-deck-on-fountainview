@@ -76,7 +76,7 @@
 		<section id="main-header">
 				<div class="row">
 					<div class="large-3 columns" id="logo">
-						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
+						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo" title="The Deck On Fountainview"></a>
 					</div>
 					<nav class="large-9 columns">
 						<ul>
