@@ -7225,12 +7225,19 @@ section#specials-pics {
   section#specials-pics img {
     border: 5px solid #eee; }
 
-section#sides .item-row ul {
-  margin: 0;
-  display: inline-block;
-  color: #000; }
-  section#sides .item-row ul li {
-    font-size: 18px; }
+#sides-section .menu-item {
+  display: inline-block; }
+  #sides-section .menu-item .item-name {
+    float: left;
+    padding-right: 24px;
+    margin: 0;
+    line-height: 40px; }
+  #sides-section .menu-item .item-description {
+    display: inline-block;
+    margin: 0;
+    line-height: 40px; }
+    #sides-section .menu-item .item-description strong {
+      padding-right: 40px; }
 
 section#calendar {
   margin: 35px auto; }

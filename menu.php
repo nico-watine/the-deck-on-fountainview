@@ -383,12 +383,12 @@
 	</section>
 
 	<!-- Sides -->
-	<section id="sides" style="margin-top: 20px;">
+	<section id="sides-section" style="margin-top: 20px;">
 		<div class="row">
 			<div class="columns item-row text-center">
-				<div class="menu-item" style="display: inline-block;">
-					<h3 style="float: left; padding-right: 24px; margin: 0; line-height: 40px;" class="item-name">Sides</h3>
-					<p style="display: inline-block; margin: 0; line-height: 40px;" class="item-description"><strong style="padding-right: 40px;">$1.99</strong> French Fries | Onion Rings | Grilled Vegetables | Mashed Potatoes</p>
+				<div class="menu-item">
+					<h3 class="item-name">Sides</h3>
+					<p class="item-description"><strong>$1.99</strong> French Fries | Onion Rings | Grilled Vegetables | Mashed Potatoes</p>
 				</div>
 			</div>
 		</div>

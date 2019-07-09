@@ -132,15 +132,24 @@ section#specials-pics {
 	}
 }
 
-section#sides {
-	.item-row {
-		ul {
-			margin: 0;
-			display: inline-block;
-			color: #000;
+#sides-section {
+	.menu-item {
+		display: inline-block;
 
-			li {
-				font-size: 18px;
+		.item-name {
+			float: left;
+			padding-right: 24px;
+			margin: 0;
+			line-height: 40px;
+		}
+
+		.item-description {
+			display: inline-block;
+			margin: 0;
+			line-height: 40px;
+
+			strong {
+				padding-right: 40px;
 			}
 		}
 	}
