@@ -3049,33 +3049,59 @@ footer {
         footer section#sharing p.credit a:hover {
           text-decoration: underline; }
 
-.menu-category-title a {
-  height: 0;
-  line-height: 0px !important;
-  font-size: 0 !important; }
+.menu-m#menu-m .accordion.food-menu-accordion {
+  max-width: 480px;
+  margin: 0 auto 32px; }
+  .menu-m#menu-m .accordion.food-menu-accordion .food-category-title {
+    color: #222;
+    font-family: 'Roboto Slab', serif;
+    font-size: 32px;
+    line-height: 1.6;
+    text-shadow: 2px 2px 0 #fff;
+    text-align: center;
+    border-top: 3px solid #5ebddf; }
+  .menu-m#menu-m .accordion.food-menu-accordion .accordion-navigation.active .food-category-title {
+    background: #5ebddf;
+    text-shadow: 2px 2px 0 #000;
+    color: #fff;
+    border-color: #fff; }
 
-.menu-category-title p {
-  padding-top: 15px;
-  margin: 0;
-  text-align: center;
-  font-weight: normal;
-  text-transform: uppercase;
-  font-size: 20px;
-  text-shadow: 0 1px 2px #000;
-  letter-spacing: 1px; }
+.menu-m#menu-m .menu-item .item-name {
+  margin: 0 0 4px; }
 
-.menu-category-title h2 {
-  font-family: 'Roboto Slab', serif;
-  font-size: 34px;
-  line-height: 50px;
-  text-shadow: 2px 2px 0px #000;
-  text-align: center;
-  margin-top: 0; }
+.menu-m#menu-m .menu-item .item-price {
+  margin: 0 0 4px;
+  line-height: 1.2; }
 
-.menu-category-title .menu-category-extra {
-  padding-top: 0;
-  text-transform: none;
-  margin-bottom: 8px; }
+.menu-m#menu-m .menu-item .item-description {
+  margin-bottom: 24px; }
+
+.menu-category-title {
+  margin-bottom: 20px; }
+  .menu-category-title a {
+    height: 0;
+    line-height: 0px !important;
+    font-size: 0 !important; }
+  .menu-category-title p {
+    padding-top: 15px;
+    margin: 0;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-shadow: 0 1px 2px #000;
+    letter-spacing: 1px; }
+  .menu-category-title h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 34px;
+    line-height: 50px;
+    text-shadow: 2px 2px 0px #000;
+    text-align: center;
+    margin-top: 0; }
+  .menu-category-title .menu-category-extra {
+    padding-top: 0;
+    text-transform: none;
+    margin-bottom: 8px; }
 
 .section-detail {
   text-align: center;
@@ -3113,62 +3139,16 @@ footer {
   line-height: 1.5;
   margin-bottom: 26px; }
 
-.menu-m#menu-m .page-title {
+.page-title {
   padding: 24px 0; }
-  .menu-m#menu-m .page-title .h1 {
+  .page-title .h1 {
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
     line-height: 1.2;
     text-shadow: 2px 2px 0 #000;
     margin-bottom: 16px; }
-  .menu-m#menu-m .page-title .h3 {
+  .page-title .h3 {
     font-size: 24px;
-    text-shadow: 2px 2px 0 #000; }
-
-.menu-m#menu-m .accordion.food-menu-accordion {
-  max-width: 480px;
-  margin: 0 auto 32px; }
-  .menu-m#menu-m .accordion.food-menu-accordion .food-category-title {
-    color: #222;
-    font-family: 'Roboto Slab', serif;
-    font-size: 32px;
-    line-height: 1.6;
-    text-shadow: 2px 2px 0 #fff;
-    text-align: center;
-    border-top: 3px solid #5ebddf; }
-  .menu-m#menu-m .accordion.food-menu-accordion .accordion-navigation.active .food-category-title {
-    background: #5ebddf;
-    text-shadow: 2px 2px 0 #000;
-    color: #fff;
-    border-color: #fff; }
-
-.menu-m#menu-m .menu-item .item-name {
-  margin: 0 0 4px; }
-
-.menu-m#menu-m .menu-item .item-price {
-  margin: 0 0 4px;
-  line-height: 1.2; }
-
-.menu-m#menu-m .menu-item .item-description {
-  margin-bottom: 24px; }
-
-section#menu-title,
-section#crawfish {
-  text-align: center; }
-  section#menu-title .small-12.columns,
-  section#crawfish .small-12.columns {
-    margin-top: 17px;
-    margin-bottom: 17px; }
-  section#menu-title h1,
-  section#crawfish h1 {
-    font-family: 'Roboto Slab', serif;
-    font-size: 45px;
-    line-height: 59px;
-    text-shadow: 2px 2px 0 #000; }
-  section#menu-title h3,
-  section#crawfish h3 {
-    font-size: 24px;
-    line-height: 33px;
     text-shadow: 2px 2px 0 #000; }
 
 section#magellan-nav {
@@ -3223,81 +3203,24 @@ section#appetizers .row#wing-it {
     font-size: 18px;
     color: #000; }
 
-section#burgers img,
-section#entrees img,
-section#specials img,
-section#dog-sides img {
-  border: 3px solid #5ebddf; }
-
-section#burgers ul.no-bullet,
-section#entrees ul.no-bullet,
-section#specials ul.no-bullet,
-section#dog-sides ul.no-bullet {
-  margin-bottom: 0; }
-  section#burgers ul.no-bullet li,
-  section#entrees ul.no-bullet li,
-  section#specials ul.no-bullet li,
-  section#dog-sides ul.no-bullet li {
-    font-weight: 700;
-    text-shadow: 1px .5px 0 #111;
-    font-size: 20px;
-    color: #5ebddf; }
-    section#burgers ul.no-bullet li span,
-    section#entrees ul.no-bullet li span,
-    section#specials ul.no-bullet li span,
-    section#dog-sides ul.no-bullet li span {
-      font-weight: 400;
-      color: #222;
-      text-shadow: none; }
-  section#burgers ul.no-bullet li.sides,
-  section#entrees ul.no-bullet li.sides,
-  section#specials ul.no-bullet li.sides,
-  section#dog-sides ul.no-bullet li.sides {
-    font-weight: 400;
-    text-shadow: none;
-    color: #222; }
-  section#burgers ul.no-bullet li.gratuity,
-  section#entrees ul.no-bullet li.gratuity,
-  section#specials ul.no-bullet li.gratuity,
-  section#dog-sides ul.no-bullet li.gratuity {
-    font-weight: 400;
-    text-shadow: none;
-    color: #222; }
-  section#burgers ul.no-bullet ul.description,
-  section#entrees ul.no-bullet ul.description,
-  section#specials ul.no-bullet ul.description,
-  section#dog-sides ul.no-bullet ul.description {
-    list-style: none; }
-    section#burgers ul.no-bullet ul.description li,
-    section#entrees ul.no-bullet ul.description li,
-    section#specials ul.no-bullet ul.description li,
-    section#dog-sides ul.no-bullet ul.description li {
-      font-weight: 400;
-      text-shadow: none;
-      font-size: 16px;
-      color: #222; }
-
-section#crawfish {
-  width: 100%;
-  height: 150px;
+.crawfish-banner {
   margin-top: 20px;
   border-top: 3px solid #5ebddf;
   border-bottom: 3px solid #5ebddf;
-  background: #eee; }
-  @media only screen and (min-width: 40.0625em) {
-    section#crawfish {
-      background-image: url("/img/menu/crawfish-m.jpg");
-      height: 300px; } }
+  background-image: url("/img/menu/crawfish-m.jpg");
+  padding: 80px 0; }
+  .crawfish-banner .h1,
+  .crawfish-banner .h3 {
+    text-shadow: 2px 2px 0 #000;
+    line-height: 1.2; }
+  .crawfish-banner .h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px; }
+  .crawfish-banner .h3 {
+    font-size: 24px; }
   @media only screen and (min-width: 64.0625em) {
-    section#crawfish {
-      background-image: url("/img/menu/crawfish-l.jpg");
-      height: 300px; } }
-
-section#specials {
-  margin-bottom: 30px; }
-  section#specials hr {
-    border-width: 3px 0 0;
-    border-color: #5ebddf; }
+    .crawfish-banner {
+      background-image: url("/img/menu/crawfish-l.jpg"); } }
 
 section#specials-pics {
   margin-bottom: 50px; }
