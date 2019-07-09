@@ -427,59 +427,35 @@ textarea {
 select {
   width: 100%; }
 
-[data-magellan-expedition], [data-magellan-expedition-clone] {
-  background: #eee;
-  min-width: 100%;
-  padding: 10px;
-  z-index: 50; }
-  [data-magellan-expedition] .sub-nav, [data-magellan-expedition-clone] .sub-nav {
-    margin-bottom: 0; }
-    [data-magellan-expedition] .sub-nav dd, [data-magellan-expedition-clone] .sub-nav dd {
-      margin-bottom: 0; }
-    [data-magellan-expedition] .sub-nav a, [data-magellan-expedition-clone] .sub-nav a {
-      line-height: 1.8em; }
-
-.sub-nav {
-  display: block;
-  margin: -0.25rem 0 1.125rem;
-  overflow: hidden;
-  padding-top: 0.25rem;
-  width: auto; }
-  .sub-nav dt {
-    text-transform: uppercase; }
-  .sub-nav dt,
-  .sub-nav dd,
-  .sub-nav li {
-    color: #999999;
-    float: left;
-    font-family: "Lato", Helvetica, Roboto, Arial, sans-serif;
-    font-size: 0.875rem;
-    font-weight: normal;
-    margin-left: 1rem;
-    margin-bottom: 0; }
-    .sub-nav dt a,
-    .sub-nav dd a,
-    .sub-nav li a {
-      color: #999999;
-      padding: 0.1875rem 1rem;
-      text-decoration: none; }
-      .sub-nav dt a:hover,
-      .sub-nav dd a:hover,
-      .sub-nav li a:hover {
-        color: #737373; }
-    .sub-nav dt.active a,
-    .sub-nav dd.active a,
-    .sub-nav li.active a {
-      border-radius: 3px;
-      background: #008CBA;
-      color: #FFFFFF;
-      cursor: default;
-      font-weight: normal;
-      padding: 0.1875rem 1rem; }
-      .sub-nav dt.active a:hover,
-      .sub-nav dd.active a:hover,
-      .sub-nav li.active a:hover {
-        background: #0078a0; }
+.accordion {
+  margin-bottom: 0;
+  margin-left: 0; }
+  .accordion:before, .accordion:after {
+    content: " ";
+    display: table; }
+  .accordion:after {
+    clear: both; }
+  .accordion .accordion-navigation, .accordion dd {
+    display: block;
+    margin-bottom: 0 !important; }
+    .accordion .accordion-navigation.active > a, .accordion dd.active > a {
+      background: #e7e7e7;
+      color: #222222; }
+    .accordion .accordion-navigation > a, .accordion dd > a {
+      background: #eee;
+      color: #222222;
+      display: block;
+      font-family: "Lato", Helvetica, Roboto, Arial, sans-serif;
+      font-size: 1rem;
+      padding: 1rem; }
+      .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
+        background: #e2e2e2; }
+    .accordion .accordion-navigation > .content, .accordion dd > .content {
+      display: none;
+      padding: 0.9375rem; }
+      .accordion .accordion-navigation > .content.active, .accordion dd > .content.active {
+        background: #FFFFFF;
+        display: block; }
 
 .row {
   margin: 0 auto;
@@ -1295,6 +1271,60 @@ select {
     position: relative;
     right: 91.6666666667%;
     left: auto; } }
+
+[data-magellan-expedition], [data-magellan-expedition-clone] {
+  background: #eee;
+  min-width: 100%;
+  padding: 10px;
+  z-index: 50; }
+  [data-magellan-expedition] .sub-nav, [data-magellan-expedition-clone] .sub-nav {
+    margin-bottom: 0; }
+    [data-magellan-expedition] .sub-nav dd, [data-magellan-expedition-clone] .sub-nav dd {
+      margin-bottom: 0; }
+    [data-magellan-expedition] .sub-nav a, [data-magellan-expedition-clone] .sub-nav a {
+      line-height: 1.8em; }
+
+.sub-nav {
+  display: block;
+  margin: -0.25rem 0 1.125rem;
+  overflow: hidden;
+  padding-top: 0.25rem;
+  width: auto; }
+  .sub-nav dt {
+    text-transform: uppercase; }
+  .sub-nav dt,
+  .sub-nav dd,
+  .sub-nav li {
+    color: #999999;
+    float: left;
+    font-family: "Lato", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 0.875rem;
+    font-weight: normal;
+    margin-left: 1rem;
+    margin-bottom: 0; }
+    .sub-nav dt a,
+    .sub-nav dd a,
+    .sub-nav li a {
+      color: #999999;
+      padding: 0.1875rem 1rem;
+      text-decoration: none; }
+      .sub-nav dt a:hover,
+      .sub-nav dd a:hover,
+      .sub-nav li a:hover {
+        color: #737373; }
+    .sub-nav dt.active a,
+    .sub-nav dd.active a,
+    .sub-nav li.active a {
+      border-radius: 3px;
+      background: #008CBA;
+      color: #FFFFFF;
+      cursor: default;
+      font-weight: normal;
+      padding: 0.1875rem 1rem; }
+      .sub-nav dt.active a:hover,
+      .sub-nav dd.active a:hover,
+      .sub-nav li.active a:hover {
+        background: #0078a0; }
 
 button, .button {
   -webkit-appearance: none;
