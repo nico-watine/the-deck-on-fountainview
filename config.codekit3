@@ -4714,6 +4714,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/menu.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/css/menu-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/opt/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5644,7 +5654,7 @@
 		"oA": 0,
 		"oAP": "/css/app-m.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"/scss/app.scss": {
@@ -5749,6 +5759,19 @@
 		"oAP": "/scss/components/css/_typography.css",
 		"oF": 0,
 		"oS": 0,
+		"uL": 1
+		},
+	"/scss/menu.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/menu.css",
+		"oF": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/scss/pages/_events.scss": {

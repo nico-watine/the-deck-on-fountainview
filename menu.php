@@ -12,74 +12,39 @@
 	<link href="https://thedeckonfountainview.com/menu" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+	<!-- <link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet"> -->
+	<link href="<?php autoVer('/css/menu.css'); ?>" rel="stylesheet">
 
 </head>
 
 <body>
 
 <header>
-	<section class="show-for-small-only" id="mobile-header">
-		<section id="mobile-contact">
-				<div class="row">
-					<div class="small-12 columns">
-						<a href="tel:713-914-9990"><p>713-914-9990</p></a>
-					</div>
-					<div class="small-12 columns">
-						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p>6002 Fairdale Lane Houston, TX 77057</p></a>
-					</div>
+	<section id="mini-header">
+			<div class="row">
+				<div class="medium-4 columns">
+					<p class="phone">713-914-9990</p>
 				</div>
-		</section>
-		<div class="row">
-			<div class="small-12 columns">
-				<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
+				<div class="medium-6 large-4 columns">
+					<a href="https://goo.gl/maps/0v7MM" target="_blank"><p class="address">6002 Fairdale Lane Houston, TX 77057</p></a>
+				</div>
 			</div>
-		</div>
-		<nav class="top-bar" data-topbar role="navigation">
-			<ul class="title-area">
-				<li class="name">
-				  <h1><a href="/"></a></h1>
-				</li>
-				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-			</ul>
-			<section class="top-bar-section">
-				<ul class="right">
-					<li><a href="/">HOME</a></li>
-					<li><a href="/events">EVENTS</a></li>
-					<li class="active"><a href="/menu-m">FOOD + DRINK</a></li>
-					<li><a href="/location">LOCATION</a></li>
-				</ul>
-			</section>
-		</nav>
 	</section>
-
-	<div class="show-for-medium-up">
-		<section id="mini-header">
-				<div class="row">
-					<div class="small-12 medium-4 columns">
-						<p class="phone">713-914-9990</p>
-					</div>
-					<div class="small-12 medium-6 large-4 columns">
-						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p class="address">6002 Fairdale Lane Houston, TX 77057</p></a>
-					</div>
+	<section id="main-header">
+			<div class="row">
+				<div class="medium-12 large-3 columns" id="logo">
+					<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
 				</div>
-		</section>
-		<section id="main-header">
-				<div class="row">
-					<div class="small-12 medium-12 large-3 columns" id="logo">
-						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
-					</div>
-					<nav class="small-12 large-9 columns">
-						<ul>
-							<li id="first"><a href="/" class="home">HOME</a></li>
-							<li><a href="/events" class="events">EVENTS</a></li>
-							<li><a href="#" class="menu active">FOOD + DRINK</a></li>
-							<li id="last"><a href="/location" class="location">LOCATION</a></li>
-						</ul>
-					</nav>
-				</div>
-		</section>
-	</div>
+				<nav class="large-9 columns">
+					<ul>
+						<li id="first"><a href="/" class="home">HOME</a></li>
+						<li><a href="/events" class="events">EVENTS</a></li>
+						<li><a href="#" class="menu active">FOOD + DRINK</a></li>
+						<li id="last"><a href="/location" class="location">LOCATION</a></li>
+					</ul>
+				</nav>
+			</div>
+	</section>
 </header>
 
 <main>
