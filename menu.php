@@ -72,7 +72,7 @@
 	<!-- Appetizers "Starting Line Up" -->
 	<section class="menu-category" id="appetizers" style="margin-top: 20px;margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="columns menu-category-title magellan-destination-heading">
 				<a name="appetizers"></a>
 				<p data-magellan-destination="appetizers">Appetizers</p>
 				<h2>Starting Line Up</h2>

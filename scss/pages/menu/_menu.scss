@@ -2,6 +2,12 @@
 @import '_menu-category.scss';
 @import '_menu-item.scss';
 
+.magellan-destination-heading {
+	p {
+		padding-top: 20px;
+	}
+}
+
 .page-title {
 	padding: 24px 0;
 

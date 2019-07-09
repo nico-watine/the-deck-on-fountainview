@@ -7136,6 +7136,9 @@ section#contact-info {
   line-height: 1.5;
   margin-bottom: 26px; }
 
+.magellan-destination-heading p {
+  padding-top: 20px; }
+
 .page-title {
   padding: 24px 0; }
   .page-title .h1 {
