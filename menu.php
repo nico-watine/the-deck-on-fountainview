@@ -197,20 +197,20 @@
 			</div>
 		</div>
 
-		<!-- REVIEW THIS:: -->
 		<!-- WINGS -->
-		<!-- <div class="row" id="wing-it">
-			<h2>Wing It</h2>
+		<div class="row" id="wing-it">
+			<h2>Wings</h2>
 			<div class="medium-7 large-8 columns">
 				<div class="small-12 columns">
 					<div class="menu-item">
-						<h3 class="item-name">The Fried <span>- <strong>$8.99</strong></span></h3>
-						<p class="item-description">Ten Hand Breaded All Natural Chicken Wings, tossed in your choice of Zesty Lemon Pepper, Fresh Garlic Parmesan, Red Hot Cayenne or Spicy BBQ, and served with a side of Homemade Buttermilk Ranch</p>
+						<h3 class="item-name">Fried Wings <span>- <strong>$9.99</strong></span></h3>
+						<p class="item-description">10 savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
+						<strong>Zesty Lemon Pepper</strong> | <strong>Fresh Garlic Parmesan</strong> | <strong>Red Hot Cayenne Sauce</strong> | <strong>Spicy BBQ</strong> | <strong>Naked</strong></p>
 					</div>
 				</div>
 				<div class="small-12 columns">
 					<div class="menu-item">
-						<h3 class="item-name">The Grilled <span>- <strong>$9.99</strong></span></h3>
+						<h3 class="item-name">Grilled Wings <span>- <strong>$10.99</strong></span></h3>
 						<p class="item-description">Ten All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</p>
 					</div>
 				</div>
@@ -218,7 +218,7 @@
 			<div class="medium-5 large-4 columns">
 				<img style="margin-top: 20px;" src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings" title="The Grilled Wings">
 			</div>
-		</div> -->
+		</div>
 	</section>
 
 	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">

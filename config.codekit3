@@ -4704,7 +4704,7 @@
 		"oA": 2,
 		"oAP": "/css/app-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"/events.php": {
 		"cB": 0,
@@ -5535,6 +5535,12 @@
 		"oAP": "/menu.php",
 		"oF": 0
 		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/build/node_modules",
+		"oF": 0
+		},
 	"/php/autoVer.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -5593,7 +5599,7 @@
 		"oA": 0,
 		"oAP": "/css/app-m.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"/scss/app.scss": {
