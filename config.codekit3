@@ -57,22 +57,6 @@
 		"oAP": "/_ignores/google-analytics-snippet.html",
 		"oF": 0
 		},
-	"/_ignores/head-templates.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/head-templates.html",
-		"oF": 0
-		},
-	"/_ignores/ie8-head.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/ie8-head.html",
-		"oF": 0
-		},
 	"/_ignores/index(old).html": {
 		"cB": 0,
 		"ft": 8192,
@@ -119,14 +103,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_ignores/the-deck-on-fountainview.sublime-workspace",
-		"oF": 0
-		},
-	"/_ignores/typography.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/typography.html",
 		"oF": 0
 		},
 	"/apple-touch-icon-114x114-precomposed.png": {
