@@ -47,11 +47,11 @@
 </header>
 
 <main>
-	<section id="menu-title">
+	<section class="page-title text-center">
 		<div class="row">
-			<div class="small-12 columns">
-				<h1>Food &amp; Drink Menu</h1>
-				<h3>We Serve a Variety Of Food, From Steak and Burgers to Salads and Wraps</h3>
+			<div class="columns">
+				<h1 class="h1">Food &amp; Drink Menu</h1>
+				<h3 class="h3">We Serve a Variety Of Food, From Steak and Burgers to Salads and&nbsp;Wraps</h3>
 			</div>
 		</div>
 	</section>

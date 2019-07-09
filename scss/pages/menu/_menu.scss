@@ -2,6 +2,23 @@
 @import '_menu-item.scss';
 @import '_menu-m.scss';
 
+.page-title {
+	padding: 24px 0;
+
+	.h1 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 45px;
+		line-height: 1.2;
+		text-shadow: 2px 2px 0 #000;
+		margin-bottom: 16px;
+	}
+
+	.h3 {
+		font-size: 24px;
+		text-shadow: 2px 2px 0 #000;
+	}
+}
+
 section#menu-title,
 section#crawfish {
 	text-align: center;
