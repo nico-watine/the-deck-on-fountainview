@@ -33,12 +33,12 @@
 		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"/_ignores/calendar-default.txt": {
+	"/_ignores/calendar-default.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_ignores/calendar-default.txt",
+		"oAP": "/_ignores/calendar-default.html",
 		"oF": 0
 		},
 	"/_ignores/force-https.txt": {
@@ -57,30 +57,6 @@
 		"oAP": "/_ignores/google-analytics-snippet.html",
 		"oF": 0
 		},
-	"/_ignores/head-templates.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/head-templates.html",
-		"oF": 0
-		},
-	"/_ignores/ie8-head.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/ie8-head.html",
-		"oF": 0
-		},
-	"/_ignores/index(old).html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/index(old).html",
-		"oF": 0
-		},
 	"/_ignores/new-calendar-snippet.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -89,20 +65,28 @@
 		"oAP": "/_ignores/new-calendar-snippet.html",
 		"oF": 0
 		},
-	"/_ignores/obsolete-sitemap.xml": {
+	"/_ignores/obsolete-site/obsolete-index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_ignores/obsolete-sitemap.xml",
+		"oAP": "/_ignores/obsolete-site/obsolete-index.html",
 		"oF": 0
 		},
-	"/_ignores/old-google-tracking-id.html": {
+	"/_ignores/obsolete-site/obsolete-sitemap.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_ignores/old-google-tracking-id.html",
+		"oAP": "/_ignores/obsolete-site/obsolete-sitemap.xml",
+		"oF": 0
+		},
+	"/_ignores/obsolete-site/old-google-tracking-id.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/obsolete-site/old-google-tracking-id.html",
 		"oF": 0
 		},
 	"/_ignores/the-deck-on-fountainview.sublime-project": {
@@ -119,14 +103,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_ignores/the-deck-on-fountainview.sublime-workspace",
-		"oF": 0
-		},
-	"/_ignores/typography.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/typography.html",
 		"oF": 0
 		},
 	"/apple-touch-icon-114x114-precomposed.png": {
@@ -4407,17 +4383,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/js/rem-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/rem-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/js/src/foundation.js": {
 		"bF": 0,
 		"ft": 64,
@@ -4458,28 +4423,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/menu-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/js/src/rem.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/rem-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/js/vendor/jquery/1-11-3/jquery-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/jquery-min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
