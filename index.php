@@ -31,16 +31,16 @@
 	<section class="show-for-small-only" id="mobile-header">
 		<section id="mobile-contact">
 				<div class="row">
-					<div class="small-12 columns">
+					<div class="columns">
 						<a href="tel:713-914-9990"><p>713-914-9990</p></a>
 					</div>
-					<div class="small-12 columns">
+					<div class="columns">
 						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p>6002 Fairdale Lane Houston, TX 77057</p></a>
 					</div>
 				</div>
 		</section>
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
 			</div>
 		</div>
@@ -65,20 +65,20 @@
 	<div class="show-for-medium-up">
 		<section id="mini-header">
 				<div class="row">
-					<div class="small-12 medium-4 columns">
+					<div class="medium-4 columns">
 						<p class="phone">713-914-9990</p>
 					</div>
-					<div class="small-12 medium-6 large-4 columns">
+					<div class="medium-6 large-4 columns">
 						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p class="address">6002 Fairdale Lane Houston, TX 77057</p></a>
 					</div>
 				</div>
 		</section>
 		<section id="main-header">
 				<div class="row">
-					<div class="small-12 medium-12 large-3 columns" id="logo">
-						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo"></a>
+					<div class="large-3 columns" id="logo">
+						<a href="/"><img src="/img/logo/logo@2x.png" alt="The Deck On Fountainview Logo" title="The Deck On Fountainview"></a>
 					</div>
-					<nav class="small-12 large-9 columns">
+					<nav class="large-9 columns">
 						<ul>
 							<li id="first"><a href="/" class="home active">Home</a></li>
 							<li><a href="/events" class="events">Events</a></li>
@@ -94,7 +94,7 @@
 <main>
 	<section id="slide-show">
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<div class="slick-sider slides">
 					<div><img src="/img/index/ss/1.jpg" alt="The Deck On Fountain View"></div>
 					<div><img src="/img/index/ss/2.jpg" alt="The Deck On Fountain View"></div>
@@ -105,14 +105,14 @@
 	</section>
 	<section id="slogan">
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h1>Come For The Sports, Stay For The Fun</h1>
 			</div>
 		</div>
 	</section>
 	<section id="sports-section">
 		<div class="row section-header">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h2>Your Neighborhood Sports Headquarters</h2>
 				<hr>
 				<h3>With Screens Showing All Your Favorite Teams</h3>
@@ -160,7 +160,7 @@
 	</section>
 	<section id="food">
 		<div class="row section-header">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h2>Hungry? Thirsty?</h2>
 				<hr>
 				<h3>We've Got Good Eats &nbsp; Cold Drinks</h3>
@@ -189,10 +189,10 @@
 	</section>
 	<section id="review">
 		<div class="row">
-			<div class="small-12 medium-push-2 medium-6 columns">
+			<div class="medium-push-2 medium-6 columns">
 				<p>“Good food and good grub y'all. I'll be back soon. My bartender rocked!”</p>
 			</div>
-			<div class="small-12 medium-push-2 medium-3 columns end">
+			<div class="medium-push-2 medium-3 columns end">
 				<img src="/img/index/review/yelp-logo.png" id="yelp" alt="Yelp">
 			</div>
 		</div>
@@ -202,7 +202,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<h4><a href="/menu">Check Out The Menu</a></h4>
 			</div>
 		</div>
