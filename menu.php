@@ -55,6 +55,8 @@
 			</div>
 		</div>
 	</section>
+
+	<!-- Magellan Sticky Nav -->
 	<section id="magellan-nav">
 		<nav data-magellan-expedition="fixed">
 			<dl class="sub-nav">
@@ -161,7 +163,7 @@
 			</div>
 		</div>
 
-		<!-- WINGS -->
+		<!-- Wings -->
 		<div class="row" id="wing-it">
 			<h2>Wings</h2>
 			<div class="medium-7 large-8 columns">
@@ -185,6 +187,7 @@
 		</div>
 	</section>
 
+	<!-- Crawfish -->
 	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 		<div class="row">
 			<div class="small-12 columns">
@@ -235,7 +238,7 @@
 		</div>
 	</section>
 
-
+	<!-- Burgers -->
 	<section id="burgers" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
@@ -280,7 +283,7 @@
 		</div>
 	</section>
 
-
+	<!-- Entrees "Owner's Box" -->
 	<section id="entrees" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
@@ -343,6 +346,7 @@
 		</div>
 	</section>
 
+	<!-- Sandwiches "Signature Sandwiches & Hot Dogs" -->
 	<section id="sandwiches" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
@@ -380,6 +384,7 @@
 		</div>
 	</section>
 
+	<!-- Sides -->
 	<section id="sides" style="margin-top: 20px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
@@ -399,95 +404,6 @@
 		</div>
 	</section>
 
-
-	<!-- <section id="specials" style="margin-top: 20px;">
-		<div class="row">
-			<div class="small-12 columns menu-category-title">
-				<a name="specials"></a>
-				<h2 data-magellan-destination="specials">Specials</h2>
-				<p class="menu-category-extra">-Dine-In Only-</p>
-			</div>
-		</div>
-		<div class="row item-row">
-			<div class="medium-6 columns">
-				<ul class="no-bullet">
-					<li>Monday</li>
-						<ul class="description">
-							<li><strong>Steak Night</strong></li>
-							<li>Angus Beef Ribeye or Angus Beef Fajitas for two - $13.99</li>
-							<li>$6.75 Ziegonbock Pitchers</li>
-							<li>$5 LITs till Midnight</li>
-						</ul>
-					<li>Tuesday</li>
-						<ul class="description">
-							<li><strong>Bucket Specials</strong></li>
-							<li>Import $18</li>
-							<li>Domestic $15</li>
-							<li>Deck Ground Beef Tacos $6.99</li>
-						</ul>
-					<li>Wednesday</li>
-						<ul class="description">
-							<li>$6.99 Cheeseburger Basket</li>
-							<li>$4 Jack Daniels</li>
-							<li>$3.25 Import Bottles</li>
-						</ul>
-					<li>Thursday</li>
-						<ul class="description">
-							<li>.45&amp;cent; Hot Wings</li>
-							<li>Big Ass Beers - Domestic $3 / Imports $3.50</li>
-						</ul>
-					<li>Friday</li>
-						<ul class="description">
-							<li><strong>Happy Hour 11am to 11pm</strong></li>
-							<li>Fish or Shrimp - $7.99</li>
-							<li>$5 LITs till Midnight</li>
-						</ul>
-					<li>Saturday</li>
-						<ul class="description">
-							<li>$2.75 Domestic Draft</li>
-							<li>Bloody Mary &amp; Breakfast Taco $5.99</li>
-						</ul>
-					<li>Sunday</li>
-						<ul class="description">
-							<li>Bloody Mary &amp; Breakfast Taco $5.99</li>
-							<li>$2.75 Domestic Beers | $3 Import Beers</li>
-						</ul>
-				</ul>
-			</div>
-			<div class="medium-6 columns">
-				<ul class="no-bullet">
-					<li>Lunch Specials</li>
-						<ul class="description">
-							<li><strong>Dine-In Only</strong></li>
-							<li>Mon - Fri 11-3</li>
-							<li>Ground Beef Burger or Chicken Tenders, served with your choice of fries or onion rings &amp; soft drink or tea - $6.99</li>
-						</ul>
-					<li>Happy Hour</li>
-						<ul class="description">
-							<li><strong>11-7 Mon - Thurs &amp; Fri all day!</strong></li>
-							<li>$2.50 Domestic Bottles</li>
-							<li>$3.50 Import Bottles</li>
-							<li>$2.75 Domestic Draft</li>
-							<li>$7.00 Domestic Pitcher</li>
-							<li>$3.75 Well Liquor</li>
-						</ul>
-					<li>Industry - After 10:30pm</li>
-						<ul class="description">
-							<li>$2.75 Domestic Botltles</li>
-							<li>$3.75 Import Bottles</li>
-							<li>$2.75 Draft</li>
-							<li>$4.50 Rumple, Jager, Blackhaus, Gold</li>
-							<li>$3.00 Wells</li>
-						</ul>
-					<br>
-					<hr>
-					<br>
-					<li class="gratuity"><i><strong>Gratuity of 18% added to parties of 6 or more</strong></i></li>
-					<li class="gratuity"><i><strong>$2.00 Split Entree Charge</strong></i></li>
-				</ul>
-			</div>
-	</section> -->
-
 	<section id="specials-pics" style="margin-top: 20px;">
 		<div class="row">
 			<div class="medium-5 columns push-1">
@@ -498,9 +414,6 @@
 			</div>
 		</div>
 	</section>
-
-
-
 
 </main>
 <footer>
