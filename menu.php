@@ -204,7 +204,8 @@
 				<div class="small-12 columns">
 					<div class="menu-item">
 						<h3 class="item-name">Fried Wings <span>- <strong>$9.99</strong></span></h3>
-						<p class="item-description">Ten Hand Breaded All Natural Chicken Wings, tossed in your choice of Zesty Lemon Pepper, Fresh Garlic Parmesan, Red Hot Cayenne or Spicy BBQ, and served with a side of Homemade Buttermilk Ranch</p>
+						<p class="item-description">10 savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
+						<strong>Zesty Lemon Pepper</strong> | <strong>Fresh Garlic Parmesan</strong> | <strong>Red Hot Cayenne Sauce</strong> | <strong>Spicy BBQ</strong> | <strong>Naked</strong></p>
 					</div>
 				</div>
 				<div class="small-12 columns">
