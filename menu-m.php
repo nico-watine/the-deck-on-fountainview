@@ -75,71 +75,83 @@
 							<section id="appetizers">
 							<div class="row">
 								<div class="columns">
-									<ul class="no-bullet">
-										<li>Chip Shot Nachos <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Fresh Tortilla Chips (We don’t Fry em’ until you order em’!!!) Fresh Pico De Gallo, Crisp Iceberg Lettuce, Fresh Jalapenos topped with Creamy Cheese Sauce</li>
-											<li>Add Grilled Chicken + $2.00</li>
-											<li>Add Certified Angus Beef Fajita + $3.00</li>
-										</ul>
-										<li>Skins Game <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Five Potato Skins Fried to a Golden Brown, Topped with Cheddar Cheese, Apple Wood Smoked Bacon, Fresh Chives, Sour Cream and a side of Homemade Buttermilk Ranch</li>
-										</ul>
-										<li>Buzzer Battered Pickles <span>- $6.99</span></li>
-										<ul class="description">
-											<li>Pile of Hand Battered Kosher Pickle Chips, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</li>
-										</ul>
-										<li>The Sticks <span>- $6.99</span></li>
-										<ul class="description">
-											<li>10 Hand Battered Mozzarella Sticks, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch and Zesty Marinara Sauce</li>
-										</ul>
-										<li>Ball Caps <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Ten Hand Battered Mushroom Caps, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</li>
-										</ul>
-										<li>19th Hole Green Beans <span>- $6.99</span></li>
-										<ul class="description">
-											<li>Pile of Hand Battered Fresh Green Beans, fried to a Golden Brown and served with a side of Homemade Buttermilk Ranch</li>
-										</ul>
-										<li>Fried Wings <span>- $8.99</span></li>
-										<ul class="description">
-											<li>Ten Hand Breaded All Natural Chicken Wings, tossed in your choice of Zesty Lemon Pepper, Fresh Garlic Parmesan, Red Hot Cayenne or Spicy BBQ, and served with a side of Homemade Buttermilk Ranch</li>
-										</ul>
-										<li>Grilled Wings <span>- $9.99</span></li>
-										<ul class="description">
-											<li>Ten All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</li>
-										</ul>
-										<li class="menu-item-picture">
-											<img src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings">
-										</li>
-										<li>Tex-Rolls <span>- $7.99</span></li>
-										<ul class="description">
-											<li>Not your ordinary Egg Rolls!!! Four Crispy Egg Rolls stuffed with Grilled Chicken, Pepper Jack Cheese, Black Bean, Sweet Corn and Peppers fried to a Golden Brown and served with Zesty Jalapeno Ranch Dressing</li>
-										</ul>
-										<li>Texsadillas <span>- $8.99</span></li>
-										<ul class="description">
-											<li>Fresh All Natural Chicken Breast, layered between Shredded Cheddar and Monterey Jack Cheese and grilled between two Fresh Flour Tortillas</li>
-											<li>Add Certified Angus Beef Fajita + $2.00</li>
-										</ul>
-										<li>Frito Pie <span>- $6.99</span></li>
-										<ul class="description">
-											<li>Fritos Piled High, topped with Creamy Nacho Cheese sauce and Homemade Texas Chili</li>
-										</ul>
-										<li>Chicken &amp; Andouille Sausage Gumbo <span>- $8.99</span></li>
-										<ul class="description">
-											<li>Fresh Chicken Breast and Sliced Andouille Sausage, nestled in a Zesty New Orleans style Roux and served with a generous scoop of Steaming Long Grain Rice</li>
-										</ul>
-										<li>Texas Pepas <span>- $6.99</span></li>
-										<ul class="description">
-											<li>Five Fresh Texas Jalapenos Stuffed with Wisconsin Cheddar Cheese, Battered with Homemade Potato Breading and Fried to a Golden Brown</li>
-										</ul>
-										<li>Coin Toss Tacos <span>- $6.99</span></li>
-										<ul class="description">
-											<li>Two Early Morning Breakfast Tacos Stuffed with Scrambled Eggs, Cheddar Cheese, Refried Beans and your choice of Bacon, Sausage or Chorizo. Served with Homemade Salsa</li>
-											<li>-Only served Sunday mornings-</li>
-										</ul>
-									</ul>
+									<div class="menu-item">
+										<h3 class="item-name">Fresh Tortilla Chips and Salsa</h3>
+										<p class="item-price"><strong>$3.99</strong></p>
+										<p class="item-description">- Add Queso + <strong>$2.00</strong></p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Mini Corn Dogs</h3>
+										<p class="item-price"><strong>$6.99</strong></p>
+										<p class="item-description">Eight mini corn dogs served with honey mustard</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Spinach Artichoke Dip</h3>
+										<p class="item-price"><strong>$6.99</strong></p>
+										<p class="item-description">Fresh tortilla chips with fresh homemade creamy spinach and artichoke dip</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Fajita Nachos</h3>
+										<p class="item-price"><strong>$10.99</strong></p>
+										<p class="item-description">Choice of beef or chicken, topped with queso, lettuce, tomatoes and jalapenos</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Quesadillas</h3>
+										<p class="item-price"><strong>$9.99</strong></p>
+										<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese grilled between two fresh flour tortillas <br>
+										- Add Certified Angus Beef Fajita + <strong>$2.00</strong> <br>
+										- Add Shrimp + <strong>$3.00</strong></p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Cheese Sticks</h3>
+										<p class="item-price"><strong>$7.99</strong></p>
+										<p class="item-description">Six fried mozzarella sticks served with Zesty Marinara</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Crispy Green Beans</h3>
+										<p class="item-price"><strong>$7.99</strong></p>
+										<p class="item-description">Fried green beans served with homemade ranch dressing</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Roasted Red Pepper Hummus</h3>
+										<p class="item-price"><strong>$6.99</strong></p>
+										<p class="item-description">Served with roasted garlic and chili petite naan bread</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Southwest Chicken Eggrolls</h3>
+										<p class="item-price"><strong>$8.99</strong></p>
+										<p class="item-description">Three crispy egg rolls with grilled chicken, pepper jack cheese, black beans, and sweet corn, served with a zesty homemade ranch dressing</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Loaded Potato Skins</h3>
+										<p class="item-price"><strong>$8.99</strong></p>
+										<p class="item-description">Five fried golden brown potato skins loaded with melted cheese, bacon, and chives. Served with your choice of sour cream or homemade ranch dressing</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Frito Pie</h3>
+										<p class="item-price"><strong>$7.99</strong></p>
+										<p class="item-description">Fritos piled high, topped with creamy nacho cheese and our homemade Texas chili</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Fried Pickles</h3>
+										<p class="item-price"><strong>$7.99</strong></p>
+										<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Gumbo</h3>
+										<p class="item-price"><strong>$8.99</strong></p>
+										<p class="item-description">Fresh chicken breast and sliced andouille sausage nestled in a zesty New Orleans style roux. Served with rice</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Fried Mushrooms</h3>
+										<p class="item-price"><strong>$7.99</strong></p>
+										<p class="item-description">Fried golden brown mushrooms served with our homemade ranch dressing</p>
+									</div>
+									<div class="menu-item">
+										<h3 class="item-name">Breakfast Tacos</h3>
+										<p class="item-price"><strong>$6.99</strong></p>
+										<p class="item-description">Two tacos with scrambled eggs cheddar cheese , and choice of bacon sausage or chorizo served with homemade salsa</p>
+									</div>
 								</div>
 							</div>
 						</section>
