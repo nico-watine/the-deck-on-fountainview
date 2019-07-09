@@ -11,6 +11,7 @@
   "author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-uncss": "^1.0.6"
   }
 }
