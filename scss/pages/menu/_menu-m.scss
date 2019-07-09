@@ -1,34 +1,58 @@
 .menu-m#menu-m {
+	.page-title {
+		padding: 24px 0;
+
+		.h1 {
+			font-family: 'Roboto Slab', serif;
+			font-size: 45px;
+			line-height: 1.2;
+			text-shadow: 2px 2px 0 #000;
+			margin-bottom: 16px;
+		}
+
+		.h3 {
+			font-size: 24px;
+			text-shadow: 2px 2px 0 #000;
+		}
+	}
+
+	.accordion.food-menu-accordion {
+		max-width: 480px;
+		margin: 0 auto;
+
+		.food-category-title {
+			color: #222;
+			font-family: 'Roboto Slab', serif;
+			font-size: 32px;
+			line-height: 1.6;
+			text-shadow: 2px 2px 0 #fff;
+			text-align: center;
+			border-top: 3px solid #5ebddf;
+			border-bottom: 3px solid #5ebddf;
+		}
+
+		.accordion-navigation.active {
+			.food-category-title {
+				background: #5ebddf;
+				text-shadow: 2px 2px 0 #000;
+				color: #fff;
+				border-color: #fff;
+			}
+		}
+	}
+
 	.menu-item {
 		.item-name {
 			margin: 0 0 4px;
-			// margin: 0 0 8px;
-			// font-weight: bold;
-			// font-size: 24px;
-			// font-size: 20px;
-			// margin: 0;
-			// color: #5ebddf;
-			// text-shadow: 1px .5px 0 #111;
-			// margin-bottom: 0;
 		}
 
 		.item-price {
 			margin: 0 0 4px;
 			line-height: 1.2;
-			// margin: 0;
-			// display: inline-block;
-			// font-size: 18px;
-			// color: #000;
-			// margin-bottom: 8px;
 		}
 
 		.item-description {
 			margin-bottom: 24px;
-			// font-size: 18px;
-			// font-size: 16px;
-			// color: #000;
-			// line-height: 1.5;
-			// margin-bottom: 26px;
 		}
 	}
 }

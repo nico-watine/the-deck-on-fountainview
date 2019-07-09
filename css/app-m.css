@@ -2637,18 +2637,18 @@ header {
   font-family: 'Roboto Slab', serif;
   font-size: 28px;
   line-height: 50px;
-  text-shadow: 2px 2px 0px #fff;
+  text-shadow: 2px 2px 0 #fff;
   text-align: center;
   padding-top: 15px;
   margin-top: 0;
-  border-bottom: 3px solid #5EBDDF; }
+  border-bottom: 3px solid #5ebddf; }
 
 .section-detail-m {
   text-align: center;
   margin-bottom: 10px; }
   .section-detail-m h5 {
     color: #222;
-    text-shadow: 2px 2px 0px #fff; }
+    text-shadow: 2px 2px 0 #fff; }
 
 footer#mobile-menu-footer {
   margin-top: 23px; }
@@ -2661,9 +2661,9 @@ li#sides-label {
   margin-bottom: 0; }
   #menu-accordion ul.no-bullet li {
     font-weight: 700;
-    text-shadow: 1px .5px 0px #111;
+    text-shadow: 1px .5px 0 #111;
     font-size: 20px;
-    color: #5EBDDF; }
+    color: #5ebddf; }
     #menu-accordion ul.no-bullet li span {
       font-weight: 400;
       color: #222;
@@ -2750,6 +2750,36 @@ li#sides-label {
   color: #000;
   line-height: 1.5;
   margin-bottom: 26px; }
+
+.menu-m#menu-m .page-title {
+  padding: 24px 0; }
+  .menu-m#menu-m .page-title .h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+    line-height: 1.2;
+    text-shadow: 2px 2px 0 #000;
+    margin-bottom: 16px; }
+  .menu-m#menu-m .page-title .h3 {
+    font-size: 24px;
+    text-shadow: 2px 2px 0 #000; }
+
+.menu-m#menu-m .accordion.food-menu-accordion {
+  max-width: 480px;
+  margin: 0 auto; }
+  .menu-m#menu-m .accordion.food-menu-accordion .food-category-title {
+    color: #222;
+    font-family: 'Roboto Slab', serif;
+    font-size: 32px;
+    line-height: 1.6;
+    text-shadow: 2px 2px 0 #fff;
+    text-align: center;
+    border-top: 3px solid #5ebddf;
+    border-bottom: 3px solid #5ebddf; }
+  .menu-m#menu-m .accordion.food-menu-accordion .accordion-navigation.active .food-category-title {
+    background: #5ebddf;
+    text-shadow: 2px 2px 0 #000;
+    color: #fff;
+    border-color: #fff; }
 
 .menu-m#menu-m .menu-item .item-name {
   margin: 0 0 4px; }
