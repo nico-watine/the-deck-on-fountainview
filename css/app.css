@@ -7081,7 +7081,6 @@ section#contact-info {
     line-height: 0px !important;
     font-size: 0 !important; }
   .menu-category-title p {
-    padding-top: 15px;
     margin: 0;
     text-align: center;
     font-weight: normal;
@@ -7202,7 +7201,6 @@ section#appetizers .row#wing-it {
     color: #000; }
 
 .crawfish-banner {
-  margin-top: 20px;
   border-top: 3px solid #5ebddf;
   border-bottom: 3px solid #5ebddf;
   background-image: url("/img/menu/crawfish-m.jpg");
