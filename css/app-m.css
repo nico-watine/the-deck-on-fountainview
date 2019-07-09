@@ -2754,6 +2754,10 @@ li#sides-label {
   line-height: 1.5;
   margin-bottom: 26px; }
 
+.menu-m#menu-m .menu-item .item-name {
+  font-size: 20px;
+  margin: 0; }
+
 section#menu-title,
 section#crawfish {
   text-align: center; }
