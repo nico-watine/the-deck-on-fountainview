@@ -2632,19 +2632,16 @@ header {
         header section#main-header .row nav ul li#last {
           margin-right: 0; }
 
-#menu-accordion {
-  max-width: 480px;
-  margin: 0 auto; }
-  #menu-accordion .section-title-m {
-    color: #222;
-    font-family: 'Roboto Slab', serif;
-    font-size: 28px;
-    line-height: 50px;
-    text-shadow: 2px 2px 0px #fff;
-    text-align: center;
-    padding-top: 15px;
-    margin-top: 0;
-    border-bottom: 3px solid #5EBDDF; }
+#menu-accordion .section-title-m {
+  color: #222;
+  font-family: 'Roboto Slab', serif;
+  font-size: 28px;
+  line-height: 50px;
+  text-shadow: 2px 2px 0px #fff;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 0;
+  border-bottom: 3px solid #5EBDDF; }
 
 .section-detail-m {
   text-align: center;
@@ -2753,6 +2750,22 @@ li#sides-label {
   color: #000;
   line-height: 1.5;
   margin-bottom: 26px; }
+
+.menu-m#menu-m .page-title {
+  padding: 24px 0; }
+  .menu-m#menu-m .page-title .h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+    line-height: 1.2;
+    text-shadow: 2px 2px 0 #000;
+    margin-bottom: 16px; }
+  .menu-m#menu-m .page-title .h3 {
+    font-size: 24px;
+    text-shadow: 2px 2px 0 #000; }
+
+.menu-m#menu-m .accordion.food-menu-accordion {
+  max-width: 480px;
+  margin: 0 auto; }
 
 .menu-m#menu-m .menu-item .item-name {
   margin: 0 0 4px; }
