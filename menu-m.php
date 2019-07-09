@@ -164,7 +164,7 @@
 					<div id="salads" class="content">
 					<section id="salads">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>The Wedge <span>- $7.99</span></li>
 									<ul class="description">
@@ -198,12 +198,12 @@
 					<div id="burgers" class="content">
 					<section id="burgers">
 						<div class="row">
-							<div class="small-12 columns section-detail-m">
+							<div class="columns section-detail-m">
 								<h5>-Served with Crispy Pub Fries-</h5>
 							</div>
 						</div>
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>Stros <span>- $8.99</span></li>
 									<ul class="description">
@@ -236,7 +236,7 @@
 					<div id="entrees" class="content">
 					<section id="entrees">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>Prime Chops <span>- $9.99</span></li>
 									<ul class="description">
@@ -299,7 +299,7 @@
 					<div id="sandwiches" class="content">
 					<section id="sandwiches">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>The Rocket <span>- $10.99</span></li>
 									<ul class="description">
@@ -341,7 +341,7 @@
 					<div id="sides" class="content">
 					<section id="sides">
 						<div class="row">
-							<div class="small-12 columns">
+							<div class="columns">
 								<ul class="no-bullet">
 									<li>Sides <span>- $1.99</span></li>
 									<ul class="description">
