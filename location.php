@@ -135,7 +135,7 @@
             </div>
             <div class="medium-5 columns">
                 <p class="credit">
-                    <a href="http://studioncreations.com" target="_blank">A <span>STUDIO N</span> CREATION</a>
+                    <a href="https://studioncreations.com">A <span>STUDIO N</span> CREATION</a>
                 </p>
             </div>
         </div>
