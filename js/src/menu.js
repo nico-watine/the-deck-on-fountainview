@@ -1,6 +1,5 @@
 // IMPORTS
     // PRE-PENDS ::
-        // SKROLLR.MIN.JS
         // JRESPOND.MIN.JS
 
         // NEW ::
