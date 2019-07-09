@@ -3646,7 +3646,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/css/app-min.css",
 		"oF": 0,
 		"oS": 3
@@ -3656,7 +3656,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/css/menu-min.css",
 		"oF": 0,
 		"oS": 3
@@ -3666,7 +3666,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/css/opt/app-min.css",
 		"oF": 0,
 		"oS": 3
@@ -6643,7 +6643,7 @@
 		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
