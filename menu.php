@@ -187,7 +187,7 @@
 	</section>
 
 	<!-- Crawfish -->
-	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
+	<section class="crawfish-banner text-center" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 		<div class="row">
 			<div class="columns">
 				<h1 class="h1">Crawfish</h1>
