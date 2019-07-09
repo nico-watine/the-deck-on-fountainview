@@ -209,7 +209,7 @@
 									- Add Shrimp +<strong>$2.00</strong></p>
 								</div>
 								<div class="menu-item-picture">
-									<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
+									<img src="/img/menu/opt/club-salad.jpg" alt="Grilled Chicken Club Salad" title="Grilled Chicken Club Salad">
 								</div>
 							</div>
 						</div>
