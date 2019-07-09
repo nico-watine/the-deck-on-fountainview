@@ -158,7 +158,7 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
-					<a href="#salads" class="section-title-m">Salads</a>
+					<a href="#salads" class="food-category-title">Salads</a>
 					<div id="salads" class="content">
 					<section id="salads">
 						<div class="row">
@@ -191,7 +191,7 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
-					<a href="#burgers" class="section-title-m">Burgers</a>
+					<a href="#burgers" class="food-category-title">Burgers</a>
 					<div id="burgers" class="content">
 					<section id="burgers">
 						<div class="row">
@@ -228,7 +228,7 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
-					<a href="#entrees" class="section-title-m">Entrees</a>
+					<a href="#entrees" class="food-category-title">Entrees</a>
 					<div id="entrees" class="content">
 					<section id="entrees">
 						<div class="row">
@@ -290,7 +290,7 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
-					<a href="#sandwiches" class="section-title-m">Sandwiches</a>
+					<a href="#sandwiches" class="food-category-title">Sandwiches</a>
 					<div id="sandwiches" class="content">
 					<section id="sandwiches">
 						<div class="row">
@@ -331,7 +331,7 @@
 					</div>
 				</dd>
 				<dd class="accordion-navigation">
-					<a href="#sides" class="section-title-m">Sides</a>
+					<a href="#sides" class="food-category-title">Sides</a>
 					<div id="sides" class="content">
 					<section id="sides">
 						<div class="row">
@@ -351,7 +351,7 @@
 					</div>
 				</dd>
 				<!-- <dd class="accordion-navigation">
-					<a href="#specials" class="section-title-m">Specials</a>
+					<a href="#specials" class="food-category-title">Specials</a>
 					<div id="specials" class="content">
 						<section id="specials">
 							<div class="small-12 columns section-detail-m">
