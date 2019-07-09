@@ -41,14 +41,6 @@
 		"oAP": "/_ignores/calendar-default.txt",
 		"oF": 0
 		},
-	"/_ignores/force-https.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/force-https.txt",
-		"oF": 0
-		},
 	"/_ignores/google-analytics-snippet.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4714,26 +4706,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/css/menu.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/css/menu-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/css/opt/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/opt/app-min.css",
-		"oF": 1,
-		"oS": 3
-		},
 	"/events.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4810,17 +4782,6 @@
 		"oA": 2,
 		"oAP": "/googlecc7a9b7996f6ec6a.html",
 		"oF": 0
-		},
-	"/gulpfile.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/gulpfile-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
 		},
 	"/humans.txt": {
 		"cB": 0,
@@ -5580,22 +5541,6 @@
 		"oAP": "/build/node_modules",
 		"oF": 0
 		},
-	"/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/php/autoVer.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -5759,19 +5704,6 @@
 		"oAP": "/scss/components/css/_typography.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
-		},
-	"/scss/menu.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/menu.css",
-		"oF": 0,
-		"oS": 3,
 		"uL": 1
 		},
 	"/scss/pages/_events.scss": {

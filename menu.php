@@ -162,20 +162,20 @@
 			</div>
 		</div>
 
-		<!-- REVIEW THIS:: -->
 		<!-- WINGS -->
-		<!-- <div class="row" id="wing-it">
-			<h2>Wing It</h2>
+		<div class="row" id="wing-it">
+			<h2>Wings</h2>
 			<div class="medium-7 large-8 columns">
 				<div class="small-12 columns">
 					<div class="menu-item">
-						<h3 class="item-name">The Fried <span>- <strong>$8.99</strong></span></h3>
-						<p class="item-description">Ten Hand Breaded All Natural Chicken Wings, tossed in your choice of Zesty Lemon Pepper, Fresh Garlic Parmesan, Red Hot Cayenne or Spicy BBQ, and served with a side of Homemade Buttermilk Ranch</p>
+						<h3 class="item-name">Fried Wings <span>- <strong>$9.99</strong></span></h3>
+						<p class="item-description">10 savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
+						<strong>Zesty Lemon Pepper</strong> | <strong>Fresh Garlic Parmesan</strong> | <strong>Red Hot Cayenne Sauce</strong> | <strong>Spicy BBQ</strong> | <strong>Naked</strong></p>
 					</div>
 				</div>
 				<div class="small-12 columns">
 					<div class="menu-item">
-						<h3 class="item-name">The Grilled <span>- <strong>$9.99</strong></span></h3>
+						<h3 class="item-name">Grilled Wings <span>- <strong>$10.99</strong></span></h3>
 						<p class="item-description">Ten All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</p>
 					</div>
 				</div>
@@ -183,45 +183,7 @@
 			<div class="medium-5 large-4 columns">
 				<img style="margin-top: 20px;" src="/img/menu/opt/grilled-wings.jpg" alt="Grilled Wings" title="The Grilled Wings">
 			</div>
-		</div> -->
-		<!-- REVIEW THIS (SECTION??) -->
-		<!-- <div class="row item-row">
-			<div class="medium-6 columns">
-				<div class="menu-item">
-					<h3 class="item-name">Tex-Rolls</h3>
-					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Not your ordinary Egg Rolls!!! Four Crispy Egg Rolls stuffed with Grilled Chicken, Pepper Jack Cheese, Black Bean, Sweet Corn and Peppers fried to a Golden Brown and served with Zesty Jalapeno Ranch Dressing</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Texsadillas</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Fresh All Natural Chicken Breast, layered between Shredded Cheddar and Monterey Jack Cheese and grilled between two Fresh Flour Tortillas <br>
-					- Add Certified Angus Beef Fajita + <strong>$2.00</strong></p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Frito Pie</h3>
-					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Fritos Piled High, topped with Creamy Nacho Cheese sauce and Homemade Texas Chili</p>
-				</div>
-			</div>
-			<div class="medium-6 columns">
-				<div class="menu-item">
-					<h3 class="item-name">Chicken &amp; Andouille Sausage Gumbo</h3>
-					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Fresh Chicken Breast and Sliced Andouille Sausage, nestled in a Zesty New Orleans style Roux and served with a generous scoop of Steaming Long Grain Rice</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Texas Pepas</h3>
-					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Five Fresh Texas Jalapenos Stuffed with Wisconsin Cheddar Cheese, Battered with Homemade Potato Breading and Fried to a Golden Brown</p>
-				</div>
-				<div class="menu-item">
-					<h3 class="item-name">Coin Toss Tacos</h3>
-					<p class="item-price"><strong>$6.99</strong> (Only Served Sunday Mornings)</p>
-					<p class="item-description">Two Early Morning Breakfast Tacos Stuffed with Scrambled Eggs, Cheddar Cheese, Refried Beans and your choice of Bacon, Sausage or Chorizo. Served with Homemade Salsa</p>
-				</div>
-			</div>
-		</div> -->
+		</div>
 	</section>
 
 	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
