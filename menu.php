@@ -385,19 +385,11 @@
 	<!-- Sides -->
 	<section id="sides" style="margin-top: 20px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
-				<h2>Sides</h2>
-				<p class="menu-category-extra">$1.99</p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="small-12 columns item-row text-center">
-				<ul class="inline-list">
-					<li>French Fries</li>
-					<li>Onion Rings</li>
-					<li>Grilled Vegetables</li>
-					<li>Mashed Potatoes</li>
-				</ul>
+			<div class="columns item-row text-center">
+				<div class="menu-item" style="display: inline-block;">
+					<h3 style="float: left; padding-right: 24px; margin: 0; line-height: 40px;" class="float-left item-name">Sides</h3>
+					<p style="display: inline-block; margin: 0; line-height: 40px;" class="display-inline-block item-description"><strong style="padding-right: 40px;">$1.99</strong> French Fries | Onion Rings | Grilled Vegetables | Mashed Potatoes</p>
+				</div>
 			</div>
 		</div>
 	</section>
