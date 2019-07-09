@@ -189,10 +189,10 @@
 	<!-- Crawfish -->
 	<section id="crawfish" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 		<div class="row">
-			<div class="small-12 columns">
-				<h1>Crawfish</h1>
-				<h3>Market Price/lb</h3>
-				<h3>Add your choice of sausage or corn &amp; potatos for $1.50 each.</h3>
+			<div class="columns">
+				<h1 class="h1">Crawfish</h1>
+				<h3 class="h3">Market Price/lb</h3>
+				<h3 class="h3">Add your choice of sausage or corn &amp; potatos for $1.50 each.</h3>
 			</div>
 		</div>
 	</section>
