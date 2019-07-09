@@ -123,7 +123,7 @@
 <footer>
     <section id="sharing">
         <div class="row">
-            <div class="medium-7 columns end">
+            <div class="medium-7 columns">
                 <ul class="social-icons">
                     <li><a href="https://twitter.com/thedeckonfvbar" target="_blank"><img src="/img/footer/sharing/twitter.png" alt="Twitter"></a></li>
                     <li><a href="https://www.facebook.com/pages/The-Deck-on-Fountain-View/202592176425413" target="_blank"><img src="/img/footer/sharing/facebook.png" alt="Facebook"></a></li>
