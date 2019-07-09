@@ -74,7 +74,7 @@
 					<div id="appetizers" class="content">
 							<section id="appetizers">
 							<div class="row">
-								<div class="small-12 columns">
+								<div class="columns">
 									<ul class="no-bullet">
 										<li>Chip Shot Nachos <span>- $7.99</span></li>
 										<ul class="description">
