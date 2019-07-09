@@ -9,5 +9,8 @@
     "url": "git+https://nico-watine@github.com/nico-watine/the-deck-on-fountainview.git"
   },
   "author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
