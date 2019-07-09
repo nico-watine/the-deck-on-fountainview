@@ -18,7 +18,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Houston's Best Crawfish!">
 	<meta property="og:description" content="We pride ourselves to be the true neighborhood local bar and the best sports bar in the Galleria Area with tasty food with one of Houston's best happy hours. #1 spot for Crawfish.">
-	<meta property="og:url" content="http://thedeckonfountainview.com/">
+	<meta property="og:url" content="https://thedeckonfountainview.com/">
 	<meta property="og:site_name" content="The Deck On Fountainview">
 	<!-- <meta property="og:image" content="http://url.com/image"> -->
 	<!-- <meta property="fb:app_id" content="123456789"> -->
