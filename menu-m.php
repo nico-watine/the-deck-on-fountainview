@@ -325,12 +325,12 @@
 								<div class="menu-item">
 									<h3 class="item-name">Philly Cheesesteak</h3>
 									<p class="item-price"><strong>$11.99</strong></p>
-									<p class="item-description">Topped with sautéed mushrooms, bell pepper, grilled onions and melted mozzarella cheese. Served with French fries.</p>
+									<p class="item-description">Topped with sautéed mushrooms, bell peppers, grilled onions and melted mozzarella cheese. Served with French fries.</p>
 								</div>
 								<div class="menu-item">
 									<h3 class="item-name">Deck Dog</h3>
 									<p class="item-price"><strong>$11.99</strong></p>
-									<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll, topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
+									<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll and topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
 								</div>
 								<div class="menu-item">
 									<h3 class="item-name">Caesar Wrap</h3>
