@@ -103,7 +103,7 @@
 				<div class="menu-item">
 					<h3 class="item-name">Quesadillas</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese grilled between two fresh flour tortillas <br>
+					<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese and grilled between two fresh flour tortillas <br>
 					- Add Certified Angus Beef Fajita +<strong>$2.00</strong> <br>
 					- Add Shrimp +<strong>$3.00</strong></p>
 				</div>

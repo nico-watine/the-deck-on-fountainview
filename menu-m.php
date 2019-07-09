@@ -98,7 +98,7 @@
 									<div class="menu-item">
 										<h3 class="item-name">Quesadillas</h3>
 										<p class="item-price"><strong>$9.99</strong></p>
-										<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese grilled between two fresh flour tortillas. <br>
+										<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese and grilled between two fresh flour tortillas. <br>
 										- Add Certified Angus Beef Fajita +<strong>$2.00</strong> <br>
 										- Add Shrimp +<strong>$3.00</strong></p>
 									</div>
@@ -150,7 +150,7 @@
 									<div class="menu-item">
 										<h3 class="item-name">Breakfast Tacos</h3>
 										<p class="item-price"><strong>$6.99</strong></p>
-										<p class="item-description">Two tacos with scrambled eggs cheddar cheese , and choice of bacon sausage or chorizo served with homemade salsa.</p>
+										<p class="item-description">Two tacos with scrambled eggs, cheddar cheese and choice of bacon, sausage or chorizo. Served with homemade salsa.</p>
 									</div>
 								</div>
 							</div>
