@@ -69,6 +69,7 @@
 	<div class="row" id="menu-accordion">
 		<div class="columns">
 			<dl class="accordion food-menu-accordion" data-accordion>
+				<!-- Appetizers -->
 				<dd class="accordion-navigation">
 					<a href="#appetizers" class="food-category-title">Appetizers</a>
 					<div id="appetizers" class="content">
@@ -157,6 +158,7 @@
 						</section>
 					</div>
 				</dd>
+				<!-- Salads -->
 				<dd class="accordion-navigation">
 					<a href="#salads" class="food-category-title">Salads</a>
 					<div id="salads" class="content">
@@ -190,6 +192,7 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Burgers -->
 				<dd class="accordion-navigation">
 					<a href="#burgers" class="food-category-title">Burgers</a>
 					<div id="burgers" class="content">
@@ -227,6 +230,7 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Entrees -->
 				<dd class="accordion-navigation">
 					<a href="#entrees" class="food-category-title">Entrees</a>
 					<div id="entrees" class="content">
@@ -289,6 +293,7 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Sandwiches -->
 				<dd class="accordion-navigation">
 					<a href="#sandwiches" class="food-category-title">Sandwiches</a>
 					<div id="sandwiches" class="content">
@@ -330,6 +335,7 @@
 					</section>
 					</div>
 				</dd>
+				<!-- Sides -->
 				<dd class="accordion-navigation">
 					<a href="#sides" class="food-category-title">Sides</a>
 					<div id="sides" class="content">
