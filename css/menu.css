@@ -3049,9 +3049,6 @@ footer {
         footer section#sharing p.credit a:hover {
           text-decoration: underline; }
 
-footer#mobile-menu-footer {
-  margin-top: 23px; }
-
 .menu-category-title a {
   height: 0;
   line-height: 0px !important;
@@ -3130,7 +3127,7 @@ footer#mobile-menu-footer {
 
 .menu-m#menu-m .accordion.food-menu-accordion {
   max-width: 480px;
-  margin: 0 auto; }
+  margin: 0 auto 32px; }
   .menu-m#menu-m .accordion.food-menu-accordion .food-category-title {
     color: #222;
     font-family: 'Roboto Slab', serif;
