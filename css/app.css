@@ -7074,33 +7074,32 @@ section#contact-info {
 .menu-m#menu-m .menu-item .item-description {
   margin-bottom: 24px; }
 
-.menu-category-title a {
-  height: 0;
-  line-height: 0px !important;
-  font-size: 0 !important; }
-
-.menu-category-title p {
-  padding-top: 15px;
-  margin: 0;
-  text-align: center;
-  font-weight: normal;
-  text-transform: uppercase;
-  font-size: 20px;
-  text-shadow: 0 1px 2px #000;
-  letter-spacing: 1px; }
-
-.menu-category-title h2 {
-  font-family: 'Roboto Slab', serif;
-  font-size: 34px;
-  line-height: 50px;
-  text-shadow: 2px 2px 0px #000;
-  text-align: center;
-  margin-top: 0; }
-
-.menu-category-title .menu-category-extra {
-  padding-top: 0;
-  text-transform: none;
-  margin-bottom: 8px; }
+.menu-category-title {
+  margin-bottom: 20px; }
+  .menu-category-title a {
+    height: 0;
+    line-height: 0px !important;
+    font-size: 0 !important; }
+  .menu-category-title p {
+    padding-top: 15px;
+    margin: 0;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-shadow: 0 1px 2px #000;
+    letter-spacing: 1px; }
+  .menu-category-title h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 34px;
+    line-height: 50px;
+    text-shadow: 2px 2px 0px #000;
+    text-align: center;
+    margin-top: 0; }
+  .menu-category-title .menu-category-extra {
+    padding-top: 0;
+    text-transform: none;
+    margin-bottom: 8px; }
 
 .section-detail {
   text-align: center;
@@ -7201,60 +7200,6 @@ section#appetizers .row#wing-it {
     font-family: Lato;
     font-size: 18px;
     color: #000; }
-
-section#burgers img,
-section#entrees img,
-section#specials img,
-section#dog-sides img {
-  border: 3px solid #5ebddf; }
-
-section#burgers ul.no-bullet,
-section#entrees ul.no-bullet,
-section#specials ul.no-bullet,
-section#dog-sides ul.no-bullet {
-  margin-bottom: 0; }
-  section#burgers ul.no-bullet li,
-  section#entrees ul.no-bullet li,
-  section#specials ul.no-bullet li,
-  section#dog-sides ul.no-bullet li {
-    font-weight: 700;
-    text-shadow: 1px .5px 0 #111;
-    font-size: 20px;
-    color: #5ebddf; }
-    section#burgers ul.no-bullet li span,
-    section#entrees ul.no-bullet li span,
-    section#specials ul.no-bullet li span,
-    section#dog-sides ul.no-bullet li span {
-      font-weight: 400;
-      color: #222;
-      text-shadow: none; }
-  section#burgers ul.no-bullet li.sides,
-  section#entrees ul.no-bullet li.sides,
-  section#specials ul.no-bullet li.sides,
-  section#dog-sides ul.no-bullet li.sides {
-    font-weight: 400;
-    text-shadow: none;
-    color: #222; }
-  section#burgers ul.no-bullet li.gratuity,
-  section#entrees ul.no-bullet li.gratuity,
-  section#specials ul.no-bullet li.gratuity,
-  section#dog-sides ul.no-bullet li.gratuity {
-    font-weight: 400;
-    text-shadow: none;
-    color: #222; }
-  section#burgers ul.no-bullet ul.description,
-  section#entrees ul.no-bullet ul.description,
-  section#specials ul.no-bullet ul.description,
-  section#dog-sides ul.no-bullet ul.description {
-    list-style: none; }
-    section#burgers ul.no-bullet ul.description li,
-    section#entrees ul.no-bullet ul.description li,
-    section#specials ul.no-bullet ul.description li,
-    section#dog-sides ul.no-bullet ul.description li {
-      font-weight: 400;
-      text-shadow: none;
-      font-size: 16px;
-      color: #222; }
 
 .crawfish-banner {
   margin-top: 20px;
