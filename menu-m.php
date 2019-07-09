@@ -46,7 +46,7 @@
 				<ul class="right">
 					<li><a href="/">HOME</a></li>
 					<li><a href="/events">EVENTS</a></li>
-					<li class="active"><a href="#">FOOD + DRINK</a></li>
+					<li class="active"><a href="#">FOOD +DRINK</a></li>
 					<li><a href="/location">LOCATION</a></li>
 				</ul>
 			</section>
@@ -78,7 +78,7 @@
 									<div class="menu-item">
 										<h3 class="item-name">Fresh Tortilla Chips and Salsa</h3>
 										<p class="item-price"><strong>$3.99</strong></p>
-										<p class="item-description">- Add Queso + <strong>$2.00</strong></p>
+										<p class="item-description">- Add Queso +<strong>$2.00</strong></p>
 									</div>
 									<div class="menu-item">
 										<h3 class="item-name">Mini Corn Dogs</h3>
@@ -99,8 +99,8 @@
 										<h3 class="item-name">Quesadillas</h3>
 										<p class="item-price"><strong>$9.99</strong></p>
 										<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese grilled between two fresh flour tortillas <br>
-										- Add Certified Angus Beef Fajita + <strong>$2.00</strong> <br>
-										- Add Shrimp + <strong>$3.00</strong></p>
+										- Add Certified Angus Beef Fajita +<strong>$2.00</strong> <br>
+										- Add Shrimp +<strong>$3.00</strong></p>
 									</div>
 									<div class="menu-item">
 										<h3 class="item-name">Cheese Sticks</h3>
@@ -206,7 +206,7 @@
 									<h3 class="item-name">Caesar Salad</h3>
 									<p class="item-price"><strong>$9.99</strong></p>
 									<p class="item-description">Crispy chopped romaine, grated parmesan cheese, toasted croutons, topped with fresh grilled chicken breast <br>
-									- Add Shrimp + <strong>$2.00</strong></p>
+									- Add Shrimp +<strong>$2.00</strong></p>
 								</div>
 								<div class="menu-item-picture">
 									<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
@@ -293,7 +293,7 @@
 									<h3 class="item-name">Chicken Alfredo</h3>
 									<p class="item-price"><strong>$10.99</strong></p>
 									<p class="item-description">8oz of fresh grilled chicken breast piled over fresh fettuccine pasta, topped with creamy, rich, homemade alfredosauce <br>
-									- Substitute Shrimp + <strong>$3.00</strong></p>
+									- Substitute Shrimp +<strong>$3.00</strong></p>
 								</div>
 								<div class="menu-item">
 									<h3 class="item-name">Fried Chicken Tenderloins</h3>
