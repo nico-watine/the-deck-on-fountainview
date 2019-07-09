@@ -14,6 +14,7 @@
     "foundation": "zurb/bower-foundation",
     "slick.js": "~1.5.8",
     "normalize-css": "^8.0.1",
-    "skrollr": "^0.6.30"
+    "skrollr": "^0.6.30",
+    "jrespond": "jRespond#^1.0.0"
   }
 }
