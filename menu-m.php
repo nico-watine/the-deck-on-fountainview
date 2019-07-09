@@ -240,57 +240,52 @@
 					<section id="entrees">
 						<div class="row">
 							<div class="columns">
-								<ul class="no-bullet">
-									<li>Prime Chops <span>- $9.99</span></li>
-									<ul class="description">
-										<li>One 6oz Prime Pork Chop Grilled or Fried to your liking. Served with Redskin Mashed Potatoes and Sautéed Garlic Green Beans</li>
-										<li>Add another Chop + $3.00</li>
-									</ul>
-									<li class="menu-item-picture">
-										<img src="/img/menu/opt/pork-chops.jpg" alt="Pork Chops">
-									</li>
-									<li>Cajun Fried Red Fish <span>- $12.99</span></li>
-									<ul class="description">
-										<li>8oz Fresh Red Fish Filet fried in our Signature “Deck” Batter. Served alongside a pile of Fresh Crispy French Fries</li>
-									</ul>
-									<li>Famous Queso Pasta <span>- $10.99</span></li>
-									<ul class="description">
-										<li>Our Signature Spicy Cheese Sauce Blend, poured over Fresh Penne Pasta and topped with 8oz of Zesty Blackened Chicken Breast. Served with Crunchy Garlic Toast</li>
-									</ul>
-									<li>Steak Fingers <span>- $9.99</span></li>
-									<ul class="description">
-										<li>Five Hand Battered Angus Beef Fingers Fried to a Golden Brown. Served over Fried Onion Rings and Fresh Crispy French Fries with a side of Homemade Peppered Gravy</li>
-									</ul>
-									<li>Deck Dog <span>- $9.99</span></li>
-									<ul class="description">
-										<li>This is no ordinary dog! We start with an 8oz all Beef Angus Frank Grilled over an open Flame. Served in a Fresh Philadelphia style Hoagie Roll and topped with Homemade Hot Dog Chili, Cheddar Cheese and Fresh Diced Onions. Served with Fresh Crispy French Fries</li>
-									</ul>
-									<li>Fried Gulf Shrimp <span>- $10.99</span></li>
-									<ul class="description">
-										<li>8 Fresh Gulf Shrimp, Butterflied, Hand Battered and then Fried to a Golden Brown. Served with Fresh Crispy French Fries, Cocktail and Tartar Sauce</li>
-									</ul>
-									<li>Chicken Dinner <span>- $10.99</span></li>
-									<ul class="description">
-										<li>8oz All natural Chicken Breast Grilled or Blackened. Served with Creamy Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</li>
-									</ul>
-									<li>Chicken Alfredo <span>- $10.99</span></li>
-									<ul class="description">
-										<li>8oz of Fresh Grilled Chicken Breast piled over Fresh Fettuccini Pasta. Topped with Creamy, Rich, Homemade Alfredo Sauce</li>
-										<li>Substitute Shrimp + $3.00</li>
-									</ul>
-									<li>Fried Chicken Tenderloins <span>- $9.99</span></li>
-									<ul class="description">
-										<li>Fresh Chicken Breast Tenders, Rolled in a Homestyle breading Fried to a Golden Brown. Served with Fresh Crispy French Fries and Lavaca Bay Honey Mustard</li>
-									</ul>
-									<li>The Country Fried Legend <span>- $11.99</span></li>
-									<ul class="description">
-										<li>9oz of Fresh Angus Beef breaded and Fried to a Golden Brown. Topped with Creamy Peppered Gravy. Served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</li>
-									</ul>
-									<li>The Beef <span>- $13.99</span></li>
-									<ul class="description">
-										<li>8oz of Fresh Brazilian Style Sirloin Steak, Aged a minimum of 30 days for Flavor and Tenderness. Grilled to your liking and served with Fresh Redskin Mashed Potatoes, Fresh Sautéed Mixed Vegetables and a Crunchy Slice of Garlic Toast</li>
-									</ul>
-								</ul>
+								<div class="menu-item">
+									<h3 class="item-name">Prime Chops</h3>
+									<p class="item-price"><strong>$12.99</strong></p>
+									<p class="item-description">Two 6oz prime pork chops grilled or fried to your liking. Served with mashed red potatoes and sautéed garlic mixed vegetables</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Cajun Fried Red Fish</h3>
+									<p class="item-price"><strong>$12.99</strong></p>
+									<p class="item-description">8oz fresh red fish filet fried in our Signature “Deck” Batter. Served alongside a pile of fresh crispy French Fries</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Famous Queso Pasta</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">Our Signature spicy cheese sauce blend poured over fresh penne pasta, topped with 8oz of zesty blackened chicken breast. Served with crunchy garlic toast</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Steak Fingers</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">Eight hand battered angus beef fingers fried to a golden brown. served over fried onion rings and fresh crispy French fries with a side of homemade peppered gravy</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Chicken Dinner</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">8oz all natural chicken breast grilled or blackened. Served with creamy redskin mashed potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Chicken Alfredo</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">8oz of fresh grilled chicken breast piled over fresh fettuccine pasta, topped with creamy, rich, homemade alfredosauce <br>
+									- Substitute Shrimp + <strong>$3.00</strong></p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Fried Chicken Tenderloins</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">Fresh chicken breast tenders, rolled in a homestyle breading fried to a golden brown. Served with fresh crispy French fries and honey mustard</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">The Country Fried Legend</h3>
+									<p class="item-price"><strong>$11.99</strong></p>
+									<p class="item-description">9oz of fresh angus beef breaded and fried to a golden brown, topped with creamy peppered gravy. Served with mashed red potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast</p>
+								</div>
+								<div class="menu-item">
+									<h3 class="item-name">Fried Shrimp</h3>
+									<p class="item-price"><strong>$10.99</strong></p>
+									<p class="item-description">Eight fresh gulf shrimp, butterflied and hand battered then fried to a golden brown. Served with fresh crispy French fries, cocktail and tartar sauce</p>
+								</div>
 							</div>
 						</div>
 					</section>
