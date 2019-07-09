@@ -1,0 +1,13 @@
+{
+  "name": "the-deck-on-fountainview",
+  "description": "The repo for the website of The Deck on Fountainview bar and restaurant, located in Houston, TX.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nico-watine@github.com/nico-watine/the-deck-on-fountainview.git"
+  },
+  "author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
+  "license": "ISC"
+}
