@@ -331,15 +331,15 @@
 					<section id="sides">
 						<div class="row">
 							<div class="columns">
-								<ul class="no-bullet">
-									<li>Sides <span>- $1.99</span></li>
-									<ul class="description">
-										<li>French Fries</li>
-										<li>Onion Rings</li>
-										<li>Grilled Vegetables</li>
-										<li>Mash Potatoes</li>
-									</ul>
-								</ul>
+								<div class="menu-item">
+									<h3 class="item-name">Sides</h3>
+									<p class="item-price"><strong>$1.99</strong></p>
+									<p class="item-description">
+										French Fries <br>
+										Onion Rings <br>
+										Grilled Vegetables <br>
+										Mash Potatoes</p>
+								</div>
 							</div>
 						</div>
 					</section>
