@@ -19,6 +19,17 @@
 	.accordion.food-menu-accordion {
 		max-width: 480px;
 		margin: 0 auto;
+
+		.food-category-title {
+			color: #222;
+			font-family: 'Roboto Slab', serif;
+			font-size: 32px;
+			line-height: 1.6;
+			text-shadow: 2px 2px 0 #fff;
+			text-align: center;
+			border-top: 3px solid #5ebddf;
+			border-bottom: 3px solid #5ebddf;
+		}
 	}
 
 	.menu-item {

@@ -70,7 +70,7 @@
 		<div class="columns">
 			<dl class="accordion food-menu-accordion" data-accordion>
 				<dd class="accordion-navigation">
-					<a href="#appetizers" class="section-title-m">Appetizers</a>
+					<a href="#appetizers" class="food-category-title">Appetizers</a>
 					<div id="appetizers" class="content">
 							<section id="appetizers">
 							<div class="row">
