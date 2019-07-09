@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://thedeckonfountainview.com/wp-content/plugins/google-xml-sitemaps-v3-for-qtranslate/sitemap.xsl"?><!-- generator="wordpress/3.4.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.8.1" -->
+<!-- generated-on="August 17, 2012 9:52 pm" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://thedeckonfountainview.com/</loc>
+		<lastmod>2012-08-16T22:54:04+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://thedeckonfountainview.com/menu/</loc>
+		<lastmod>2012-08-16T22:54:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://thedeckonfountainview.com/best-sports-bar-galleria-houston-hype/</loc>
+		<lastmod>2012-08-16T21:35:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://thedeckonfountainview.com/location/</loc>
+		<lastmod>2012-08-16T01:30:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://thedeckonfountainview.com/calendar-events/</loc>
+		<lastmod>2012-08-16T01:21:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://thedeckonfountainview.com/deck-commercial/</loc>
+		<lastmod>2012-08-02T05:10:26+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://thedeckonfountainview.com/gallery/</loc>
+		<lastmod>2012-07-30T05:52:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

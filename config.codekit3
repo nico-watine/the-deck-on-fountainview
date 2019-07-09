@@ -89,6 +89,14 @@
 		"oAP": "/_ignores/new-calendar-snippet.html",
 		"oF": 0
 		},
+	"/_ignores/obsolete-sitemap.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_ignores/obsolete-sitemap.xml",
+		"oF": 0
+		},
 	"/_ignores/old-google-tracking-id.html": {
 		"cB": 0,
 		"ft": 8192,
