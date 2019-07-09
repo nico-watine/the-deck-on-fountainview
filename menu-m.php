@@ -20,19 +20,19 @@
 <body>
 
 <header>
-	<section class="show-for-small-up" id="mobile-header">
+	<section id="mobile-header">
 		<section id="mobile-contact">
 				<div class="row">
-					<div class="small-12 columns">
+					<div class="columns">
 						<a href="tel:713-914-9990"><p>713-914-9990</p></a>
 					</div>
-					<div class="small-12 columns">
+					<div class="columns">
 						<a href="https://goo.gl/maps/0v7MM" target="_blank"><p>6002 Fairdale Lane Houston, TX 77057</p></a>
 					</div>
 				</div>
 		</section>
 		<div class="row">
-			<div class="small-12 columns">
+			<div class="columns">
 				<a href="/"><img src="/img/logo/logo@2x.png"></a>
 			</div>
 		</div>
