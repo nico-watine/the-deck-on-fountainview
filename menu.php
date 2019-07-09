@@ -191,7 +191,7 @@
 		<div class="row">
 			<div class="columns">
 				<h1 class="h1">Crawfish</h1>
-				<h3 class="h3">Market Price/lb</h3>
+				<h3 class="h3">Seasonal Market Price/lb</h3>
 				<h3 class="h3">Add your choice of sausage or corn &amp; potatos for $1.50 each.</h3>
 			</div>
 		</div>
