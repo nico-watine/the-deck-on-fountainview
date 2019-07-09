@@ -7047,61 +7047,6 @@ section#contact-info {
   margin: 20px auto;
   border-bottom: 5px solid #5EBDDF; }
 
-#menu-accordion .section-title-m {
-  color: #222;
-  font-family: 'Roboto Slab', serif;
-  font-size: 28px;
-  line-height: 50px;
-  text-shadow: 2px 2px 0 #fff;
-  text-align: center;
-  padding-top: 15px;
-  margin-top: 0;
-  border-bottom: 3px solid #5ebddf; }
-
-.section-detail-m {
-  text-align: center;
-  margin-bottom: 10px; }
-  .section-detail-m h5 {
-    color: #222;
-    text-shadow: 2px 2px 0 #fff; }
-
-footer#mobile-menu-footer {
-  margin-top: 23px; }
-
-li#sides-label {
-  border-top: 1px solid #222;
-  padding-top: 15px; }
-
-#menu-accordion ul.no-bullet {
-  margin-bottom: 0; }
-  #menu-accordion ul.no-bullet li {
-    font-weight: 700;
-    text-shadow: 1px .5px 0 #111;
-    font-size: 20px;
-    color: #5ebddf; }
-    #menu-accordion ul.no-bullet li span {
-      font-weight: 400;
-      color: #222;
-      text-shadow: none; }
-  #menu-accordion ul.no-bullet li.sides {
-    font-weight: 400;
-    text-shadow: none;
-    color: #222; }
-  #menu-accordion ul.no-bullet li.gratuity {
-    font-weight: 400;
-    text-shadow: none;
-    color: #222; }
-  #menu-accordion ul.no-bullet ul.description {
-    margin-left: 0;
-    margin-bottom: 20px;
-    list-style: none; }
-    #menu-accordion ul.no-bullet ul.description li {
-      line-height: 1.5;
-      font-weight: 400;
-      text-shadow: none;
-      font-size: 16px;
-      color: #222; }
-
 .menu-category-title a {
   height: 0;
   line-height: 0px !important;
@@ -7180,7 +7125,7 @@ li#sides-label {
 
 .menu-m#menu-m .accordion.food-menu-accordion {
   max-width: 480px;
-  margin: 0 auto; }
+  margin: 0 auto 32px; }
   .menu-m#menu-m .accordion.food-menu-accordion .food-category-title {
     color: #222;
     font-family: 'Roboto Slab', serif;
