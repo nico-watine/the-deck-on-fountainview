@@ -244,7 +244,6 @@
 				<a name="burgers"></a>
 				<p data-magellan-destination="burgers">Burgers</p>
 				<h2>Home Plate Sliders</h2>
-				<p class="menu-category-extra">-Served with Crispy Pub Fries-</p>
 			</div>
 		</div>
 		<div class="row item-row">
@@ -252,7 +251,7 @@
 				<div class="menu-item">
 					<h3 class="item-name">Deck Melt</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef patty, grilled to perfection. Topped with Texas sweet onions and Swiss cheese on a rye bread bun. Served with French fries.</p>
+					<p class="item-description">8oz Certified Angus Beef patty grilled to perfection. Topped with Texas sweet onions and Swiss cheese on a rye bread bun. Served with French fries.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Deck Sliders</h3>
@@ -269,7 +268,7 @@
 				<div class="menu-item">
 					<h3 class="item-name">H-Town Classic</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef Patty grilled to perfection. Topped with crisp lettuce, fresh tomatoes, Texas sweet onions, tangy dill pickle slices and American cheese, on a freshly toasted bun. Served with crispy French fries.</p>
+					<p class="item-description">8oz Certified Angus Beef Patty grilled to perfection. Topped with crisp lettuce, fresh tomatoes, Texas sweet onions, tangy dill pickle slices and American cheese on a freshly toasted bun. Served with crispy French fries.</p>
 				</div>
 			</div>
 			<div class="row">
