@@ -2,6 +2,12 @@
 @import '_menu-category.scss';
 @import '_menu-item.scss';
 
+.magellan-destination-heading {
+	p {
+		padding-top: 20px;
+	}
+}
+
 .page-title {
 	padding: 24px 0;
 
@@ -97,55 +103,6 @@ section#appetizers {
 	}
 }
 
-// section#burgers,
-// section#entrees,
-// section#specials,
-// section#dog-sides {
-// 	img {
-// 		border: 3px solid #5ebddf;
-// 	}
-
-// 	ul.no-bullet {
-// 		margin-bottom: 0;
-
-// 		li {
-// 			font-weight: 700;
-// 			text-shadow: 1px .5px 0 #111;
-// 			font-size: 20px;
-// 			color: #5ebddf;
-
-// 			span {
-// 				font-weight: 400;
-// 				color: #222;
-// 				text-shadow: none;
-// 			}
-// 		}
-
-// 		li.sides {
-// 			font-weight: 400;
-// 			text-shadow: none;
-// 			color: #222;
-// 		}
-
-// 		li.gratuity {
-// 			font-weight: 400;
-// 			text-shadow: none;
-// 			color: #222;
-// 		}
-
-// 		ul.description {
-// 			list-style: none;
-
-// 			li {
-// 				font-weight: 400;
-// 				text-shadow: none;
-// 				font-size: 16px;
-// 				color: #222;
-// 			}
-// 		}
-// 	}
-// }
-
 .crawfish-banner {
 	.h1,
 	.h3 {
@@ -162,7 +119,6 @@ section#appetizers {
 		font-size: 24px;
 	}
 
-	margin-top: 20px;
 	border-top: 3px solid #5ebddf;
 	border-bottom: 3px solid #5ebddf;
 	background-image: url('/img/menu/crawfish-m.jpg');
@@ -173,23 +129,24 @@ section#appetizers {
 	}
 }
 
-section#specials-pics {
-	margin-bottom: 50px;
+#sides-section {
+	.menu-item {
+		display: inline-block;
 
-	img {
-		border: 5px solid #eee;
-	}
-}
-
-section#sides {
-	.item-row {
-		ul {
+		.item-name {
+			float: left;
+			padding-right: 24px;
 			margin: 0;
-			display: inline-block;
-			color: #000;
+			line-height: 40px;
+		}
 
-			li {
-				font-size: 18px;
+		.item-description {
+			display: inline-block;
+			margin: 0;
+			line-height: 40px;
+
+			strong {
+				padding-right: 40px;
 			}
 		}
 	}

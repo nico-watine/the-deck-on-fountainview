@@ -38,7 +38,7 @@
 					<ul>
 						<li id="first"><a href="/" class="home">HOME</a></li>
 						<li><a href="/events" class="events">EVENTS</a></li>
-						<li><a href="#" class="menu active">FOOD + DRINK</a></li>
+						<li><a href="#" class="menu active">FOOD +DRINK</a></li>
 						<li id="last"><a href="/location" class="location">LOCATION</a></li>
 					</ul>
 				</nav>
@@ -70,9 +70,9 @@
 	</section>
 
 	<!-- Appetizers "Starting Line Up" -->
-	<section class="menu-category" id="appetizers" style="margin-top: 20px;">
+	<section class="menu-category" id="appetizers" style="margin-top: 20px;margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="columns menu-category-title magellan-destination-heading">
 				<a name="appetizers"></a>
 				<p data-magellan-destination="appetizers">Appetizers</p>
 				<h2>Starting Line Up</h2>
@@ -83,81 +83,81 @@
 				<div class="menu-item">
 					<h3 class="item-name">Fresh Tortilla Chips and Salsa</h3>
 					<p class="item-price"><strong>$3.99</strong></p>
-					<p class="item-description">- Add Queso + <strong>$2.00</strong></p>
+					<p class="item-description">- Add Queso +<strong>$2.00</strong></p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Mini Corn Dogs</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Eight mini corn dogs served with honey mustard</p>
+					<p class="item-description">Eight mini corn dogs served with honey mustard.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Spinach Artichoke Dip</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Fresh tortilla chips with fresh homemade creamy spinach and artichoke dip</p>
+					<p class="item-description">Fresh tortilla chips with fresh homemade creamy spinach and artichoke dip.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Fajita Nachos</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Choice of beef or chicken, topped with queso, lettuce, tomatoes and jalapenos</p>
+					<p class="item-description">Choice of beef or chicken, topped with queso, lettuce, tomatoes and jalapenos.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Quesadillas</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese grilled between two fresh flour tortillas <br>
-					- Add Certified Angus Beef Fajita + <strong>$2.00</strong> <br>
-					- Add Shrimp + <strong>$3.00</strong></p>
+					<p class="item-description">Fresh all natural chicken breast layered between shredded cheddar or monterey jack cheese and grilled between two fresh flour tortillas. <br>
+					- Add Certified Angus Beef Fajita +<strong>$2.00</strong> <br>
+					- Add Shrimp +<strong>$3.00</strong></p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Cheese Sticks</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Six fried mozzarella sticks served with Zesty Marinara</p>
+					<p class="item-description">Six fried mozzarella sticks served with Zesty Marinara.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Crispy Green Beans</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Fried green beans served with homemade ranch dressing</p>
+					<p class="item-description">Fried green beans served with homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Roasted Red Pepper Hummus</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Served with roasted garlic and chili petite naan bread</p>
+					<p class="item-description">Served with roasted garlic and chili petite naan bread.</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Southwest Chicken Eggrolls</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Three crispy egg rolls with grilled chicken, pepper jack cheese, black beans, and sweet corn, served with a zesty homemade ranch dressing</p>
+					<p class="item-description">Three crispy egg rolls with grilled chicken, pepper jack cheese, black beans, and sweet corn, served with a zesty homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Loaded Potato Skins</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Five fried golden brown potato skins loaded with melted cheese, bacon, and chives. Served with your choice of sour cream or homemade ranch dressing</p>
+					<p class="item-description">Five fried golden brown potato skins loaded with melted cheese, bacon, and chives. Served with your choice of sour cream or homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Frito Pie</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Fritos piled high, topped with creamy nacho cheese and our homemade Texas chili</p>
+					<p class="item-description">Fritos piled high, topped with creamy nacho cheese and our homemade Texas chili.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Fried Pickles</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing</p>
+					<p class="item-description">Pickle chips lightly fried and breaded, served with homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Gumbo</h3>
 					<p class="item-price"><strong>$8.99</strong></p>
-					<p class="item-description">Fresh chicken breast and sliced andouille sausage nestled in a zesty New Orleans style roux. Served with rice</p>
+					<p class="item-description">Fresh chicken breast and sliced andouille sausage nestled in a zesty New Orleans style roux. Served with rice.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Fried Mushrooms</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Fried golden brown mushrooms served with our homemade ranch dressing</p>
+					<p class="item-description">Fried golden brown mushrooms served with our homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Breakfast Tacos</h3>
 					<p class="item-price"><strong>$6.99</strong></p>
-					<p class="item-description">Two tacos with scrambled eggs cheddar cheese , and choice of bacon sausage or chorizo served with homemade salsa</p>
+					<p class="item-description">Two tacos with scrambled eggs, cheddar cheese and choice of bacon, sausage or chorizo. Served with homemade salsa.</p>
 				</div>
 			</div>
 		</div>
@@ -169,14 +169,14 @@
 				<div class="small-12 columns">
 					<div class="menu-item">
 						<h3 class="item-name">Fried Wings <span>- <strong>$9.99</strong></span></h3>
-						<p class="item-description">10 savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
+						<p class="item-description">Ten savory fried chicken wings, served with a side of our Homemade Ranch dressing. Tossed in a sauce of your choice: <br>
 						<strong>Zesty Lemon Pepper</strong> | <strong>Fresh Garlic Parmesan</strong> | <strong>Red Hot Cayenne Sauce</strong> | <strong>Spicy BBQ</strong> | <strong>Naked</strong></p>
 					</div>
 				</div>
 				<div class="small-12 columns">
 					<div class="menu-item">
 						<h3 class="item-name">Grilled Wings <span>- <strong>$10.99</strong></span></h3>
-						<p class="item-description">Ten All Natural Chicken Wings, Grilled over an open flame and served with a side of Homemade Ranch</p>
+						<p class="item-description">Ten All Natural Chicken Wings, grilled over an open flame and served with a side of Homemade Ranch.</p>
 					</div>
 				</div>
 			</div>
@@ -187,20 +187,20 @@
 	</section>
 
 	<!-- Crawfish -->
-	<section class="crawfish-banner text-center" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
+	<section style="margin-bottom: 40px;" class="crawfish-banner text-center" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 		<div class="row">
 			<div class="columns">
 				<h1 class="h1">Crawfish</h1>
-				<h3 class="h3">Market Price/lb</h3>
+				<h3 class="h3">Seasonal Market Price/lb</h3>
 				<h3 class="h3">Add your choice of sausage or corn &amp; potatos for $1.50 each.</h3>
 			</div>
 		</div>
 	</section>
 
 	<!-- Salads "The Greens" -->
-	<section id="salads" style="margin-top: 20px;">
+	<section id="salads" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="salads"></a>
 				<p data-magellan-destination="salads">Salads</p>
 				<h2>The Greens</h2>
@@ -211,12 +211,12 @@
 				<div class="menu-item">
 					<h3 class="item-name">Grilled Chicken Club Salad</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Lettuce blend, sweet tomatoes, crisp cucumbers, applewood smoked bacon, toasted croutons, ripe avacado, sliced fresh grilled chicken topped with our homemade ranch dressing</p>
+					<p class="item-description">Lettuce blend, sweet tomatoes, crisp cucumbers, applewood smoked bacon, toasted croutons, ripe avacado and sliced fresh grilled chicken, topped with our homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Wedge Salad</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Iceberg lettuce, crispy bacon, tomato, aged blue cheese crumbles topped with chunky blue cheese dressing</p>
+					<p class="item-description">Iceberg lettuce, crispy bacon, tomato and aged blue cheese crumbles, topped with chunky blue cheese dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">House/Caesar Side Salad</h3>
@@ -227,24 +227,23 @@
 				<div class="menu-item">
 					<h3 class="item-name">Caesar Salad</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Crispy chopped romaine, grated parmesan cheese, toasted croutons, topped with fresh grilled chicken breast <br>
-					- Add Shrimp + <strong>$2.00</strong></p>
+					<p class="item-description">Crispy chopped romaine, grated parmesan cheese and toasted croutons, topped with fresh grilled chicken breast. <br>
+					- Add Shrimp +<strong>$2.00</strong></p>
 				</div>
 				<div class="menu-item-picture">
-					<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
+					<img src="/img/menu/opt/club-salad.jpg" alt="Grilled Chicken Club Salad" title="Grilled Chicken Club Salad">
 				</div>
 			</div>
 		</div>
 	</section>
 
 	<!-- Burgers -->
-	<section id="burgers" style="margin-top: 20px;">
+	<section id="burgers" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="burgers"></a>
 				<p data-magellan-destination="burgers">Burgers</p>
 				<h2>Home Plate Sliders</h2>
-				<p class="menu-category-extra">-Served with Crispy Pub Fries-</p>
 			</div>
 		</div>
 		<div class="row item-row">
@@ -252,7 +251,7 @@
 				<div class="menu-item">
 					<h3 class="item-name">Deck Melt</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef patty, grilled to perfection. Topped with Texas sweet onions and Swiss cheese on a rye bread bun. Served with French fries.</p>
+					<p class="item-description">8oz Certified Angus Beef patty grilled to perfection. Topped with Texas sweet onions and Swiss cheese on a rye bread bun. Served with French fries.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Deck Sliders</h3>
@@ -269,7 +268,7 @@
 				<div class="menu-item">
 					<h3 class="item-name">H-Town Classic</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">8oz Certified Angus Beef Patty grilled to perfection. Topped with crisp lettuce, fresh tomatoes, Texas sweet onions, tangy dill pickle slices and American cheese, on a freshly toasted bun. Served with crispy French fries.</p>
+					<p class="item-description">8oz Certified Angus Beef Patty grilled to perfection. Topped with crisp lettuce, fresh tomatoes, Texas sweet onions, tangy dill pickle slices and American cheese on a freshly toasted bun. Served with crispy French fries.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -283,9 +282,9 @@
 	</section>
 
 	<!-- Entrees "Owner's Box" -->
-	<section id="entrees" style="margin-top: 20px;">
+	<section id="entrees" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="entrees"></a>
 				<p data-magellan-destination="entrees">Entrees</p>
 				<h2>Owner's Box</h2>
@@ -296,59 +295,59 @@
 				<div class="menu-item">
 					<h3 class="item-name">Prime Chops</h3>
 					<p class="item-price"><strong>$12.99</strong></p>
-					<p class="item-description">Two 6oz prime pork chops grilled or fried to your liking. Served with mashed red potatoes and sautéed garlic mixed vegetables</p>
+					<p class="item-description">Two 6oz prime pork chops grilled or fried to your liking. Served with mashed red potatoes and sautéed garlic mixed vegetables.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Cajun Fried Red Fish</h3>
 					<p class="item-price"><strong>$12.99</strong></p>
-					<p class="item-description">8oz fresh red fish filet fried in our Signature “Deck” Batter. Served alongside a pile of fresh crispy French Fries</p>
+					<p class="item-description">8oz fresh red fish filet fried in our Signature “Deck” Batter. Served alongside a pile of fresh crispy French Fries.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Famous Queso Pasta</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Our Signature spicy cheese sauce blend poured over fresh penne pasta, topped with 8oz of zesty blackened chicken breast. Served with crunchy garlic toast</p>
+					<p class="item-description">Our Signature spicy cheese sauce blend poured over fresh penne pasta and topped with 8oz of zesty blackened chicken breast. Served with crunchy garlic toast.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Steak Fingers</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Eight hand battered angus beef fingers fried to a golden brown. served over fried onion rings and fresh crispy French fries with a side of homemade peppered gravy</p>
+					<p class="item-description">Eight hand battered angus beef fingers fried to a golden brown and served over fried onion rings with fresh crispy French fries. Paired with a homemade peppered gravy.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Chicken Dinner</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">8oz all natural chicken breast grilled or blackened. Served with creamy redskin mashed potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast</p>
+					<p class="item-description">8oz all natural chicken breast, prepared grilled or blackened. Served with creamy redskin mashed potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast.</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="menu-item">
 					<h3 class="item-name">Chicken Alfredo</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">8oz of fresh grilled chicken breast piled over fresh fettuccine pasta, topped with creamy, rich, homemade alfredosauce <br>
-					- Substitute Shrimp + <strong>$3.00</strong></p>
+					<p class="item-description">8oz of fresh grilled chicken breast, piled over fresh fettuccine pasta and topped with creamy homemade alfredo sauce.<br>
+					- Substitute Shrimp +<strong>$3.00</strong></p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Fried Chicken Tenderloins</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Fresh chicken breast tenders, rolled in a homestyle breading fried to a golden brown. Served with fresh crispy French fries and honey mustard</p>
+					<p class="item-description">Fresh chicken breast tenders, rolled in a homestyle breading and fried to a golden brown. Served with fresh crispy French fries and honey mustard.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">The Country Fried Legend</h3>
 					<p class="item-price"><strong>$11.99</strong></p>
-					<p class="item-description">9oz of fresh angus beef breaded and fried to a golden brown, topped with creamy peppered gravy. Served with mashed red potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast</p>
+					<p class="item-description">9oz of fresh angus beef, breaded and fried to a golden brown and topped with creamy peppered gravy. Served with mashed red potatoes, fresh sautéed mixed vegetables and a crunchy slice of garlic toast.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Fried Shrimp</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Eight fresh gulf shrimp, butterflied and hand battered then fried to a golden brown. Served with fresh crispy French fries, cocktail and tartar sauce</p>
+					<p class="item-description">Eight fresh gulf shrimp, butterflied, hand battered and then fried to a golden brown. Served with fresh crispy French fries, cocktail and tartar sauce.</p>
 				</div>
 			</div>
 		</div>
 	</section>
 
 	<!-- Sandwiches "Signature Sandwiches & Hot Dogs" -->
-	<section id="sandwiches" style="margin-top: 20px;">
+	<section id="sandwiches" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="sandwiches"></a>
 				<p data-magellan-destination="sandwiches">Sandwiches</p>
 				<h2>Signature Sandwiches &amp; Hot Dogs</h2>
@@ -359,12 +358,12 @@
 				<div class="menu-item">
 					<h3 class="item-name">Philly Cheesesteak</h3>
 					<p class="item-price"><strong>$11.99</strong></p>
-					<p class="item-description">Topped with sautéed mushrooms, bell pepper, grilled onions and melted mozzarella cheese. Served with French fries.</p>
+					<p class="item-description">Topped with sautéed mushrooms, bell peppers, grilled onions and melted mozzarella cheese. Served with French fries.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Deck Dog</h3>
 					<p class="item-price"><strong>$11.99</strong></p>
-					<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll, topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
+					<p class="item-description">This is no ordinary dog! We start with a half pound all-beef angus frank and grill it over an open flame. Served in a fresh Philadelphia style hoagie roll and topped with homemade hot dog chili, cheddar cheese and fresh diced onions. Served with fresh crispy French fries.</p>
 				</div>
 			</div>
 			<div class="medium-6 columns">
@@ -384,35 +383,25 @@
 	</section>
 
 	<!-- Sides -->
-	<section id="sides" style="margin-top: 20px;">
+	<section id="sides-section" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
-				<h2>Sides</h2>
-				<p class="menu-category-extra">$1.99</p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="small-12 columns item-row text-center">
-				<ul class="inline-list">
-					<li>French Fries</li>
-					<li>Onion Rings</li>
-					<li>Grilled Vegetables</li>
-					<li>Mashed Potatoes</li>
-				</ul>
+			<div class="columns item-row text-center">
+				<div class="menu-item">
+					<h3 class="item-name">Sides</h3>
+					<p class="item-description"><strong>$1.99</strong> French Fries | Onion Rings | Grilled Vegetables | Mashed Potatoes</p>
+				</div>
 			</div>
 		</div>
 	</section>
 
-	<section id="specials-pics" style="margin-top: 20px;">
-		<div class="row">
-			<div class="medium-5 columns push-1">
-				<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
-			</div>
-			<div class="medium-5 columns pull-1">
-				<img src="/img/menu/drinks.jpg" alt="Drink Specials">
-			</div>
+	<div class="row" style="margin-bottom: 40px;">
+		<div class="menu-item-picture medium-5 columns push-1">
+			<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
 		</div>
-	</section>
+		<div class="menu-item-picture medium-5 columns pull-1">
+			<img src="/img/menu/drinks.jpg" alt="Drink Specials">
+		</div>
+	</div>
 
 </main>
 <footer>
