@@ -72,7 +72,7 @@
 	<!-- Appetizers "Starting Line Up" -->
 	<section class="menu-category" id="appetizers" style="margin-top: 20px;margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="columns menu-category-title magellan-destination-heading">
 				<a name="appetizers"></a>
 				<p data-magellan-destination="appetizers">Appetizers</p>
 				<h2>Starting Line Up</h2>
@@ -200,7 +200,7 @@
 	<!-- Salads "The Greens" -->
 	<section id="salads" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="salads"></a>
 				<p data-magellan-destination="salads">Salads</p>
 				<h2>The Greens</h2>
@@ -240,7 +240,7 @@
 	<!-- Burgers -->
 	<section id="burgers" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="burgers"></a>
 				<p data-magellan-destination="burgers">Burgers</p>
 				<h2>Home Plate Sliders</h2>
@@ -284,7 +284,7 @@
 	<!-- Entrees "Owner's Box" -->
 	<section id="entrees" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="entrees"></a>
 				<p data-magellan-destination="entrees">Entrees</p>
 				<h2>Owner's Box</h2>
@@ -347,7 +347,7 @@
 	<!-- Sandwiches "Signature Sandwiches & Hot Dogs" -->
 	<section id="sandwiches" style="margin-bottom: 40px;">
 		<div class="row">
-			<div class="small-12 columns menu-category-title">
+			<div class="small-12 columns menu-category-title magellan-destination-heading">
 				<a name="sandwiches"></a>
 				<p data-magellan-destination="sandwiches">Sandwiches</p>
 				<h2>Signature Sandwiches &amp; Hot Dogs</h2>
