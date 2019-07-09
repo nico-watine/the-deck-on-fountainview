@@ -113,7 +113,6 @@ section#appetizers {
 		font-size: 24px;
 	}
 
-	margin-top: 20px;
 	border-top: 3px solid #5ebddf;
 	border-bottom: 3px solid #5ebddf;
 	background-image: url('/img/menu/crawfish-m.jpg');
@@ -121,14 +120,6 @@ section#appetizers {
 
 	@media #{$large} {
 		background-image: url('/img/menu/crawfish-l.jpg');
-	}
-}
-
-section#specials-pics {
-	margin-bottom: 50px;
-
-	img {
-		border: 5px solid #eee;
 	}
 }
 

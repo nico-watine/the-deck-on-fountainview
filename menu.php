@@ -70,7 +70,7 @@
 	</section>
 
 	<!-- Appetizers "Starting Line Up" -->
-	<section class="menu-category" id="appetizers" style="margin-top: 20px;">
+	<section class="menu-category" id="appetizers" style="margin-top: 20px;margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="appetizers"></a>
@@ -187,7 +187,7 @@
 	</section>
 
 	<!-- Crawfish -->
-	<section class="crawfish-banner text-center" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
+	<section style="margin-bottom: 40px;" class="crawfish-banner text-center" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 		<div class="row">
 			<div class="columns">
 				<h1 class="h1">Crawfish</h1>
@@ -198,7 +198,7 @@
 	</section>
 
 	<!-- Salads "The Greens" -->
-	<section id="salads" style="margin-top: 20px;">
+	<section id="salads" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="salads"></a>
@@ -238,7 +238,7 @@
 	</section>
 
 	<!-- Burgers -->
-	<section id="burgers" style="margin-top: 20px;">
+	<section id="burgers" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="burgers"></a>
@@ -282,7 +282,7 @@
 	</section>
 
 	<!-- Entrees "Owner's Box" -->
-	<section id="entrees" style="margin-top: 20px;">
+	<section id="entrees" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="entrees"></a>
@@ -345,7 +345,7 @@
 	</section>
 
 	<!-- Sandwiches "Signature Sandwiches & Hot Dogs" -->
-	<section id="sandwiches" style="margin-top: 20px;">
+	<section id="sandwiches" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="small-12 columns menu-category-title">
 				<a name="sandwiches"></a>
@@ -383,7 +383,7 @@
 	</section>
 
 	<!-- Sides -->
-	<section id="sides-section" style="margin-top: 20px;">
+	<section id="sides-section" style="margin-bottom: 40px;">
 		<div class="row">
 			<div class="columns item-row text-center">
 				<div class="menu-item">
@@ -394,16 +394,14 @@
 		</div>
 	</section>
 
-	<section id="specials-pics" style="margin-top: 20px;">
-		<div class="row">
-			<div class="medium-5 columns push-1">
-				<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
-			</div>
-			<div class="medium-5 columns pull-1">
-				<img src="/img/menu/drinks.jpg" alt="Drink Specials">
-			</div>
+	<div class="row" style="margin-bottom: 40px;">
+		<div class="menu-item-picture medium-5 columns push-1">
+			<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
 		</div>
-	</section>
+		<div class="menu-item-picture medium-5 columns pull-1">
+			<img src="/img/menu/drinks.jpg" alt="Drink Specials">
+		</div>
+	</div>
 
 </main>
 <footer>
