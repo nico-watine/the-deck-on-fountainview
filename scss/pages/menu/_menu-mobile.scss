@@ -1,17 +1,14 @@
 #menu-accordion {
-	// max-width: 480px;
-	// margin: 0 auto;
-
 	.section-title-m {
-			color: #222;
-			font-family: 'Roboto Slab', serif;
-			font-size: 28px;
-			line-height: 50px;
-			text-shadow: 2px 2px 0px #fff;
-			text-align: center;
-			padding-top: 15px;
-			margin-top: 0;
-			border-bottom: 3px solid #5EBDDF;
+		color: #222;
+		font-family: 'Roboto Slab', serif;
+		font-size: 28px;
+		line-height: 50px;
+		text-shadow: 2px 2px 0 #fff;
+		text-align: center;
+		padding-top: 15px;
+		margin-top: 0;
+		border-bottom: 3px solid #5ebddf;
 	}
 }
 
@@ -21,7 +18,7 @@
 
 	h5 {
 		color: #222;
-		text-shadow: 2px 2px 0px #fff;
+		text-shadow: 2px 2px 0 #fff;
 	}
 }
 
@@ -40,9 +37,9 @@ li#sides-label {
 
 		li {
 			font-weight: 700;
-			text-shadow: 1px .5px 0px #111;
+			text-shadow: 1px .5px 0 #111;
 			font-size: 20px;
-			color: #5EBDDF;
+			color: #5ebddf;
 
 			span {
 				font-weight: 400;
