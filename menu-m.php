@@ -362,7 +362,7 @@
 										French Fries <br>
 										Onion Rings <br>
 										Grilled Vegetables <br>
-										Mash Potatoes</p>
+										Mashed Potatoes</p>
 								</div>
 							</div>
 						</div>
