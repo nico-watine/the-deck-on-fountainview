@@ -387,8 +387,8 @@
 		<div class="row">
 			<div class="columns item-row text-center">
 				<div class="menu-item" style="display: inline-block;">
-					<h3 style="float: left; padding-right: 24px; margin: 0; line-height: 40px;" class="float-left item-name">Sides</h3>
-					<p style="display: inline-block; margin: 0; line-height: 40px;" class="display-inline-block item-description"><strong style="padding-right: 40px;">$1.99</strong> French Fries | Onion Rings | Grilled Vegetables | Mashed Potatoes</p>
+					<h3 style="float: left; padding-right: 24px; margin: 0; line-height: 40px;" class="item-name">Sides</h3>
+					<p style="display: inline-block; margin: 0; line-height: 40px;" class="item-description"><strong style="padding-right: 40px;">$1.99</strong> French Fries | Onion Rings | Grilled Vegetables | Mashed Potatoes</p>
 				</div>
 			</div>
 		</div>
