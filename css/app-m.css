@@ -2632,24 +2632,6 @@ header {
         header section#main-header .row nav ul li#last {
           margin-right: 0; }
 
-#menu-accordion .section-title-m {
-  color: #222;
-  font-family: 'Roboto Slab', serif;
-  font-size: 28px;
-  line-height: 50px;
-  text-shadow: 2px 2px 0 #fff;
-  text-align: center;
-  padding-top: 15px;
-  margin-top: 0;
-  border-bottom: 3px solid #5ebddf; }
-
-.section-detail-m {
-  text-align: center;
-  margin-bottom: 10px; }
-  .section-detail-m h5 {
-    color: #222;
-    text-shadow: 2px 2px 0 #fff; }
-
 footer#mobile-menu-footer {
   margin-top: 23px; }
 

@@ -223,8 +223,9 @@
 					<div id="burgers" class="content">
 					<section id="burgers">
 						<div class="row">
-							<div class="columns section-detail-m">
-								<h5>-Served with Crispy Pub Fries-</h5>
+							<div class="columns text-center">
+								<h5 class="h5" style="color: #222; margin: 0;">- Served with Crispy Pub Fries -</h5>
+								<br>
 							</div>
 						</div>
 						<div class="row">
