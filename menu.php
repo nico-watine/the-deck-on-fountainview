@@ -211,12 +211,12 @@
 				<div class="menu-item">
 					<h3 class="item-name">Grilled Chicken Club Salad</h3>
 					<p class="item-price"><strong>$10.99</strong></p>
-					<p class="item-description">Lettuce blend, sweet tomatoes, crisp cucumbers, applewood smoked bacon, toasted croutons, ripe avacado, sliced fresh grilled chicken topped with our homemade ranch dressing</p>
+					<p class="item-description">Lettuce blend, sweet tomatoes, crisp cucumbers, applewood smoked bacon, toasted croutons, ripe avacado and sliced fresh grilled chicken, topped with our homemade ranch dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">Wedge Salad</h3>
 					<p class="item-price"><strong>$7.99</strong></p>
-					<p class="item-description">Iceberg lettuce, crispy bacon, tomato, aged blue cheese crumbles topped with chunky blue cheese dressing</p>
+					<p class="item-description">Iceberg lettuce, crispy bacon, tomato and aged blue cheese crumbles, topped with chunky blue cheese dressing.</p>
 				</div>
 				<div class="menu-item">
 					<h3 class="item-name">House/Caesar Side Salad</h3>
@@ -227,11 +227,11 @@
 				<div class="menu-item">
 					<h3 class="item-name">Caesar Salad</h3>
 					<p class="item-price"><strong>$9.99</strong></p>
-					<p class="item-description">Crispy chopped romaine, grated parmesan cheese, toasted croutons, topped with fresh grilled chicken breast <br>
+					<p class="item-description">Crispy chopped romaine, grated parmesan cheese and toasted croutons, topped with fresh grilled chicken breast. <br>
 					- Add Shrimp +<strong>$2.00</strong></p>
 				</div>
 				<div class="menu-item-picture">
-					<img src="https://placehold.it/1000x665?text=Salad+Photo+Here" alt="">
+					<img src="/img/menu/opt/club-salad.jpg" alt="Grilled Chicken Club Salad" title="Grilled Chicken Club Salad">
 				</div>
 			</div>
 		</div>
