@@ -7117,13 +7117,13 @@ section#contact-info {
 .menu-item-picture {
   margin-bottom: 26px; }
   .menu-item-picture img {
-    border: 3px solid #5EBDDF; }
+    border: 5px solid #5ebddf; }
 
 .menu-item .item-name {
   font-weight: bold;
   font-size: 24px;
-  color: #5EBDDF;
-  text-shadow: 1px 0.5px 0 #111;
+  color: #5ebddf;
+  text-shadow: 1px .5px 0 #111;
   margin-bottom: 0; }
 
 .menu-item .item-price {

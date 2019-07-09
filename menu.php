@@ -383,7 +383,7 @@
 	</section>
 
 	<!-- Sides -->
-	<section id="sides-section" style="margin-top: 20px;">
+	<section id="sides-section" style="margin-top: 20px; margin-bottom: 40px;">
 		<div class="row">
 			<div class="columns item-row text-center">
 				<div class="menu-item">
@@ -394,16 +394,14 @@
 		</div>
 	</section>
 
-	<section id="specials-pics" style="margin-top: 20px;">
-		<div class="row">
-			<div class="medium-5 columns push-1">
-				<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
-			</div>
-			<div class="medium-5 columns pull-1">
-				<img src="/img/menu/drinks.jpg" alt="Drink Specials">
-			</div>
+	<div class="row" style="margin-bottom: 40px;">
+		<div class="menu-item-picture medium-5 columns push-1">
+			<img src="/img/menu/steaks.jpg" alt="Monday Night Steaks">
 		</div>
-	</section>
+		<div class="menu-item-picture medium-5 columns pull-1">
+			<img src="/img/menu/drinks.jpg" alt="Drink Specials">
+		</div>
+	</div>
 
 </main>
 <footer>
