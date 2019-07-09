@@ -4694,16 +4694,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/css/app-m.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/css/app-m-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"/css/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5644,19 +5634,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/app-m.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/app-m.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/app.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5861,19 +5838,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_menu-m.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/pages/menu/_menu-mobile.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/pages/css/_menu-mobile.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
