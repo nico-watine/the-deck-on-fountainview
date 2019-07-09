@@ -469,7 +469,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/foundation/js/foundation/foundation.magellan.js",
 		"oF": 0,
 		"sC": 0,
@@ -6428,6 +6428,12 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/jrespond/js/jRespond.min.js",
 			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/foundation/js/foundation/foundation.magellan.js",
+			"position": 2,
 			"type": 0
 			}
 		]
