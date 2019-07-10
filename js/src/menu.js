@@ -1,6 +1,5 @@
 // IMPORTS
 
-// @codekit-prepend "../../bower_components/jrespond/js/jRespond.min.js";
 // @codekit-prepend "../../bower_components/foundation/js/foundation/foundation.magellan.js";
 // @codekit-prepend "../../bower_components/skrollr/dist/skrollr.min.js";
 
@@ -13,21 +12,6 @@ if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAg
 		smoothScrolling: true
 	});
 }
-
-var jRes = jRespond([
-	{
-		label: 'small',
-		enter: 1,
-		exit: 640
-	}
-]);
-
-jRes.addFunc({
-	breakpoint: 'small',
-	enter: function() {
-		window.location="/menu-m";
-	}
-});
 
 // INITIALIZE FOUNDATION SCRIPTS (INCLUDES EDITS FOR MAGELLAN ON MENU PAGE) ::
 $(document).foundation({

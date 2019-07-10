@@ -13,7 +13,16 @@
 	<link href="/humans.txt" rel="author">
 
 	<link href="<?php autoVer('/css/menu.css'); ?>" rel="stylesheet">
-
+	<script>
+		function foodMenuRedirect(pageWidth) {
+			if (pageWidth.matches) {
+				window.location="/menu";
+			}
+		}
+		var pageWidth = window.matchMedia("(min-width: 641px)")
+		foodMenuRedirect(pageWidth)
+		pageWidth.addListener(foodMenuRedirect)
+	</script>
 </head>
 
 <body class="menu-m" id="menu-m">
