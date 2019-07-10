@@ -15,13 +15,13 @@
 	<link href="<?php autoVer('/css/menu.css'); ?>" rel="stylesheet">
 	<script>
 		function foodMenuRedirect(pageWidth) {
-			if (pageWidth.matches) { // If media query matches
+			if (pageWidth.matches) {
 				window.location="/menu-m";
 			}
 		}
 		var pageWidth = window.matchMedia("(max-width: 640px)")
-		foodMenuRedirect(pageWidth) // Call listener function at run time
-		pageWidth.addListener(foodMenuRedirect) // Attach listener function on state changes
+		foodMenuRedirect(pageWidth)
+		pageWidth.addListener(foodMenuRedirect)
 	</script>
 </head>
 
