@@ -13,7 +13,21 @@
 	<link href="/humans.txt" rel="author">
 
 	<link href="<?php autoVer('/css/menu.css'); ?>" rel="stylesheet">
+<script>
+function foodMenuRedirect(x) {
+  if (x.matches) { // If media query matches
+    // document.body.style.backgroundColor = "yellow";
+    window.location="/menu-m";
+  } else {
+    // document.body.style.backgroundColor = "pink";
+    // window.location="/menu-m";
+  }
+}
 
+var x = window.matchMedia("(max-width: 640px)")
+foodMenuRedirect(x) // Call listener function at run time
+x.addListener(foodMenuRedirect) // Attach listener function on state changes
+</script>
 </head>
 
 <body>
