@@ -14,20 +14,20 @@ if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAg
 	});
 }
 
-var jRes = jRespond([
-	{
-		label: 'small',
-		enter: 1,
-		exit: 640
-	}
-]);
+// var jRes = jRespond([
+// 	{
+// 		label: 'small',
+// 		enter: 1,
+// 		exit: 640
+// 	}
+// ]);
 
-jRes.addFunc({
-	breakpoint: 'small',
-	enter: function() {
-		window.location="/menu-m";
-	}
-});
+// jRes.addFunc({
+// 	breakpoint: 'small',
+// 	enter: function() {
+// 		window.location="/menu-m";
+// 	}
+// });
 
 // INITIALIZE FOUNDATION SCRIPTS (INCLUDES EDITS FOR MAGELLAN ON MENU PAGE) ::
 $(document).foundation({
