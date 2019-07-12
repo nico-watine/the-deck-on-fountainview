@@ -13,7 +13,16 @@
 	<link href="/humans.txt" rel="author">
 
 	<link href="<?php autoVer('/css/menu.css'); ?>" rel="stylesheet">
-
+	<script>
+		function foodMenuRedirect(pageWidth) {
+			if (pageWidth.matches) {
+				window.location="/menu-m";
+			}
+		}
+		var pageWidth = window.matchMedia("(max-width: 640px)")
+		foodMenuRedirect(pageWidth)
+		pageWidth.addListener(foodMenuRedirect)
+	</script>
 </head>
 
 <body>
@@ -424,7 +433,14 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-1-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
-<script src="<?php autoVer('/js/menu-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/magellan-min.js'); ?>"></script>
+
+<script>
+	if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera)){
+		document.write('<script type="text/javascript" src="/js/parallax-min.js"><\/script>');
+	}
+</script>
+
 <script>
 	window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
 	ga('create','UA-85408517-5','auto');ga('send','pageview')
