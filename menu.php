@@ -433,7 +433,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-1-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/foundation-min.js'); ?>"></script>
-<script src="<?php autoVer('/js/menu-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/magellan-min.js'); ?>"></script>
 
 <script>
 	if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera)){

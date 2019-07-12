@@ -5924,6 +5924,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/js/src/magellan.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/magellan-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/js/src/menu-m.js": {
 		"bF": 0,
 		"ft": 64,
@@ -5931,17 +5942,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/menu-m-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"/js/src/menu.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/menu-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
