@@ -1,10 +1,5 @@
-// IMPORTS
-
 // @codekit-prepend "../../bower_components/foundation/js/foundation/foundation.magellan.js";
 
-// -----------------------------------
-
-// INITIALIZE FOUNDATION SCRIPTS (INCLUDES EDITS FOR MAGELLAN ON MENU PAGE) ::
 $(document).foundation({
 	"magellan-expedition": {
 		active_class: 'active', // specify the class used for active sections
