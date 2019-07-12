@@ -5114,7 +5114,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/slick.js/slick/slick.min.js",
 		"oF": 0,
 		"sC": 0,
