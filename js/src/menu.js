@@ -1,17 +1,8 @@
 // IMPORTS
 
 // @codekit-prepend "../../bower_components/foundation/js/foundation/foundation.magellan.js";
-// @codekit-prepend "../../bower_components/skrollr/dist/skrollr.min.js";
 
 // -----------------------------------
-
-
-if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera)){
-	skrollr.init({
-		forceHeight: false,
-		smoothScrolling: true
-	});
-}
 
 // INITIALIZE FOUNDATION SCRIPTS (INCLUDES EDITS FOR MAGELLAN ON MENU PAGE) ::
 $(document).foundation({
