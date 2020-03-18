@@ -12,8 +12,8 @@
 	<link href="https://thedeckonfountainview.com/" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-	<!-- <link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet"> -->
-	<link href="<?php autoVer('/css/opt/app.css'); ?>" rel="stylesheet">
+	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+	<!-- <link href="<?php autoVer('/css/opt/app.css'); ?>" rel="stylesheet"> -->
 
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
