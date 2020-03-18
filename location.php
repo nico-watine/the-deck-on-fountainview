@@ -127,17 +127,11 @@
 			<div class="medium-7 columns">
 				<ul class="social-icons">
 					<li><a href="https://twitter.com/thedeckonfvbar" target="_blank"><img src="/img/footer/sharing/twitter.png" alt="Twitter"></a></li>
-					<li><a href="https://www.facebook.com/pages/The-Deck-on-Fountain-View/202592176425413" target="_blank"><img src="/img/footer/sharing/facebook.png" alt="Facebook"></a></li>
-					<li><a href="https://plus.google.com/102338744518122429425/posts" target="_blank"><img src="/img/footer/sharing/google.png" alt="Google+"></a></li>
+					<li><a href="https://www.facebook.com/TheDeckOnFountainviewSportsBarAndGrill/" target="_blank"><img src="/img/footer/sharing/facebook.png" alt="Facebook"></a></li>
 					<li><a href="http://www.yelp.com/biz/the-deck-on-fountainview-houston" target="_blank"><img src="/img/footer/sharing/yelp.png" alt="Yelp"></a></li>
 					<li><a href="https://foursquare.com/v/the-deck-on-fountainview-houston-tx/4d799f97b39b2c0f8f9ae690" target="_blank"><img src="/img/footer/sharing/foursquare.png" alt="FourSquare"></a></li>
 					<li class="last"><a href="http://instagram.com/thedeckonfountainview" target="_blank"><img src="/img/footer/sharing/instagram.png" alt="Instagram"></a></li>
 				</ul>
-			</div>
-			<div class="medium-5 columns">
-				<p class="credit">
-					<a href="https://studioncreations.com">A <span>STUDIO N</span> CREATION</a>
-				</p>
 			</div>
 		</div>
 	</section>
