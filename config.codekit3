@@ -109,9 +109,9 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/.yarnclean",
-      "oF" : 0
+      "oF" : 1
     },
     "\/apple-touch-icon-72x72-precomposed.png" : {
       "ft" : 32768,
